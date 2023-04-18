@@ -1,0 +1,1058 @@
+{
+  "182630728365821952": {
+    "startTime": "2022-09-23 20:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 135298728380649470,
+      "participantName": "John De Jesus",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1985591.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "John De Jesus",
+          "outcomeId": "182630728411279872",
+          "offerId": "182673724496318464",
+          "odds": 1.52,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182630728365821952",
+          "bettingTypeId": 466,
+          "participantReference": 135298728380649470
+        },
+        {
+          "selection": "Brandon Laroco",
+          "outcomeId": "182630728411279616",
+          "offerId": "182673724496318720",
+          "odds": 2.6,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182630728365821952",
+          "bettingTypeId": 466,
+          "participantReference": 102980814671859710
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 102980814671859710,
+      "participantName": "Brandon Laroco",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2e574956b8fe0dbbe08c6b1926eb45cd.png"
+    }
+  },
+  "181109710506741760": {
+    "startTime": "2022-10-01 20:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 139022847742889980,
+      "participantName": "Silva Joaquim",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/88dffd090cddf7aee83758db2c594e4a.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Jesse Ronson",
+          "outcomeId": "181109710562381824",
+          "offerId": "181233788944163072",
+          "odds": 2.4,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181109710506741760",
+          "bettingTypeId": 466,
+          "participantReference": 167370230071349250
+        },
+        {
+          "selection": "Silva Joaquim",
+          "outcomeId": "181109710562382336",
+          "offerId": "181233788944162816",
+          "odds": 1.58,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181109710506741760",
+          "bettingTypeId": 466,
+          "participantReference": 139022847742889980
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 167370230071349250,
+      "participantName": "Jesse Ronson",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2134831.png"
+    }
+  },
+  "181129258018590720": {
+    "startTime": "2022-10-01 20:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 133149089121488900,
+      "participantName": "Jessica Penne",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4dfc89f21b758e78375103764648fd51.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Jessica Penne",
+          "outcomeId": "181129258079416320",
+          "offerId": "181233859013157120",
+          "odds": 2.7,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181129258018590720",
+          "bettingTypeId": 466,
+          "participantReference": 133149089121488900
+        },
+        {
+          "selection": "Tabatha Ricci",
+          "outcomeId": "181129258079416576",
+          "offerId": "181233859013156864",
+          "odds": 1.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181129258018590720",
+          "bettingTypeId": 466,
+          "participantReference": 139641148361723900
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 139641148361723900,
+      "participantName": "Tabatha Ricci",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/42f5fffb67f05e5fa668f012836dbfae.png"
+    }
+  },
+  "181244533028212736": {
+    "startTime": "2022-10-01 20:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 110033269021626370,
+      "participantName": "Maxim Grishin",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/c1c37792b4ebfc982deb4bb6c1aa63e2.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Maxim Grishin",
+          "outcomeId": "181244533092163584",
+          "offerId": "181244533146689536",
+          "odds": 1.62,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181244533028212736",
+          "bettingTypeId": 466,
+          "participantReference": 110033269021626370
+        },
+        {
+          "selection": "Philipe Lins",
+          "outcomeId": "181244533092163840",
+          "offerId": "181244533146689792",
+          "odds": 2.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181244533028212736",
+          "bettingTypeId": 466,
+          "participantReference": 104401592970792960
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 104401592970792960,
+      "participantName": "Philipe Lins",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2132875.png"
+    }
+  },
+  "181311823657619456": {
+    "startTime": "2022-10-01 20:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 98604121477611520,
+      "participantName": "Randy Costa",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2564921.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Guido Cannetti",
+          "outcomeId": "181311823718826240",
+          "offerId": "181311823784484864",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181311823657619456",
+          "bettingTypeId": 466,
+          "participantReference": 3458143164592128
+        },
+        {
+          "selection": "Randy Costa",
+          "outcomeId": "181311823718825984",
+          "offerId": "181311823784485120",
+          "odds": 1.33,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181311823657619456",
+          "bettingTypeId": 466,
+          "participantReference": 98604121477611520
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 3458143164592128,
+      "participantName": "Guido Cannetti",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2133365.png"
+    }
+  },
+  "181601949814149120": {
+    "startTime": "2022-10-01 22:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 141008766929784830,
+      "participantName": "Julija Stoliarenko",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2221767.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chelsea Chandler",
+          "outcomeId": "181601954997669888",
+          "offerId": "181601956486225920",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181601949814149120",
+          "bettingTypeId": 466,
+          "participantReference": 170618083004698620
+        },
+        {
+          "selection": "Julija Stoliarenko",
+          "outcomeId": "181601954997670400",
+          "offerId": "181601956487274496",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181601949814149120",
+          "bettingTypeId": 466,
+          "participantReference": 141008766929784830
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 170618083004698620,
+      "participantName": "Chelsea Chandler",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4d76af89cb592dbd8919c7d9d80e9b95.png"
+    }
+  },
+  "181602798815727616": {
+    "startTime": "2022-10-01 22:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 1469249,
+      "participantName": "Alexey Oleinik",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/25cfcc28294c2c19392082cfcb294a76.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Alexey Oleinik",
+          "outcomeId": "181602798866046976",
+          "offerId": "181602798910087168",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181602798815727616",
+          "bettingTypeId": 466,
+          "participantReference": 1469249
+        },
+        {
+          "selection": "Ilir Latifi",
+          "outcomeId": "181602798866047488",
+          "offerId": "181602798910087424",
+          "odds": 1.57,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181602798815727616",
+          "bettingTypeId": 466,
+          "participantReference": 872841
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 872841,
+      "participantName": "Ilir Latifi",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/62d4947fe9b422384de8066aeadbbf2a.png"
+    }
+  },
+  "181109707566534656": {
+    "startTime": "2022-10-01 23:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 1223038,
+      "participantName": "Cody Garbrandt",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2133783.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Cody Garbrandt",
+          "outcomeId": "181109707620388864",
+          "offerId": "181233788911658240",
+          "odds": 1.45,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181109707566534656",
+          "bettingTypeId": 466,
+          "participantReference": 1223038
+        },
+        {
+          "selection": "Rani Yahya",
+          "outcomeId": "181109707619340288",
+          "offerId": "181233788911657984",
+          "odds": 2.8,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181109707566534656",
+          "bettingTypeId": 466,
+          "participantReference": 81305
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 81305,
+      "participantName": "Rani Yahya",
+      "participantFirstName": "Rani",
+      "participantLastName": "Yahya",
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2134769.png"
+    }
+  },
+  "181109726402105344": {
+    "startTime": "2022-10-01 23:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 1392070,
+      "participantName": "Randy Brown",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2133299.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Francisco Trinaldo",
+          "outcomeId": "181109726449668352",
+          "offerId": "181233788911657728",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181109726402105344",
+          "bettingTypeId": 466,
+          "participantReference": 767565
+        },
+        {
+          "selection": "Randy Brown",
+          "outcomeId": "181109726449668096",
+          "offerId": "181233788911657472",
+          "odds": 1.33,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181109726402105344",
+          "bettingTypeId": 466,
+          "participantReference": 1392070
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 767565,
+      "participantName": "Francisco Trinaldo",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2135545.png"
+    }
+  },
+  "181180859387269120": {
+    "startTime": "2022-10-01 23:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 8906517696258048,
+      "participantName": "Raoni Barcelos",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/eaa1e1da14537e5e91d1506b3c8f478b.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Trevin Jones",
+          "outcomeId": "181180859430208000",
+          "offerId": "181233788912705536",
+          "odds": 2.7,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181180859387269120",
+          "bettingTypeId": 466,
+          "participantReference": 142627445330202620
+        },
+        {
+          "selection": "Raoni Barcelos",
+          "outcomeId": "181180859430207744",
+          "offerId": "181233788912705792",
+          "odds": 1.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181180859387269120",
+          "bettingTypeId": 466,
+          "participantReference": 8906517696258048
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 142627445330202620,
+      "participantName": "Trevin Jones",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/a3fbdea83556880908d3c5878111482a.png"
+    }
+  },
+  "181228846946766848": {
+    "startTime": "2022-10-01 23:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 97080161165377540,
+      "participantName": "Mike Davis",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2630177.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Uros Medic",
+          "outcomeId": "181228847007531008",
+          "offerId": "181233859018400000",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181228846946766848",
+          "bettingTypeId": 466,
+          "participantReference": 147176116494323700
+        },
+        {
+          "selection": "Mike Davis",
+          "outcomeId": "181228847006482688",
+          "offerId": "181233859018399744",
+          "odds": 1.57,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181228846946766848",
+          "bettingTypeId": 466,
+          "participantReference": 97080161165377540
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 147176116494323700,
+      "participantName": "Uros Medic",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8ad7353918763db7eb5d96cef982d9c9.png"
+    }
+  },
+  "181311823533887488": {
+    "startTime": "2022-10-01 23:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 158970077410021380,
+      "participantName": "John Castaneda",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1117533bbd66c1e59463f9f1a3c65560.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "John Castaneda",
+          "outcomeId": "181311823590899968",
+          "offerId": "181311823652364288",
+          "odds": 1.47,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181311823533887488",
+          "bettingTypeId": 466,
+          "participantReference": 158970077410021380
+        },
+        {
+          "selection": "Daniel Santos",
+          "outcomeId": "181311823590899712",
+          "offerId": "181311823652364544",
+          "odds": 2.75,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181311823533887488",
+          "bettingTypeId": 466,
+          "participantReference": 166538364762247170
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 166538364762247170,
+      "participantName": "Daniel Santos",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/aac9e4bf32c7c72e3067f1fd94b95b2f.png"
+    }
+  },
+  "181311823737311232": {
+    "startTime": "2022-10-01 23:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 93711912148140030,
+      "participantName": "Jairzinho Rozenstruik",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/520fa4941a4687a813487d77e7359a2c.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Jairzinho Rozenstruik",
+          "outcomeId": "181311823803760896",
+          "offerId": "181311823864176896",
+          "odds": 1.53,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181311823737311232",
+          "bettingTypeId": 466,
+          "participantReference": 93711912148140030
+        },
+        {
+          "selection": "Chris Daukaus",
+          "outcomeId": "181311823803760640",
+          "offerId": "181311823864176640",
+          "odds": 2.62,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181311823737311232",
+          "bettingTypeId": 466,
+          "participantReference": 113004177590997000
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 113004177590997000,
+      "participantName": "Chris Daukaus",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2309eb1b51d82b9f0344c4d4f4975b00.png"
+    }
+  },
+  "180453468483407872": {
+    "startTime": "2022-10-02 01:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 97079835641249800,
+      "participantName": "Brendan Allen",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8777881660976236d950df1457ec484d.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Brendan Allen",
+          "outcomeId": "180453468528795648",
+          "offerId": "181233788911656960",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180453468483407872",
+          "bettingTypeId": 466,
+          "participantReference": 97079835641249800
+        },
+        {
+          "selection": "Krzysztof Jotko",
+          "outcomeId": "180453468528795904",
+          "offerId": "181233788911657216",
+          "odds": 1.72,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180453468483407872",
+          "bettingTypeId": 466,
+          "participantReference": 878322
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 878322,
+      "participantName": "Krzysztof Jotko",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8b0dc71b05fc7dcf698adb5a39bb2b1c.png"
+    }
+  },
+  "180453478405033984": {
+    "startTime": "2022-10-02 02:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 105031936514347000,
+      "participantName": "Mackenzie Dern ",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/997d0c55cf87ad5236427c27b8b2e349.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Mackenzie Dern",
+          "outcomeId": "180453478456807936",
+          "offerId": "181233859014205440",
+          "odds": 1.45,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180453478405033984",
+          "bettingTypeId": 466,
+          "participantReference": 105031936514347000
+        },
+        {
+          "selection": "Xiaonan Yan",
+          "outcomeId": "180453478456807424",
+          "offerId": "181233859014205696",
+          "odds": 2.8,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180453478405033984",
+          "bettingTypeId": 466,
+          "participantReference": 2852861108580352
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2852861108580352,
+      "participantName": "Xiaonan Yan",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/7fa3c2c758a9b39259610199705edd39.png"
+    }
+  },
+  "177769660973895680": {
+    "startTime": "2022-10-22 22:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 235077855768576,
+      "participantName": "Petr Yan",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2134707.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Sean O&#039;Malley",
+          "outcomeId": "177769661022089216",
+          "offerId": "177769661077651456",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "177769660973895680",
+          "bettingTypeId": 466,
+          "participantReference": 2959561832820736
+        },
+        {
+          "selection": "Petr Yan",
+          "outcomeId": "177769661022089472",
+          "offerId": "177769661078700032",
+          "odds": 1.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "177769660973895680",
+          "bettingTypeId": 466,
+          "participantReference": 235077855768576
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2959561832820736,
+      "participantName": "Sean O'Malley",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/a2ac100c7acba63133a510d54b68238d.png"
+    }
+  },
+  "180497253593567232": {
+    "startTime": "2022-10-22 23:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 165273721758601200,
+      "participantName": "Muhammad Mokaev",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/add32835d2d4c6303d3258adb81c50fa.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Muhammad Mokaev",
+          "outcomeId": "180497253637701632",
+          "offerId": "180497253713092864",
+          "odds": 1.12,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180497253593567232",
+          "bettingTypeId": 466,
+          "participantReference": 165273721758601200
+        },
+        {
+          "selection": "Malcolm Gordon",
+          "outcomeId": "180497253637701888",
+          "offerId": "180497253713092608",
+          "odds": 6.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180497253593567232",
+          "bettingTypeId": 466,
+          "participantReference": 121623558200807420
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 121623558200807420,
+      "participantName": "Malcolm Gordon",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2135337.png"
+    }
+  },
+  "177613180160233472": {
+    "startTime": "2022-10-23 01:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 1463301,
+      "participantName": "Belal Muhammad",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2134501.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Sean Brady",
+          "outcomeId": "177613180197937152",
+          "offerId": "177613180252582144",
+          "odds": 1.72,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "177613180160233472",
+          "bettingTypeId": 466,
+          "participantReference": 97080211016777730
+        },
+        {
+          "selection": "Belal Muhammad",
+          "outcomeId": "177613180197937408",
+          "offerId": "177613180252581888",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "177613180160233472",
+          "bettingTypeId": 466,
+          "participantReference": 1463301
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 97080211016777730,
+      "participantName": "Sean Brady",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/0c2de8c99f29b6afa58dead457a74b13.png"
+    }
+  },
+  "177613178404917248": {
+    "startTime": "2022-10-23 03:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 586140,
+      "participantName": "Charles Oliveira",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/48ba9d59143185edb796e4082dcfa77f.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Islam Makhachev",
+          "outcomeId": "177613178444865792",
+          "offerId": "177613178630435072",
+          "odds": 1.58,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "177613178404917248",
+          "bettingTypeId": 466,
+          "participantReference": 1556696
+        },
+        {
+          "selection": "Charles Oliveira",
+          "outcomeId": "177613178444865536",
+          "offerId": "177613178630434816",
+          "odds": 2.4,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "177613178404917248",
+          "bettingTypeId": 466,
+          "participantReference": 586140
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1556696,
+      "participantName": "Islam Makhachev ",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2134327.png"
+    }
+  },
+  "179985037642485760": {
+    "startTime": "2022-11-13 03:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 97975983674490880,
+      "participantName": "Carla Esparza",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2133371.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Carla Esparza",
+          "outcomeId": "179985037694902272",
+          "offerId": "179985037748379648",
+          "odds": 3.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "179985037642485760",
+          "bettingTypeId": 466,
+          "participantReference": 97975983674490880
+        },
+        {
+          "selection": "Weili Zhang",
+          "outcomeId": "179985037693853696",
+          "offerId": "179985037747331072",
+          "odds": 1.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "179985037642485760",
+          "bettingTypeId": 466,
+          "participantReference": 10185033475952640
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 10185033475952640,
+      "participantName": "Weili Zhang",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/278d17243be3d2a803d44b5daf35844f.png"
+    }
+  },
+  "179230980195799040": {
+    "startTime": "2022-11-13 04:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 821891,
+      "participantName": "Dustin Poirier",
+      "participantFirstName": "Dustin",
+      "participantLastName": "Poirier",
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/417f19fc5edac1d9a9e4c61850b3ad0b.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Dustin Poirier",
+          "outcomeId": "179230980241277184",
+          "offerId": "179878004846010368",
+          "odds": 1.61,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "179230980195799040",
+          "bettingTypeId": 466,
+          "participantReference": 821891
+        },
+        {
+          "selection": "Michael Chandler",
+          "outcomeId": "179230980240228352",
+          "offerId": "179878004846010624",
+          "odds": 2.37,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "179230980195799040",
+          "bettingTypeId": 466,
+          "participantReference": 601028
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 601028,
+      "participantName": "Michael Chandler",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2132861.png"
+    }
+  },
+  "179230977617350656": {
+    "startTime": "2022-11-13 05:00:00.000",
+    "leagueName": "UFC",
+    "Home": {
+      "participantId": 3761907973228544,
+      "participantName": "Adesanya Israel",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2132743.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Adesanya Israel",
+          "outcomeId": "179230977663877632",
+          "offerId": "179230977709572352",
+          "odds": 1.58,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "179230977617350656",
+          "bettingTypeId": 466,
+          "participantReference": 3761907973228544
+        },
+        {
+          "selection": "Alexsandro Pereira",
+          "outcomeId": "179230977663877376",
+          "offerId": "179230977709572096",
+          "odds": 2.4,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "179230977617350656",
+          "bettingTypeId": 466,
+          "participantReference": 152867353934221300
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 152867353934221300,
+      "participantName": "Alexsandro Pereira",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/33e7deeb1484c9e7016f68ef786ceea5.png"
+    }
+  }
+}

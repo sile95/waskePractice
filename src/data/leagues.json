@@ -1,0 +1,439 @@
+{
+  "Football": {
+    "sportId": 5,
+    "sportIcon": "https://dev-api.thelock365.tech/storage/images/assets/football.png",
+    "league": [
+      {
+        "name": "NFL",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/NFL.png",
+        "id": 171359043867168770,
+        "alt_ids": [
+          {
+            "id": 33,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          },
+          {
+            "id": 35,
+            "display_full": "1st Quarter",
+            "display_short": "1Q"
+          },
+          {
+            "id": 36,
+            "display_full": "2nd Quarter",
+            "display_short": "2Q"
+          },
+          {
+            "id": 37,
+            "display_full": "3rd Quarter",
+            "display_short": "3Q"
+          },
+          {
+            "id": 38,
+            "display_full": "4th Quarter",
+            "display_short": "4Q"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st_half",
+          "1st_quarter",
+          "2nd_quarter",
+          "3rd_quarter",
+          "4th_quarter"
+        ]
+      },
+      {
+        "name": "NCAAF",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/NCAAF.png",
+        "id": 178323483818774530,
+        "alt_ids": [
+          {
+            "id": 33,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          },
+          {
+            "id": 35,
+            "display_full": "1st Quarter",
+            "display_short": "1Q"
+          },
+          {
+            "id": 36,
+            "display_full": "2nd Quarter",
+            "display_short": "2Q"
+          },
+          {
+            "id": 37,
+            "display_full": "3rd Quarter",
+            "display_short": "3Q"
+          },
+          {
+            "id": 38,
+            "display_full": "4th Quarter",
+            "display_short": "4Q"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st_half",
+          "1st_quarter",
+          "2nd_quarter",
+          "3rd_quarter",
+          "4th_quarter"
+        ]
+      },
+      {
+        "name": "CFL",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/CFL.png",
+        "id": 168907624618709000,
+        "alt_ids": [
+          {
+            "id": 33,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          },
+          {
+            "id": 35,
+            "display_full": "1st Quarter",
+            "display_short": "1Q"
+          },
+          {
+            "id": 36,
+            "display_full": "2nd Quarter",
+            "display_short": "2Q"
+          },
+          {
+            "id": 37,
+            "display_full": "3rd Quarter",
+            "display_short": "3Q"
+          },
+          {
+            "id": 38,
+            "display_full": "4th Quarter",
+            "display_short": "4Q"
+          }
+        ],
+        "props": []
+      }
+    ]
+  },
+  "Hockey": {
+    "sportId": 6,
+    "sportIcon": "https://dev-api.thelock365.tech/storage/images/assets/hockey.png",
+    "league": [
+      {
+        "name": "NHL",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/NHL.png",
+        "id": 179060452093906940,
+        "alt_ids": [
+          {
+            "id": 43,
+            "display_full": "1st Period",
+            "display_short": "1P"
+          },
+          {
+            "id": 44,
+            "display_full": "2nd Period",
+            "display_short": "2P"
+          },
+          {
+            "id": 45,
+            "display_full": "3rd Period",
+            "display_short": "3P"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st_period",
+          "2nd_period",
+          "3rd_period"
+        ]
+      },
+      {
+        "name": "SHL",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/SHL.png",
+        "id": 180585471761502200,
+        "alt_ids": [
+          {
+            "id": 43,
+            "display_full": "1st Period",
+            "display_short": "1P"
+          },
+          {
+            "id": 44,
+            "display_full": "2nd Period",
+            "display_short": "2P"
+          },
+          {
+            "id": 45,
+            "display_full": "3rd Period",
+            "display_short": "3P"
+          }
+        ],
+        "props": []
+      },
+      {
+        "name": "SM Liga",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/SMLiga.png",
+        "id": 181513771394584580,
+        "alt_ids": [
+          {
+            "id": 43,
+            "display_full": "1st Period",
+            "display_short": "1P"
+          },
+          {
+            "id": 44,
+            "display_full": "2nd Period",
+            "display_short": "2P"
+          },
+          {
+            "id": 45,
+            "display_full": "3rd Period",
+            "display_short": "3P"
+          }
+        ],
+        "props": []
+      },
+      {
+        "name": "NLA",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/NLA.png",
+        "id": 181587843522547700,
+        "alt_ids": [
+          {
+            "id": 43,
+            "display_full": "1st Period",
+            "display_short": "1P"
+          },
+          {
+            "id": 44,
+            "display_full": "2nd Period",
+            "display_short": "2P"
+          },
+          {
+            "id": 45,
+            "display_full": "3rd Period",
+            "display_short": "3P"
+          }
+        ],
+        "props": []
+      }
+    ]
+  },
+  "Basketball": {
+    "sportId": 8,
+    "sportIcon": "https://dev-api.thelock365.tech/storage/images/assets/basketball.png",
+    "league": [
+      {
+        "name": "NBA",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/NBA.png",
+        "id": 174437948421361660,
+        "alt_ids": [
+          {
+            "id": 63,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          },
+          {
+            "id": 65,
+            "display_full": "1st Quarter",
+            "display_short": "1Q"
+          },
+          {
+            "id": 66,
+            "display_full": "2nd Quarter",
+            "display_short": "2Q"
+          },
+          {
+            "id": 67,
+            "display_full": "3rd Quarter",
+            "display_short": "3Q"
+          },
+          {
+            "id": 68,
+            "display_full": "4th Quarter",
+            "display_short": "4Q"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st_half",
+          "1st_quarter",
+          "2nd_quarter",
+          "3rd_quarter",
+          "4th_quarter"
+        ]
+      },
+      {
+        "name": "NCAAB",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/NCAAB.png",
+        "id": 186935385994088450,
+        "alt_ids": [
+          {
+            "id": 63,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st_half"
+        ]
+      },
+      {
+        "name": "EUROLEAGUE",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/EUROLEAGUE.png",
+        "id": 174433271206170620,
+        "alt_ids": [
+          {
+            "id": 63,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          },
+          {
+            "id": 65,
+            "display_full": "1st Quarter",
+            "display_short": "1Q"
+          },
+          {
+            "id": 66,
+            "display_full": "2nd Quarter",
+            "display_short": "2Q"
+          },
+          {
+            "id": 67,
+            "display_full": "3rd Quarter",
+            "display_short": "3Q"
+          },
+          {
+            "id": 68,
+            "display_full": "4th Quarter",
+            "display_short": "4Q"
+          }
+        ],
+        "props": []
+      }
+    ]
+  },
+  "Baseball": {
+    "sportId": 9,
+    "sportIcon": "https://dev-api.thelock365.tech/storage/images/assets/baseball.png",
+    "league": [
+      {
+        "name": "MLB",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/MLB.png",
+        "id": 159876167972737020,
+        "alt_ids": [
+          {
+            "id": 585,
+            "display_full": "1st-3rd Inning",
+            "display_short": "1-3 INN"
+          },
+          {
+            "id": 82,
+            "display_full": "1st-5th Inning",
+            "display_short": "1-5 INN"
+          },
+          {
+            "id": 586,
+            "display_full": "1st-7th Inning",
+            "display_short": "1-7 INN"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st-3rd_inning",
+          "1st-5th_inning",
+          "1st-7th_inning"
+        ]
+      }
+    ]
+  },
+  "Soccer": {
+    "sportId": 1,
+    "sportIcon": "https://dev-api.thelock365.tech/storage/images/assets/soccer.png",
+    "league": [
+      {
+        "name": "MLS",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/MLS.png",
+        "id": 161415240663224320,
+        "alt_ids": [
+          {
+            "id": 5,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st_half"
+        ]
+      },
+      {
+        "name": "EPL",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/EPL.png",
+        "id": 172350176981209100,
+        "alt_ids": [
+          {
+            "id": 5,
+            "display_full": "1st Half",
+            "display_short": "1H"
+          }
+        ],
+        "props": [
+          "game_lines",
+          "game_props",
+          "team_props",
+          "player_props",
+          "1st_half"
+        ]
+      }
+    ]
+  },
+  "Fighting": {
+    "sportId": 25,
+    "sportIcon": "https://dev-api.thelock365.tech/storage/images/assets/fighting.png",
+    "league": [
+      {
+        "name": "UFC",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/UFC.png",
+        "id": 93711161921372160,
+        "alt_ids": [],
+        "props": [
+          "match_props"
+        ]
+      },
+      {
+        "name": "BOXING",
+        "icon": "https://dev-api.thelock365.tech/storage/images/assets/BOXING.png",
+        "id": 127601534290677760,
+        "alt_ids": [],
+        "props": [
+          "match_props"
+        ]
+      }
+    ]
+  }
+}

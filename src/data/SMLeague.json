@@ -1,0 +1,690 @@
+{
+  "181787687641993216": {
+    "startTime": "2022-09-23 15:30:00.000",
+    "leagueName": "SM Liga",
+    "Home": {
+      "participantId": 37727,
+      "participantName": "Mikkelin Jukurit",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8686.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Assat",
+          "outcomeId": "182758506054902528",
+          "offerId": "182770186592530432",
+          "odds": 2.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 466,
+          "participantReference": 1191292
+        },
+        {
+          "selection": "Mikkelin Jukurit",
+          "outcomeId": "182758506054902272",
+          "offerId": "182770186591482624",
+          "odds": 1.65,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 466,
+          "participantReference": 37727
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Assat (-1.5)",
+          "outcomeId": "182758506074827264",
+          "offerId": "182771292958699520",
+          "odds": 4.65,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 48,
+          "participantReference": 1191292
+        },
+        {
+          "selection": "Mikkelin Jukurit (-1.5)",
+          "outcomeId": "182758506074825472",
+          "offerId": "182770186592530688",
+          "odds": 2.8,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 48,
+          "participantReference": 37727
+        },
+        {
+          "selection": "Assat (+1.5)",
+          "outcomeId": "182758506074825984",
+          "offerId": "182770186592530944",
+          "odds": 1.45,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 48,
+          "participantReference": 1191292
+        },
+        {
+          "selection": "Mikkelin Jukurit (+1.5)",
+          "outcomeId": "182758506074827008",
+          "offerId": "182771292959748096",
+          "odds": 1.19,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 48,
+          "participantReference": 37727
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 4.75",
+          "outcomeId": "182770157381576960",
+          "offerId": "182770625902884352",
+          "odds": 1.85,
+          "paramFloat1": 4.75,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 4.75",
+          "outcomeId": "182770157381575424",
+          "offerId": "182770625902883584",
+          "odds": 1.85,
+          "paramFloat1": 4.75,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "181787687641993216",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1191292,
+      "participantName": "Assat",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8648.png"
+    }
+  },
+  "181787687828639744": {
+    "startTime": "2022-09-23 15:30:00.000",
+    "leagueName": "SM Liga",
+    "Home": {
+      "participantId": 37734,
+      "participantName": "KooKoo Kouvola",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/83208513fad8d7fda6a5b2e782e5b152.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "KooKoo Kouvola",
+          "outcomeId": "182758506102088704",
+          "offerId": "182770186592532224",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787687828639744",
+          "bettingTypeId": 466,
+          "participantReference": 37734
+        },
+        {
+          "selection": "TPS Turku",
+          "outcomeId": "182758506102088960",
+          "offerId": "182770186592532736",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787687828639744",
+          "bettingTypeId": 466,
+          "participantReference": 37287
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 4.75",
+          "outcomeId": "182770089072092672",
+          "offerId": "182772411294363648",
+          "odds": 1.9,
+          "paramFloat1": 4.75,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "181787687828639744",
+          "bettingTypeId": 47
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "KooKoo Kouvola (-1.5)",
+          "outcomeId": "182758506105237248",
+          "offerId": "182772557292843008",
+          "odds": 3.75,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687828639744",
+          "bettingTypeId": 48,
+          "participantReference": 37734
+        },
+        {
+          "selection": "TPS Turku (+1.5)",
+          "outcomeId": "182758506106281984",
+          "offerId": "182772557293891840",
+          "odds": 1.27,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687828639744",
+          "bettingTypeId": 48,
+          "participantReference": 37287
+        },
+        {
+          "selection": "TPS Turku (-1.5)",
+          "outcomeId": "182758506106283520",
+          "offerId": "182770186593581056",
+          "odds": 3.5,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687828639744",
+          "bettingTypeId": 48,
+          "participantReference": 37287
+        },
+        {
+          "selection": "KooKoo Kouvola (+1.5)",
+          "outcomeId": "182758506106283264",
+          "offerId": "182770186593579520",
+          "odds": 1.32,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787687828639744",
+          "bettingTypeId": 48,
+          "participantReference": 37734
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37287,
+      "participantName": "TPS Turku",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8666.png"
+    }
+  },
+  "181787688041500672": {
+    "startTime": "2022-09-23 15:30:00.000",
+    "leagueName": "SM Liga",
+    "Home": {
+      "participantId": 37292,
+      "participantName": "Ilves Tampere",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8668.png"
+    },
+    "offers": {
+      "Over_Under": [
+        {
+          "selection": "Under 5",
+          "outcomeId": "182758506033932544",
+          "offerId": "182769596085907712",
+          "odds": 1.85,
+          "paramFloat1": 5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 5",
+          "outcomeId": "182758506034978816",
+          "offerId": "182769596085907456",
+          "odds": 1.85,
+          "paramFloat1": 5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 47
+        }
+      ],
+      "Home_Away": [
+        {
+          "selection": "Ilves Tampere",
+          "outcomeId": "182758506032883456",
+          "offerId": "182769024982137344",
+          "odds": 2.35,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 466,
+          "participantReference": 37292
+        },
+        {
+          "selection": "Tappara Tampere",
+          "outcomeId": "182758506032883712",
+          "offerId": "182769024983183360",
+          "odds": 1.62,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 466,
+          "participantReference": 37289
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Ilves Tampere (-1.5)",
+          "outcomeId": "182758506037078272",
+          "offerId": "182774149497827840",
+          "odds": 4.65,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 48,
+          "participantReference": 37292
+        },
+        {
+          "selection": "Tappara Tampere (-1.5)",
+          "outcomeId": "182758506038125312",
+          "offerId": "182769024982138368",
+          "odds": 2.75,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 48,
+          "participantReference": 37289
+        },
+        {
+          "selection": "Tappara Tampere (+1.5)",
+          "outcomeId": "182758506037078528",
+          "offerId": "182774149497827584",
+          "odds": 1.19,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 48,
+          "participantReference": 37289
+        },
+        {
+          "selection": "Ilves Tampere (+1.5)",
+          "outcomeId": "182758506038125056",
+          "offerId": "182769024982136320",
+          "odds": 1.47,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688041500672",
+          "bettingTypeId": 48,
+          "participantReference": 37292
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37289,
+      "participantName": "Tappara Tampere",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/e5c69792becbbcf222bbef64c0113f42.png"
+    }
+  },
+  "181787688102318080": {
+    "startTime": "2022-09-23 15:30:00.000",
+    "leagueName": "SM Liga",
+    "Home": {
+      "participantId": 37294,
+      "participantName": "SaiPa Lappeenranta",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1f6b98fd26d01379a886c68c72d527bd.png"
+    },
+    "offers": {
+      "Asian_Handicap": [
+        {
+          "selection": "HIFK Helsinki (+1.5)",
+          "outcomeId": "182758505989890048",
+          "offerId": "182777435983524096",
+          "odds": 1.21,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688102318080",
+          "bettingTypeId": 48,
+          "participantReference": 37286
+        },
+        {
+          "selection": "SaiPa Lappeenranta (+1.5)",
+          "outcomeId": "182758505989890816",
+          "offerId": "182775281783746560",
+          "odds": 1.42,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688102318080",
+          "bettingTypeId": 48,
+          "participantReference": 37294
+        },
+        {
+          "selection": "SaiPa Lappeenranta (-1.5)",
+          "outcomeId": "182758505988844800",
+          "offerId": "182777435983525120",
+          "odds": 4.35,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688102318080",
+          "bettingTypeId": 48,
+          "participantReference": 37294
+        },
+        {
+          "selection": "HIFK Helsinki (-1.5)",
+          "outcomeId": "182758505989891072",
+          "offerId": "182775281783747328",
+          "odds": 2.9,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "181787688102318080",
+          "bettingTypeId": 48,
+          "participantReference": 37286
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 4.75",
+          "outcomeId": "182782170906322432",
+          "offerId": "182826979709497600",
+          "odds": 1.9,
+          "paramFloat1": 4.75,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "181787688102318080",
+          "bettingTypeId": 47
+        }
+      ],
+      "Home_Away": [
+        {
+          "selection": "SaiPa Lappeenranta",
+          "outcomeId": "182758505984648192",
+          "offerId": "182775281783747584",
+          "odds": 2.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787688102318080",
+          "bettingTypeId": 466,
+          "participantReference": 37294
+        },
+        {
+          "selection": "HIFK Helsinki",
+          "outcomeId": "182758505984648448",
+          "offerId": "182775281782700544",
+          "odds": 1.7,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "181787688102318080",
+          "bettingTypeId": 466,
+          "participantReference": 37286
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37286,
+      "participantName": "HIFK Helsinki",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8656.png"
+    }
+  },
+  "182179541514506240": {
+    "startTime": "2022-09-23 15:30:00.000",
+    "leagueName": "SM Liga",
+    "Home": {
+      "participantId": 37730,
+      "participantName": "Sport Vaasa",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/9bd46dce684fc3d89ddfd60d271d4960.png"
+    },
+    "offers": {
+      "Asian_Handicap": [
+        {
+          "selection": "KalPa Kuopio (+1.5)",
+          "outcomeId": "182758506012960000",
+          "offerId": "182777687177244672",
+          "odds": 1.21,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182179541514506240",
+          "bettingTypeId": 48,
+          "participantReference": 37725
+        },
+        {
+          "selection": "Sport Vaasa (-1.5)",
+          "outcomeId": "182758506012959744",
+          "offerId": "182777687177245952",
+          "odds": 4.35,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182179541514506240",
+          "bettingTypeId": 48,
+          "participantReference": 37730
+        },
+        {
+          "selection": "Sport Vaasa (+1.5)",
+          "outcomeId": "182758506014007296",
+          "offerId": "182776547757865984",
+          "odds": 1.4,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182179541514506240",
+          "bettingTypeId": 48,
+          "participantReference": 37730
+        },
+        {
+          "selection": "KalPa Kuopio (-1.5)",
+          "outcomeId": "182758506014007552",
+          "offerId": "182776547758912000",
+          "odds": 3,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182179541514506240",
+          "bettingTypeId": 48,
+          "participantReference": 37725
+        }
+      ],
+      "Home_Away": [
+        {
+          "selection": "Sport Vaasa",
+          "outcomeId": "182758506007717632",
+          "offerId": "182776547757864448",
+          "odds": 2.15,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182179541514506240",
+          "bettingTypeId": 466,
+          "participantReference": 37730
+        },
+        {
+          "selection": "KalPa Kuopio",
+          "outcomeId": "182758506007717888",
+          "offerId": "182776547757866240",
+          "odds": 1.72,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182179541514506240",
+          "bettingTypeId": 466,
+          "participantReference": 37725
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 4.5",
+          "outcomeId": "182758506008767232",
+          "offerId": "182777076352365824",
+          "odds": 1.9,
+          "paramFloat1": 4.5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182179541514506240",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37725,
+      "participantName": "KalPa Kuopio",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8650.png"
+    }
+  },
+  "182346486185512960": {
+    "startTime": "2022-09-23 15:30:00.000",
+    "leagueName": "SM Liga",
+    "Home": {
+      "participantId": 37290,
+      "participantName": "Lukko Rauma",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/7b0e83770ed4d3513dd1b83aea116ced.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Lukko Rauma",
+          "outcomeId": "182758506127255040",
+          "offerId": "182775281782697984",
+          "odds": 1.35,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182346486185512960",
+          "bettingTypeId": 466,
+          "participantReference": 37290
+        },
+        {
+          "selection": "Pelicans Lahti",
+          "outcomeId": "182758506127255552",
+          "offerId": "182775281781649408",
+          "odds": 3.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182346486185512960",
+          "bettingTypeId": 466,
+          "participantReference": 37295
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 4.75",
+          "outcomeId": "182776318486720768",
+          "offerId": "182776318543343616",
+          "odds": 1.9,
+          "paramFloat1": 4.75,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182346486185512960",
+          "bettingTypeId": 47
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Lukko Rauma (-1.5)",
+          "outcomeId": "182758506131451136",
+          "offerId": "182775281781652224",
+          "odds": 2,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182346486185512960",
+          "bettingTypeId": 48,
+          "participantReference": 37290
+        },
+        {
+          "selection": "Pelicans Lahti (-1.5)",
+          "outcomeId": "182758506132497408",
+          "offerId": "182784150377412608",
+          "odds": 7.5,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182346486185512960",
+          "bettingTypeId": 48,
+          "participantReference": 37295
+        },
+        {
+          "selection": "Pelicans Lahti (+1.5)",
+          "outcomeId": "182758506131451392",
+          "offerId": "182775281782699008",
+          "odds": 1.8,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182346486185512960",
+          "bettingTypeId": 48,
+          "participantReference": 37295
+        },
+        {
+          "selection": "Lukko Rauma (+1.5)",
+          "outcomeId": "182758506132496896",
+          "offerId": "182784150377411328",
+          "odds": 1.09,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182346486185512960",
+          "bettingTypeId": 48,
+          "participantReference": 37290
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37295,
+      "participantName": "Pelicans Lahti",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/adeea18a332438d2ff98db5f262a62fa.png"
+    }
+  }
+}

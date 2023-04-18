@@ -1,0 +1,1229 @@
+{
+  "181919187307909120": {
+    "startTime": "2022-09-23 02:10:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27349,
+      "participantName": "Los Angeles Dodgers",
+      "participantFirstName": "Los Angeles",
+      "participantLastName": "Dodgers",
+      "participantShortName": "LAD",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2ee19f2cd6f5ec9757f892d49264c031.png",
+      "startingPitcher": "Julio Urias"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Arizona Diamondbacks",
+          "outcomeId": "182676008696442880",
+          "offerId": "182723052802839808",
+          "odds": 2.8,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 466,
+          "participantReference": 27348
+        },
+        {
+          "selection": "Los Angeles Dodgers",
+          "outcomeId": "182676008696443136",
+          "offerId": "182723052802838528",
+          "odds": 1.45,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 466,
+          "participantReference": 27349
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Arizona Diamondbacks (-1.5)",
+          "outcomeId": "182717371015143424",
+          "offerId": "182723459099827712",
+          "odds": 4,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 48,
+          "participantReference": 27348
+        },
+        {
+          "selection": "Los Angeles Dodgers (-1.5)",
+          "outcomeId": "182676008698540800",
+          "offerId": "182723052802839296",
+          "odds": 2,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 48,
+          "participantReference": 27349
+        },
+        {
+          "selection": "Arizona Diamondbacks (+1.5)",
+          "outcomeId": "182676008698540032",
+          "offerId": "182723052802839040",
+          "odds": 1.83,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 48,
+          "participantReference": 27348
+        },
+        {
+          "selection": "Los Angeles Dodgers (+1.5)",
+          "outcomeId": "182717371011999232",
+          "offerId": "182723459101922048",
+          "odds": 1.25,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 48,
+          "participantReference": 27349
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 6.5",
+          "outcomeId": "182714069369984768",
+          "offerId": "182724498763978240",
+          "odds": 1.95,
+          "paramFloat1": 6.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 7",
+          "outcomeId": "182713951374995968",
+          "offerId": "182723052802839552",
+          "odds": 2,
+          "paramFloat1": 7,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 7",
+          "outcomeId": "182713951374996224",
+          "offerId": "182723052802838784",
+          "odds": 1.83,
+          "paramFloat1": 7,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "181919187307909120",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27348,
+      "participantName": "Arizona Diamondbacks",
+      "participantFirstName": "Arizona",
+      "participantLastName": "Diamondbacks",
+      "participantShortName": "ARI",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10523.png",
+      "startingPitcher": "Zac Gallen"
+    }
+  },
+  "182009354993586176": {
+    "startTime": "2022-09-23 22:35:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27343,
+      "participantName": "Pittsburgh Pirates",
+      "participantFirstName": "Pittsburgh",
+      "participantLastName": "Pirates",
+      "participantShortName": "PIT",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10519.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chicago Cubs",
+          "outcomeId": "182766218410127616",
+          "offerId": "182813533885509888",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 466,
+          "participantReference": 27338
+        },
+        {
+          "selection": "Pittsburgh Pirates",
+          "outcomeId": "182766218409079296",
+          "offerId": "182813533885510144",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 466,
+          "participantReference": 27343
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Chicago Cubs (-1.5)",
+          "outcomeId": "182788110079651840",
+          "offerId": "182813533885510400",
+          "odds": 2.5,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 48,
+          "participantReference": 27338
+        },
+        {
+          "selection": "Pittsburgh Pirates (-1.5)",
+          "outcomeId": "182766218409079552",
+          "offerId": "182813830355693568",
+          "odds": 2.75,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 48,
+          "participantReference": 27343
+        },
+        {
+          "selection": "Chicago Cubs (+1.5)",
+          "outcomeId": "182766218410127872",
+          "offerId": "182813830356744192",
+          "odds": 1.44,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 48,
+          "participantReference": 27338
+        },
+        {
+          "selection": "Pittsburgh Pirates (+1.5)",
+          "outcomeId": "182788110080700416",
+          "offerId": "182813533885510912",
+          "odds": 1.58,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 48,
+          "participantReference": 27343
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 8",
+          "outcomeId": "182766218410127360",
+          "offerId": "182813533885509632",
+          "odds": 1.83,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 8",
+          "outcomeId": "182766218410128128",
+          "offerId": "182813533885510656",
+          "odds": 2,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 8.5",
+          "outcomeId": "182783920716354560",
+          "offerId": "182814251024463104",
+          "odds": 1.86,
+          "paramFloat1": 8.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354993586176",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27338,
+      "participantName": "Chicago Cubs",
+      "participantFirstName": "Chicago",
+      "participantLastName": "Cubs",
+      "participantShortName": "CHC",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10513.png"
+    }
+  },
+  "182009354752413696": {
+    "startTime": "2022-09-23 23:05:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27329,
+      "participantName": "New York Yankees",
+      "participantFirstName": "New York",
+      "participantLastName": "Yankees",
+      "participantShortName": "NYY",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ac75457e39ce3e951dc84311be6bce8b.png",
+      "startingPitcher": "Gerrit Cole"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Boston Red Sox",
+          "outcomeId": "182766218405933056",
+          "offerId": "182813618155370752",
+          "odds": 2.85,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 466,
+          "participantReference": 27328
+        },
+        {
+          "selection": "New York Yankees",
+          "outcomeId": "182766218404884480",
+          "offerId": "182813618155369984",
+          "odds": 1.44,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 466,
+          "participantReference": 27329
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Boston Red Sox (-1.5)",
+          "outcomeId": "182808638940160768",
+          "offerId": "182813986570448896",
+          "odds": 3.9,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 48,
+          "participantReference": 27328
+        },
+        {
+          "selection": "New York Yankees (-1.5)",
+          "outcomeId": "182766218404884736",
+          "offerId": "182813618155370240",
+          "odds": 2,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 48,
+          "participantReference": 27329
+        },
+        {
+          "selection": "Boston Red Sox (+1.5)",
+          "outcomeId": "182766218405933312",
+          "offerId": "182813618155371008",
+          "odds": 1.83,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 48,
+          "participantReference": 27328
+        },
+        {
+          "selection": "New York Yankees (+1.5)",
+          "outcomeId": "182808638935965696",
+          "offerId": "182813986570450176",
+          "odds": 1.25,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 48,
+          "participantReference": 27329
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 7.5",
+          "outcomeId": "182766218405933824",
+          "offerId": "182814665487757568",
+          "odds": 1.9,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 8",
+          "outcomeId": "182784055158477312",
+          "offerId": "182813618155370496",
+          "odds": 1.95,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 8",
+          "outcomeId": "182784055158477568",
+          "offerId": "182813618155369728",
+          "odds": 1.86,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 8.5",
+          "outcomeId": "182784055158478336",
+          "offerId": "182814665487757312",
+          "odds": 2.05,
+          "paramFloat1": 8.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354752413696",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27328,
+      "participantName": "Boston Red Sox",
+      "participantFirstName": "Boston",
+      "participantLastName": "Red Sox",
+      "participantShortName": "BOS",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10485.png",
+      "startingPitcher": "Rich Hill"
+    }
+  },
+  "182009354862514176": {
+    "startTime": "2022-09-23 23:05:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27333,
+      "participantName": "Philadelphia Phillies",
+      "participantFirstName": "Philadelphia",
+      "participantLastName": "Phillies",
+      "participantShortName": "PHI",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10509.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Atlanta Braves",
+          "outcomeId": "182766218399641856",
+          "offerId": "182813533885512192",
+          "odds": 2.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 466,
+          "participantReference": 27334
+        },
+        {
+          "selection": "Philadelphia Phillies",
+          "outcomeId": "182766218400690176",
+          "offerId": "182813533885511424",
+          "odds": 1.66,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 466,
+          "participantReference": 27333
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Atlanta Braves (-1.5)",
+          "outcomeId": "182808109740630016",
+          "offerId": "182814069897637888",
+          "odds": 3,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 48,
+          "participantReference": 27334
+        },
+        {
+          "selection": "Philadelphia Phillies (-1.5)",
+          "outcomeId": "182766218399642368",
+          "offerId": "182813533885511680",
+          "odds": 2.45,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 48,
+          "participantReference": 27333
+        },
+        {
+          "selection": "Atlanta Braves (+1.5)",
+          "outcomeId": "182766218399642112",
+          "offerId": "182813533885511936",
+          "odds": 1.6,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 48,
+          "participantReference": 27334
+        },
+        {
+          "selection": "Philadelphia Phillies (+1.5)",
+          "outcomeId": "182808109740630272",
+          "offerId": "182814069898686464",
+          "odds": 1.38,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 48,
+          "participantReference": 27333
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 7",
+          "outcomeId": "182766218399642624",
+          "offerId": "182814578993872128",
+          "odds": 2,
+          "paramFloat1": 7,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 7.5",
+          "outcomeId": "182783947161440256",
+          "offerId": "182813533885511168",
+          "odds": 1.95,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 7.5",
+          "outcomeId": "182783947161440512",
+          "offerId": "182813533885512448",
+          "odds": 1.86,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354862514176",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27334,
+      "participantName": "Atlanta Braves",
+      "participantFirstName": "Atlanta",
+      "participantLastName": "Braves",
+      "participantShortName": "ATL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/3fbd4144dcace71d0894b8b0717c887e.png"
+    }
+  },
+  "182009354934865920": {
+    "startTime": "2022-09-23 23:05:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27330,
+      "participantName": "Baltimore Orioles",
+      "participantFirstName": "Baltimore",
+      "participantLastName": "Orioles",
+      "participantShortName": "BAL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10483.png",
+      "startingPitcher": "Dean Kremer"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Baltimore Orioles",
+          "outcomeId": "182766218406982144",
+          "offerId": "182813533886558720",
+          "odds": 2.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 466,
+          "participantReference": 27330
+        },
+        {
+          "selection": "Houston Astros",
+          "outcomeId": "182766218406981632",
+          "offerId": "182813533886559488",
+          "odds": 1.66,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 466,
+          "participantReference": 27339
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Baltimore Orioles (-1.5)",
+          "outcomeId": "182808099186714880",
+          "offerId": "182813986569401856",
+          "odds": 3.15,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 48,
+          "participantReference": 27330
+        },
+        {
+          "selection": "Houston Astros (-1.5)",
+          "outcomeId": "182766218406981888",
+          "offerId": "182813533886558208",
+          "odds": 2.15,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 48,
+          "participantReference": 27339
+        },
+        {
+          "selection": "Baltimore Orioles (+1.5)",
+          "outcomeId": "182766218406982656",
+          "offerId": "182813533886558976",
+          "odds": 1.74,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 48,
+          "participantReference": 27330
+        },
+        {
+          "selection": "Houston Astros (+1.5)",
+          "outcomeId": "182808099187763968",
+          "offerId": "182813986569402112",
+          "odds": 1.35,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 48,
+          "participantReference": 27339
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 7.5",
+          "outcomeId": "182766218408030208",
+          "offerId": "182813533886559232",
+          "odds": 1.9,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 7.5",
+          "outcomeId": "182766218406982400",
+          "offerId": "182813533886558464",
+          "odds": 1.9,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 8",
+          "outcomeId": "182783993614406144",
+          "offerId": "182814501536609792",
+          "odds": 2.05,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009354934865920",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27339,
+      "participantName": "Houston Astros",
+      "participantFirstName": "Houston",
+      "participantLastName": "Astros",
+      "participantShortName": "HOU",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/e9e3ef11b44737520339cae84813766e.png",
+      "startingPitcher": "Jose Urquidy"
+    }
+  },
+  "182009355584983040": {
+    "startTime": "2022-09-24 00:05:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27347,
+      "participantName": "Texas Rangers",
+      "participantFirstName": "Texas",
+      "participantLastName": "Rangers",
+      "participantShortName": "TEX",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/9fb7f9de5a12bf88624578eaa9e3b85f.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Cleveland Guardians",
+          "outcomeId": "182766218401738752",
+          "offerId": "182813618154319872",
+          "odds": 2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 466,
+          "participantReference": 159876075181101060
+        },
+        {
+          "selection": "Texas Rangers",
+          "outcomeId": "182766218401739776",
+          "offerId": "182813618154320128",
+          "odds": 1.83,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 466,
+          "participantReference": 27347
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Cleveland Guardians (-1.5)",
+          "outcomeId": "182788110083846400",
+          "offerId": "182813986559963648",
+          "odds": 2.55,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 48,
+          "participantReference": 159876075181101060
+        },
+        {
+          "selection": "Texas Rangers (-1.5)",
+          "outcomeId": "182766218401739008",
+          "offerId": "182813618154320896",
+          "odds": 2.8,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 48,
+          "participantReference": 27347
+        },
+        {
+          "selection": "Cleveland Guardians (+1.5)",
+          "outcomeId": "182766218401739520",
+          "offerId": "182813618154320384",
+          "odds": 1.45,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 48,
+          "participantReference": 159876075181101060
+        },
+        {
+          "selection": "Texas Rangers (+1.5)",
+          "outcomeId": "182788110083846144",
+          "offerId": "182813986556818944",
+          "odds": 1.48,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 48,
+          "participantReference": 27347
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 7.5",
+          "outcomeId": "182766218401739264",
+          "offerId": "182814578987578880",
+          "odds": 1.86,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 8",
+          "outcomeId": "182784100062695936",
+          "offerId": "182813618154320640",
+          "odds": 2,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 8",
+          "outcomeId": "182784100062696192",
+          "offerId": "182813618154321152",
+          "odds": 1.83,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355584983040",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 159876075181101060,
+      "participantName": "Cleveland Guardians",
+      "participantFirstName": "Cleveland",
+      "participantLastName": "Guardians",
+      "participantShortName": "CLE",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4eb0ba6049c1f8e8e89dc6837d91a962.png"
+    }
+  },
+  "182009355525214208": {
+    "startTime": "2022-09-24 00:10:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27351,
+      "participantName": "Colorado Rockies",
+      "participantFirstName": "Colorado",
+      "participantLastName": "Rockies",
+      "participantShortName": "COL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/7030ba7d17d33119ffafdf0b391ae82b.PNG",
+      "startingPitcher": "Ryan Feltner"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Colorado Rockies",
+          "outcomeId": "182805229047353344",
+          "offerId": "182813618155368704",
+          "odds": 2.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 466,
+          "participantReference": 27351
+        },
+        {
+          "selection": "San Diego Padres",
+          "outcomeId": "182805229047353600",
+          "offerId": "182813618155368448",
+          "odds": 1.66,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 466,
+          "participantReference": 27352
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Colorado Rockies (-1.5)",
+          "outcomeId": "182810273363961856",
+          "offerId": "182814155444665344",
+          "odds": 3.05,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 48,
+          "participantReference": 27351
+        },
+        {
+          "selection": "San Diego Padres (-1.5)",
+          "outcomeId": "182805247078666496",
+          "offerId": "182813618155368960",
+          "odds": 2,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 48,
+          "participantReference": 27352
+        },
+        {
+          "selection": "Colorado Rockies (+1.5)",
+          "outcomeId": "182805247078666240",
+          "offerId": "182813618154321408",
+          "odds": 1.83,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 48,
+          "participantReference": 27351
+        },
+        {
+          "selection": "San Diego Padres (+1.5)",
+          "outcomeId": "182810273365010944",
+          "offerId": "182814155444663040",
+          "odds": 1.37,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 48,
+          "participantReference": 27352
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 11",
+          "outcomeId": "182805229047354624",
+          "offerId": "182814578989675520",
+          "odds": 1.95,
+          "paramFloat1": 11,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 11.5",
+          "outcomeId": "182805229047353856",
+          "offerId": "182813618155369216",
+          "odds": 1.95,
+          "paramFloat1": 11.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 11.5",
+          "outcomeId": "182805229047354112",
+          "offerId": "182813618155369472",
+          "odds": 1.86,
+          "paramFloat1": 11.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 12",
+          "outcomeId": "182805229047354880",
+          "offerId": "182814578989676800",
+          "odds": 2.05,
+          "paramFloat1": 12,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355525214208",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27352,
+      "participantName": "San Diego Padres",
+      "participantFirstName": "San Diego",
+      "participantLastName": "Padres",
+      "participantShortName": "SD",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/be7ceee2130563820e4038814915ddd9.png",
+      "startingPitcher": "Sean Manaea"
+    }
+  },
+  "182009355662577664": {
+    "startTime": "2022-09-24 00:10:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27355,
+      "participantName": "Chicago White Sox",
+      "participantFirstName": "Chicago",
+      "participantLastName": "White Sox",
+      "participantShortName": "CHW",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10481.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chicago White Sox",
+          "outcomeId": "182766218409078784",
+          "offerId": "182813533883412992",
+          "odds": 1.54,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 466,
+          "participantReference": 27355
+        },
+        {
+          "selection": "Detroit Tigers",
+          "outcomeId": "182766218408030720",
+          "offerId": "182813533883412736",
+          "odds": 2.65,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 466,
+          "participantReference": 27356
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Chicago White Sox (-1.5)",
+          "outcomeId": "182766218408030976",
+          "offerId": "182813533883413760",
+          "odds": 2.2,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 48,
+          "participantReference": 27355
+        },
+        {
+          "selection": "Detroit Tigers (-1.5)",
+          "outcomeId": "182809501544918016",
+          "offerId": "182814155446761728",
+          "odds": 3.3,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 48,
+          "participantReference": 27356
+        },
+        {
+          "selection": "Chicago White Sox (+1.5)",
+          "outcomeId": "182809501544916736",
+          "offerId": "182814155445711360",
+          "odds": 1.31,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 48,
+          "participantReference": 27355
+        },
+        {
+          "selection": "Detroit Tigers (+1.5)",
+          "outcomeId": "182766218409079040",
+          "offerId": "182813533883413248",
+          "odds": 1.71,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 48,
+          "participantReference": 27356
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 7.5",
+          "outcomeId": "182766218408031232",
+          "offerId": "182813533883412480",
+          "odds": 1.9,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 7.5",
+          "outcomeId": "182766218408030464",
+          "offerId": "182813533883413504",
+          "odds": 1.9,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 8",
+          "outcomeId": "182784135533924352",
+          "offerId": "182814746020494848",
+          "odds": 1.95,
+          "paramFloat1": 8,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355662577664",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27356,
+      "participantName": "Detroit Tigers",
+      "participantFirstName": "Detroit",
+      "participantLastName": "Tigers",
+      "participantShortName": "DET",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/cf006d4adace88c8307119ebeafe4610.png"
+    }
+  },
+  "182009355063840768": {
+    "startTime": "2022-09-24 01:40:00.000",
+    "leagueName": "MLB",
+    "Home": {
+      "participantId": 27346,
+      "participantName": "Oakland Athletics",
+      "participantFirstName": "Oakland",
+      "participantLastName": "Athletics",
+      "participantShortName": "OAK",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/67ed857590f4194454d21d2001d513b0.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "New York Mets",
+          "outcomeId": "182805598200852992",
+          "offerId": "182813533884462336",
+          "odds": 1.42,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 466,
+          "participantReference": 27336
+        },
+        {
+          "selection": "Oakland Athletics",
+          "outcomeId": "182805598200853248",
+          "offerId": "182813533884462080",
+          "odds": 2.95,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 466,
+          "participantReference": 27346
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "New York Mets (-1.5)",
+          "outcomeId": "182806118617288960",
+          "offerId": "182813533884461568",
+          "odds": 1.83,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 48,
+          "participantReference": 27336
+        },
+        {
+          "selection": "Oakland Athletics (-1.5)",
+          "outcomeId": "182811286145790208",
+          "offerId": "182813986566258432",
+          "odds": 4.65,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 48,
+          "participantReference": 27346
+        },
+        {
+          "selection": "New York Mets (+1.5)",
+          "outcomeId": "182811286148935936",
+          "offerId": "182813986566254592",
+          "odds": 1.19,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 48,
+          "participantReference": 27336
+        },
+        {
+          "selection": "Oakland Athletics (+1.5)",
+          "outcomeId": "182806118617288704",
+          "offerId": "182813533884461312",
+          "odds": 2,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 48,
+          "participantReference": 27346
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 7",
+          "outcomeId": "182805598201901056",
+          "offerId": "182813533884461824",
+          "odds": 1.86,
+          "paramFloat1": 7,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 7",
+          "outcomeId": "182805598201901312",
+          "offerId": "182813533884461056",
+          "odds": 1.95,
+          "paramFloat1": 7,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 7.5",
+          "outcomeId": "182806109087831040",
+          "offerId": "182814746021540608",
+          "odds": 2,
+          "paramFloat1": 7.5,
+          "market": "Over/Under",
+          "eventPartId": 70,
+          "eventId": "182009355063840768",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 27336,
+      "participantName": "New York Mets",
+      "participantFirstName": "New York",
+      "participantLastName": "Mets",
+      "participantShortName": "NYM",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/c5e1ef97cf5319d0dd10dddb05deaca2.png"
+    }
+  }
+}

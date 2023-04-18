@@ -1,0 +1,767 @@
+{
+  "182492849722413056": {
+    "startTime": "2022-09-23 17:45:00.000",
+    "leagueName": "NLA",
+    "Home": {
+      "participantId": 37364,
+      "participantName": "Geneve Servette HC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8770.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Geneve Servette HC",
+          "outcomeId": "182630830821433856",
+          "offerId": "182755835126034688",
+          "odds": 1.67,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849722413056",
+          "bettingTypeId": 466,
+          "participantReference": 37364
+        },
+        {
+          "selection": "HC Lugano",
+          "outcomeId": "182630830821434112",
+          "offerId": "182755835126036736",
+          "odds": 2.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849722413056",
+          "bettingTypeId": 466,
+          "participantReference": 37358
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Geneve Servette HC (-1.5)",
+          "outcomeId": "182630830829823232",
+          "offerId": "182755835124987136",
+          "odds": 2.8,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849722413056",
+          "bettingTypeId": 48,
+          "participantReference": 37364
+        },
+        {
+          "selection": "HC Lugano (-1.5)",
+          "outcomeId": "182630830830871296",
+          "offerId": "182759931248719616",
+          "odds": 4.35,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849722413056",
+          "bettingTypeId": 48,
+          "participantReference": 37358
+        },
+        {
+          "selection": "Geneve Servette HC (+1.5)",
+          "outcomeId": "182630830830871040",
+          "offerId": "182759931248718336",
+          "odds": 1.21,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849722413056",
+          "bettingTypeId": 48,
+          "participantReference": 37364
+        },
+        {
+          "selection": "HC Lugano (+1.5)",
+          "outcomeId": "182630830829823488",
+          "offerId": "182755835126035200",
+          "odds": 1.45,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849722413056",
+          "bettingTypeId": 48,
+          "participantReference": 37358
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 5",
+          "outcomeId": "182630830823531520",
+          "offerId": "182756385090514944",
+          "odds": 1.9,
+          "paramFloat1": 5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492849722413056",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37358,
+      "participantName": "HC Lugano",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6326b3a8843d9c99076bf01e6dffea63.png"
+    }
+  },
+  "182492849818882048": {
+    "startTime": "2022-09-23 17:45:00.000",
+    "leagueName": "NLA",
+    "Home": {
+      "participantId": 37365,
+      "participantName": "SC Bern",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8768.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Rapperswil-Jona Lakers",
+          "outcomeId": "182630830861280768",
+          "offerId": "182755630338093056",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 466,
+          "participantReference": 37361
+        },
+        {
+          "selection": "SC Bern",
+          "outcomeId": "182630830861280512",
+          "offerId": "182755630337045248",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 466,
+          "participantReference": 37365
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Rapperswil-Jona Lakers (-1.5)",
+          "outcomeId": "182630830866522880",
+          "offerId": "182756941182875904",
+          "odds": 3.4,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 48,
+          "participantReference": 37361
+        },
+        {
+          "selection": "SC Bern (-1.5)",
+          "outcomeId": "182630830865476352",
+          "offerId": "182755630337046528",
+          "odds": 3.5,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 48,
+          "participantReference": 37365
+        },
+        {
+          "selection": "Rapperswil-Jona Lakers (+1.5)",
+          "outcomeId": "182630830865476608",
+          "offerId": "182755630337044992",
+          "odds": 1.32,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 48,
+          "participantReference": 37361
+        },
+        {
+          "selection": "SC Bern (+1.5)",
+          "outcomeId": "182630830866522624",
+          "offerId": "182756941182876160",
+          "odds": 1.3,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 48,
+          "participantReference": 37365
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 5.25",
+          "outcomeId": "182701082232054016",
+          "offerId": "182756112153524992",
+          "odds": 1.85,
+          "paramFloat1": 5.25,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 5.25",
+          "outcomeId": "182701082233103360",
+          "offerId": "182756112153524736",
+          "odds": 1.85,
+          "paramFloat1": 5.25,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492849818882048",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37361,
+      "participantName": "Rapperswil-Jona Lakers",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/3195fe25224f8d08b9918380fd632455.png"
+    }
+  },
+  "182492849905913856": {
+    "startTime": "2022-09-23 17:45:00.000",
+    "leagueName": "NLA",
+    "Home": {
+      "participantId": 37369,
+      "participantName": "HC Fribourg-Gottero",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/eaf6bcc50fb5b68fb8dc0f71b56655d8.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "EV Zug",
+          "outcomeId": "182630830900077056",
+          "offerId": "182757081136312576",
+          "odds": 1.7,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 466,
+          "participantReference": 37362
+        },
+        {
+          "selection": "HC Fribourg-Gottero",
+          "outcomeId": "182630830900076800",
+          "offerId": "182757081136313344",
+          "odds": 2.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 466,
+          "participantReference": 37369
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "EV Zug (-1.5)",
+          "outcomeId": "182630830904272896",
+          "offerId": "182757081139458048",
+          "odds": 2.8,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 48,
+          "participantReference": 37362
+        },
+        {
+          "selection": "HC Fribourg-Gottero (-1.5)",
+          "outcomeId": "182630830904271104",
+          "offerId": "182760551911339008",
+          "odds": 4.25,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 48,
+          "participantReference": 37369
+        },
+        {
+          "selection": "EV Zug (+1.5)",
+          "outcomeId": "182630830904271360",
+          "offerId": "182760551911339776",
+          "odds": 1.22,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 48,
+          "participantReference": 37362
+        },
+        {
+          "selection": "HC Fribourg-Gottero (+1.5)",
+          "outcomeId": "182630830904272640",
+          "offerId": "182757081138409472",
+          "odds": 1.45,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 48,
+          "participantReference": 37369
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 5.25",
+          "outcomeId": "182701082146070528",
+          "offerId": "182757429046491136",
+          "odds": 1.85,
+          "paramFloat1": 5.25,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 5.25",
+          "outcomeId": "182701082146072064",
+          "offerId": "182757429046491392",
+          "odds": 1.85,
+          "paramFloat1": 5.25,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 5.5",
+          "outcomeId": "182711646350041088",
+          "offerId": "182757081136313088",
+          "odds": 2.05,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 40,
+          "eventId": "182492849905913856",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37362,
+      "participantName": "EV Zug",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/3ce0b757bd4dcc91ee89e66533c2fb9a.png"
+    }
+  },
+  "182492849998188544": {
+    "startTime": "2022-09-23 17:45:00.000",
+    "leagueName": "NLA",
+    "Home": {
+      "participantId": 37368,
+      "participantName": "SC Langnau Tigers",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8776.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "EHC Biel",
+          "outcomeId": "182630830878057216",
+          "offerId": "182756181030285824",
+          "odds": 1.47,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 466,
+          "participantReference": 37374
+        },
+        {
+          "selection": "SC Langnau Tigers",
+          "outcomeId": "182630830878056960",
+          "offerId": "182756181030287104",
+          "odds": 2.75,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 466,
+          "participantReference": 37368
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "EHC Biel (-1.5)",
+          "outcomeId": "182630830882251776",
+          "offerId": "182756181031334400",
+          "odds": 2.3,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 48,
+          "participantReference": 37374
+        },
+        {
+          "selection": "SC Langnau Tigers (-1.5)",
+          "outcomeId": "182630830881205504",
+          "offerId": "182758532085528576",
+          "odds": 5.5,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 48,
+          "participantReference": 37368
+        },
+        {
+          "selection": "EHC Biel (+1.5)",
+          "outcomeId": "182630830881205760",
+          "offerId": "182758532085529856",
+          "odds": 1.14,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 48,
+          "participantReference": 37374
+        },
+        {
+          "selection": "SC Langnau Tigers (+1.5)",
+          "outcomeId": "182630830882251520",
+          "offerId": "182756181030287616",
+          "odds": 1.65,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 48,
+          "participantReference": 37368
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 5.5",
+          "outcomeId": "182630830879106048",
+          "offerId": "182756724034318848",
+          "odds": 1.85,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 5.5",
+          "outcomeId": "182711645067633664",
+          "offerId": "182756181030285568",
+          "odds": 1.9,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 40,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 5.5",
+          "outcomeId": "182630830879105792",
+          "offerId": "182756724034319104",
+          "odds": 1.85,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 5.5",
+          "outcomeId": "182711645067633408",
+          "offerId": "182756181030285312",
+          "odds": 1.9,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 40,
+          "eventId": "182492849998188544",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37374,
+      "participantName": "EHC Biel",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ff2b480d318aacf80e43badd9f8c5b40.png"
+    }
+  },
+  "182492850077880320": {
+    "startTime": "2022-09-23 17:45:00.000",
+    "leagueName": "NLA",
+    "Home": {
+      "participantId": 37382,
+      "participantName": "HC Ajoie",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8780.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "HC Ajoie",
+          "outcomeId": "182630830925244928",
+          "offerId": "182756453153584640",
+          "odds": 2.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492850077880320",
+          "bettingTypeId": 466,
+          "participantReference": 37382
+        },
+        {
+          "selection": "HC Ambri-Piotta",
+          "outcomeId": "182630830925245184",
+          "offerId": "182756453154631936",
+          "odds": 1.67,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182492850077880320",
+          "bettingTypeId": 466,
+          "participantReference": 37363
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "HC Ajoie (-1.5)",
+          "outcomeId": "182630830930488576",
+          "offerId": "182759794438910976",
+          "odds": 4.35,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492850077880320",
+          "bettingTypeId": 48,
+          "participantReference": 37382
+        },
+        {
+          "selection": "HC Ambri-Piotta (-1.5)",
+          "outcomeId": "182630830931535104",
+          "offerId": "182756453153584896",
+          "odds": 2.8,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492850077880320",
+          "bettingTypeId": 48,
+          "participantReference": 37363
+        },
+        {
+          "selection": "HC Ajoie (+1.5)",
+          "outcomeId": "182630830931534848",
+          "offerId": "182756453153583616",
+          "odds": 1.45,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492850077880320",
+          "bettingTypeId": 48,
+          "participantReference": 37382
+        },
+        {
+          "selection": "HC Ambri-Piotta (+1.5)",
+          "outcomeId": "182630830930488832",
+          "offerId": "182759794438911232",
+          "odds": 1.21,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182492850077880320",
+          "bettingTypeId": 48,
+          "participantReference": 37363
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 5.25",
+          "outcomeId": "182701108906868992",
+          "offerId": "182757010466487296",
+          "odds": 1.9,
+          "paramFloat1": 5.25,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182492850077880320",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37363,
+      "participantName": "HC Ambri-Piotta",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/297bfdd520df8e07930d8401aabfce7a.png"
+    }
+  },
+  "182507398348460032": {
+    "startTime": "2022-09-23 17:45:00.000",
+    "leagueName": "NLA",
+    "Home": {
+      "participantId": 37359,
+      "participantName": "HC Davos",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/b8310b5fbf780a0b4774307594eb93b1.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "HC Davos",
+          "outcomeId": "182630830843455488",
+          "offerId": "182755698056180992",
+          "odds": 1.37,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 466,
+          "participantReference": 37359
+        },
+        {
+          "selection": "Kloten Flyers",
+          "outcomeId": "182630830843455744",
+          "offerId": "182755698058276864",
+          "odds": 3.1,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 40,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 466,
+          "participantReference": 37366
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "HC Davos (-1.5)",
+          "outcomeId": "182630830848697600",
+          "offerId": "182755698056180736",
+          "odds": 2,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 48,
+          "participantReference": 37359
+        },
+        {
+          "selection": "Kloten Flyers (-1.5)",
+          "outcomeId": "182630830848698880",
+          "offerId": "182759314349438720",
+          "odds": 6.5,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 48,
+          "participantReference": 37366
+        },
+        {
+          "selection": "HC Davos (+1.5)",
+          "outcomeId": "182630830848698624",
+          "offerId": "182759314349437440",
+          "odds": 1.11,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 48,
+          "participantReference": 37359
+        },
+        {
+          "selection": "Kloten Flyers (+1.5)",
+          "outcomeId": "182630830848697856",
+          "offerId": "182755698057230080",
+          "odds": 1.8,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 41,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 48,
+          "participantReference": 37366
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 5.5",
+          "outcomeId": "182630830845550848",
+          "offerId": "182756656537481216",
+          "odds": 1.85,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 5.5",
+          "outcomeId": "182723833639441408",
+          "offerId": "182755698057228800",
+          "odds": 1.9,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 40,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 5.5",
+          "outcomeId": "182630830845550592",
+          "offerId": "182756656536436224",
+          "odds": 1.85,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 41,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 5.5",
+          "outcomeId": "182723833637345280",
+          "offerId": "182755698057228544",
+          "odds": 1.9,
+          "paramFloat1": 5.5,
+          "market": "Over/Under",
+          "eventPartId": 40,
+          "eventId": "182507398348460032",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 37366,
+      "participantName": "Kloten Flyers",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8774.png"
+    }
+  }
+}

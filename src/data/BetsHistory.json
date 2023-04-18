@@ -1,0 +1,1675 @@
+[
+  {
+    "bet_type": "straight",
+    "is_ongoing": false,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2.05,
+      "wager": 1.9,
+      "toWin": 2,
+      "submitTime": 1681482310
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10805.png",
+            "participantId": 26086,
+            "participantName": "Houston Texans",
+            "participantLastName": "Texans",
+            "participantFirstName": "Houston",
+            "participantShortName": "HOU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10845.png",
+            "participantId": 26080,
+            "participantName": "Chicago Bears",
+            "participantLastName": "Bears",
+            "participantFirstName": "Chicago",
+            "participantShortName": "CHI"
+          }
+        ],
+        "paramFloat1": -3,
+        "selection": "Chicago Bears (-3)",
+        "odds": 2.05,
+        "offerId": 182538349549361660,
+        "outcomeId": 181726575161730300,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 2,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Chicago Bears vs Houston Texans"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2.05,
+      "wager": 0.95,
+      "toWin": 1,
+      "submitTime": 1681482310
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10805.png",
+            "participantId": 26086,
+            "participantName": "Houston Texans",
+            "participantLastName": "Texans",
+            "participantFirstName": "Houston",
+            "participantShortName": "HOU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10845.png",
+            "participantId": 26080,
+            "participantName": "Chicago Bears",
+            "participantLastName": "Bears",
+            "participantFirstName": "Chicago",
+            "participantShortName": "CHI"
+          }
+        ],
+        "paramFloat1": 1.5,
+        "selection": "Houston Texans (+1.5)",
+        "odds": 2.05,
+        "offerId": 182538349534681340,
+        "outcomeId": 182000340574826500,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Chicago Bears vs Houston Texans"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2,
+      "wager": 1,
+      "toWin": 1,
+      "submitTime": 1681482310
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": -3,
+        "selection": "New Orleans Saints (-3)",
+        "odds": 2,
+        "offerId": 182004585859162620,
+        "outcomeId": 182000320126554100,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 4.5,
+      "wager": 10,
+      "toWin": 35,
+      "submitTime": 1681482295
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": -3,
+        "selection": "New Orleans Saints (-3)",
+        "odds": 2,
+        "offerId": 182004585859162620,
+        "outcomeId": 182000320126554100,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10805.png",
+            "participantId": 26086,
+            "participantName": "Houston Texans",
+            "participantLastName": "Texans",
+            "participantFirstName": "Houston",
+            "participantShortName": "HOU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10845.png",
+            "participantId": 26080,
+            "participantName": "Chicago Bears",
+            "participantLastName": "Bears",
+            "participantFirstName": "Chicago",
+            "participantShortName": "CHI"
+          }
+        ],
+        "paramFloat1": null,
+        "selection": "Houston Texans",
+        "odds": 2.25,
+        "offerId": 182511838328950800,
+        "outcomeId": 181726575161729540,
+        "market": "Home Away",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Chicago Bears vs Houston Texans"
+      }
+    ]
+  },
+  {
+    "bet_type": "teaser",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 5.8425,
+      "wager": 100,
+      "toWin": 484.26,
+      "submitTime": 1681244939
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Europe",
+        "odds": 2.85,
+        "offerId": 151623705836155140,
+        "outcomeId": 151623705489834500,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1695945600,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 2,
+        "eventName": "Ryder Cup 2023"
+      },
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Europe",
+        "odds": 2.05,
+        "offerId": 157864380040511740,
+        "outcomeId": 157864379946279170,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1694995200,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 2,
+        "eventName": "Solheim Cup 2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 1.9,
+      "wager": 20,
+      "toWin": 18,
+      "submitTime": 1680625679
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": 41,
+        "selection": "Over 41",
+        "odds": 1.9,
+        "offerId": 182057239902762500,
+        "outcomeId": 182000320025891330,
+        "market": "Over/Under",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2,
+      "wager": 11.34,
+      "toWin": 11.34,
+      "submitTime": 1680463510
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": -3,
+        "selection": "New Orleans Saints (-3)",
+        "odds": 2,
+        "offerId": 182004585859162620,
+        "outcomeId": 182000320126554100,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2.25,
+      "wager": 9.34,
+      "toWin": 11.68,
+      "submitTime": 1680463510
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10805.png",
+            "participantId": 26086,
+            "participantName": "Houston Texans",
+            "participantLastName": "Texans",
+            "participantFirstName": "Houston",
+            "participantShortName": "HOU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10845.png",
+            "participantId": 26080,
+            "participantName": "Chicago Bears",
+            "participantLastName": "Bears",
+            "participantFirstName": "Chicago",
+            "participantShortName": "CHI"
+          }
+        ],
+        "paramFloat1": null,
+        "selection": "Houston Texans",
+        "odds": 2.25,
+        "offerId": 182537178211324930,
+        "outcomeId": 182000621407215600,
+        "market": "Home Draw Away",
+        "eventPartId": 31,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Chicago Bears vs Houston Texans"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 18.1305305625,
+      "wager": 11.57,
+      "toWin": 198.2,
+      "submitTime": 1680454309
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/103577.png",
+            "participantId": 51954,
+            "participantName": "Air Force Falcons",
+            "participantLastName": "Falcons",
+            "participantFirstName": "Air Force",
+            "participantShortName": "AIRF"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/102849.png",
+            "participantId": 51989,
+            "participantName": "Nevada Wolf Pack",
+            "participantLastName": "Wolf Pack",
+            "participantFirstName": "Nevada",
+            "participantShortName": "NEVADA"
+          }
+        ],
+        "paramFloat1": -25,
+        "selection": "Air Force Falcons (-25)",
+        "odds": 2.05,
+        "offerId": 182458785806588670,
+        "outcomeId": 182439976998508030,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663977600,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Air Force Falcons vs Nevada Wolf Pack"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101227.png",
+            "participantId": 37188,
+            "participantName": "UTEP Miners",
+            "participantLastName": "Miners",
+            "participantFirstName": "UTEP",
+            "participantShortName": "UTEP"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/100729.png",
+            "participantId": 37208,
+            "participantName": "Boise State Broncos",
+            "participantLastName": "Broncos",
+            "participantFirstName": "Boise State",
+            "participantShortName": "BOISE"
+          }
+        ],
+        "paramFloat1": null,
+        "selection": "Boise State Broncos",
+        "odds": 1.15,
+        "offerId": 182456482371375870,
+        "outcomeId": 182440014303695100,
+        "market": "Home Away",
+        "eventPartId": 30,
+        "startTime": 1663981200,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "UTEP Miners vs Boise State Broncos"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101201.png",
+            "participantId": 37176,
+            "participantName": "Clemson Tigers",
+            "participantLastName": "Tigers",
+            "participantFirstName": "Clemson",
+            "participantShortName": "CLMSN"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/100725.png",
+            "participantId": 43444,
+            "participantName": "Wake Forest Demon Deacons",
+            "participantLastName": "Demon Deacons",
+            "participantFirstName": "Wake Forest",
+            "participantShortName": "WAKE"
+          }
+        ],
+        "paramFloat1": 54,
+        "selection": "Under 54",
+        "odds": 2.05,
+        "offerId": 182457913632526600,
+        "outcomeId": 182454547447639300,
+        "market": "Over/Under",
+        "eventPartId": 30,
+        "startTime": 1664035200,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Wake Forest Demon Deacons vs Clemson Tigers"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/106437.png",
+            "participantId": 51958,
+            "participantName": "TCU Horned Frogs",
+            "participantLastName": "Horned Frogs",
+            "participantFirstName": "TCU",
+            "participantShortName": "TCU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101243.png",
+            "participantId": 68194,
+            "participantName": "Southern Methodist Mustangs",
+            "participantLastName": null,
+            "participantFirstName": null,
+            "participantShortName": null
+          }
+        ],
+        "paramFloat1": 1,
+        "selection": "Southern Methodist Mustangs (+1)",
+        "odds": 2.05,
+        "offerId": 182459081810157060,
+        "outcomeId": 182333985589006340,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664035200,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Southern Methodist Mustangs vs TCU Horned Frogs"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101157.png",
+            "participantId": 37511,
+            "participantName": "Virginia Cavaliers",
+            "participantLastName": "Cavaliers",
+            "participantFirstName": "Virginia",
+            "participantShortName": "VIR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/108157.png",
+            "participantId": 37530,
+            "participantName": "Syracuse Orange",
+            "participantLastName": "Orange",
+            "participantFirstName": "Syracuse",
+            "participantShortName": "SYRA"
+          }
+        ],
+        "paramFloat1": 52.5,
+        "selection": "Over 52.5",
+        "odds": 1.83,
+        "offerId": 182457840182925820,
+        "outcomeId": 182441835483074560,
+        "market": "Over/Under",
+        "eventPartId": 30,
+        "startTime": 1663974000,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Syracuse Orange vs Virginia Cavaliers"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 754.4,
+      "wager": 10,
+      "toWin": 7534,
+      "submitTime": 1680454296
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": 0,
+        "selection": "0",
+        "odds": 23,
+        "offerId": 182537386716467460,
+        "outcomeId": 182537386665089540,
+        "market": "Number of Field Goals",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101157.png",
+            "participantId": 37511,
+            "participantName": "Virginia Cavaliers",
+            "participantLastName": "Cavaliers",
+            "participantFirstName": "Virginia",
+            "participantShortName": "VIR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/108157.png",
+            "participantId": 37530,
+            "participantName": "Syracuse Orange",
+            "participantLastName": "Orange",
+            "participantFirstName": "Syracuse",
+            "participantShortName": "SYRA"
+          }
+        ],
+        "paramFloat1": 9,
+        "selection": "Virginia Cavaliers (+9)",
+        "odds": 2.05,
+        "offerId": 182456482369278460,
+        "outcomeId": 182436459633155840,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663974000,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Syracuse Orange vs Virginia Cavaliers"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/103577.png",
+            "participantId": 51954,
+            "participantName": "Air Force Falcons",
+            "participantLastName": "Falcons",
+            "participantFirstName": "Air Force",
+            "participantShortName": "AIRF"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/102849.png",
+            "participantId": 51989,
+            "participantName": "Nevada Wolf Pack",
+            "participantLastName": "Wolf Pack",
+            "participantFirstName": "Nevada",
+            "participantShortName": "NEVADA"
+          }
+        ],
+        "paramFloat1": null,
+        "selection": "Nevada Wolf Pack",
+        "odds": 16,
+        "offerId": 182456482370327300,
+        "outcomeId": 182436459226153470,
+        "market": "Home Away",
+        "eventPartId": 30,
+        "startTime": 1663977600,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Air Force Falcons vs Nevada Wolf Pack"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2.05,
+      "wager": 50,
+      "toWin": 52.5,
+      "submitTime": 1680430411
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10805.png",
+            "participantId": 26086,
+            "participantName": "Houston Texans",
+            "participantLastName": "Texans",
+            "participantFirstName": "Houston",
+            "participantShortName": "HOU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10845.png",
+            "participantId": 26080,
+            "participantName": "Chicago Bears",
+            "participantLastName": "Bears",
+            "participantFirstName": "Chicago",
+            "participantShortName": "CHI"
+          }
+        ],
+        "paramFloat1": 1.5,
+        "selection": "Houston Texans (+1.5)",
+        "odds": 2.05,
+        "offerId": 182538349534681340,
+        "outcomeId": 182000340574826500,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Chicago Bears vs Houston Texans"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 3.8,
+      "wager": 10,
+      "toWin": 28,
+      "submitTime": 1680294026
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4914.png",
+            "participantId": 1474,
+            "participantName": "Los Angeles Galaxy",
+            "participantLastName": null,
+            "participantFirstName": null,
+            "participantShortName": null
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/dafdf5470078d3520ee7ad74ae8619dc.png",
+            "participantId": 1523,
+            "participantName": "San Jose Earthquakes",
+            "participantLastName": null,
+            "participantFirstName": null,
+            "participantShortName": null
+          }
+        ],
+        "paramFloat1": null,
+        "selection": "Draw",
+        "odds": 3.8,
+        "offerId": 182511773731075070,
+        "outcomeId": 181726576533399550,
+        "market": "Home Draw Away",
+        "eventPartId": 3,
+        "startTime": 1664071200,
+        "statusId": 1,
+        "leagueName": "MLS 2022",
+        "sportEventId": 1,
+        "eventName": "San Jose Earthquakes vs Los Angeles Galaxy"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 4.2025,
+      "wager": 1000,
+      "toWin": 3202.5,
+      "submitTime": 1680193914
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101157.png",
+            "participantId": 37511,
+            "participantName": "Virginia Cavaliers",
+            "participantLastName": "Cavaliers",
+            "participantFirstName": "Virginia",
+            "participantShortName": "VIR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/108157.png",
+            "participantId": 37530,
+            "participantName": "Syracuse Orange",
+            "participantLastName": "Orange",
+            "participantFirstName": "Syracuse",
+            "participantShortName": "SYRA"
+          }
+        ],
+        "paramFloat1": -11,
+        "selection": "Syracuse Orange (-11)",
+        "odds": 2.05,
+        "offerId": 182458190235341060,
+        "outcomeId": 182436459633152000,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663974000,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Syracuse Orange vs Virginia Cavaliers"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/103577.png",
+            "participantId": 51954,
+            "participantName": "Air Force Falcons",
+            "participantLastName": "Falcons",
+            "participantFirstName": "Air Force",
+            "participantShortName": "AIRF"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/102849.png",
+            "participantId": 51989,
+            "participantName": "Nevada Wolf Pack",
+            "participantLastName": "Wolf Pack",
+            "participantFirstName": "Nevada",
+            "participantShortName": "NEVADA"
+          }
+        ],
+        "paramFloat1": -25,
+        "selection": "Air Force Falcons (-25)",
+        "odds": 2.05,
+        "offerId": 182458785806588670,
+        "outcomeId": 182439976998508030,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663977600,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Air Force Falcons vs Nevada Wolf Pack"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 3.7515,
+      "wager": 1000,
+      "toWin": 2751.5,
+      "submitTime": 1680193878
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101157.png",
+            "participantId": 37511,
+            "participantName": "Virginia Cavaliers",
+            "participantLastName": "Cavaliers",
+            "participantFirstName": "Virginia",
+            "participantShortName": "VIR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/108157.png",
+            "participantId": 37530,
+            "participantName": "Syracuse Orange",
+            "participantLastName": "Orange",
+            "participantFirstName": "Syracuse",
+            "participantShortName": "SYRA"
+          }
+        ],
+        "paramFloat1": -11,
+        "selection": "Syracuse Orange (-11)",
+        "odds": 2.05,
+        "offerId": 182458190235341060,
+        "outcomeId": 182436459633152000,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663974000,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Syracuse Orange vs Virginia Cavaliers"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/103577.png",
+            "participantId": 51954,
+            "participantName": "Air Force Falcons",
+            "participantLastName": "Falcons",
+            "participantFirstName": "Air Force",
+            "participantShortName": "AIRF"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/102849.png",
+            "participantId": 51989,
+            "participantName": "Nevada Wolf Pack",
+            "participantLastName": "Wolf Pack",
+            "participantFirstName": "Nevada",
+            "participantShortName": "NEVADA"
+          }
+        ],
+        "paramFloat1": 45.5,
+        "selection": "Over 45.5",
+        "odds": 1.83,
+        "offerId": 182458785803442700,
+        "outcomeId": 182447215785251070,
+        "market": "Over/Under",
+        "eventPartId": 30,
+        "startTime": 1663977600,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Air Force Falcons vs Nevada Wolf Pack"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 4.2025,
+      "wager": 1000,
+      "toWin": 3202.5,
+      "submitTime": 1680193851
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101157.png",
+            "participantId": 37511,
+            "participantName": "Virginia Cavaliers",
+            "participantLastName": "Cavaliers",
+            "participantFirstName": "Virginia",
+            "participantShortName": "VIR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/108157.png",
+            "participantId": 37530,
+            "participantName": "Syracuse Orange",
+            "participantLastName": "Orange",
+            "participantFirstName": "Syracuse",
+            "participantShortName": "SYRA"
+          }
+        ],
+        "paramFloat1": 9,
+        "selection": "Virginia Cavaliers (+9)",
+        "odds": 2.05,
+        "offerId": 182456482369278460,
+        "outcomeId": 182436459633155840,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663974000,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Syracuse Orange vs Virginia Cavaliers"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/103577.png",
+            "participantId": 51954,
+            "participantName": "Air Force Falcons",
+            "participantLastName": "Falcons",
+            "participantFirstName": "Air Force",
+            "participantShortName": "AIRF"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/102849.png",
+            "participantId": 51989,
+            "participantName": "Nevada Wolf Pack",
+            "participantLastName": "Wolf Pack",
+            "participantFirstName": "Nevada",
+            "participantShortName": "NEVADA"
+          }
+        ],
+        "paramFloat1": -25,
+        "selection": "Air Force Falcons (-25)",
+        "odds": 2.05,
+        "offerId": 182458785806588670,
+        "outcomeId": 182439976998508030,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663977600,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Air Force Falcons vs Nevada Wolf Pack"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 151,
+      "wager": 10,
+      "toWin": 1500,
+      "submitTime": 1679953311
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Zach LaVine",
+        "odds": 151,
+        "offerId": 180320168424103420,
+        "outcomeId": 180320168334973200,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1666051200,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 8,
+        "eventName": "NBA MVP Regular Season 2022/2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 56,
+      "wager": 10,
+      "toWin": 550,
+      "submitTime": 1679952737
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Golden State Warriors",
+        "odds": 7,
+        "offerId": 180320078916605200,
+        "outcomeId": 174437948945678600,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1664582400,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 8,
+        "eventName": "NBA 2022/2023"
+      },
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Los Angeles Clippers",
+        "odds": 8,
+        "offerId": 180320078914508030,
+        "outcomeId": 174437948945681150,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1664582400,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 8,
+        "eventName": "NBA 2022/2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 3.72,
+      "wager": 10,
+      "toWin": 27.2,
+      "submitTime": 1679952632
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": -3,
+        "selection": "New Orleans Saints (-3)",
+        "odds": 2,
+        "offerId": 182004585859162620,
+        "outcomeId": 182000320126554100,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10805.png",
+            "participantId": 26086,
+            "participantName": "Houston Texans",
+            "participantLastName": "Texans",
+            "participantFirstName": "Houston",
+            "participantShortName": "HOU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10845.png",
+            "participantId": 26080,
+            "participantName": "Chicago Bears",
+            "participantLastName": "Bears",
+            "participantFirstName": "Chicago",
+            "participantShortName": "CHI"
+          }
+        ],
+        "paramFloat1": 39.5,
+        "selection": "Over 39.5",
+        "odds": 1.86,
+        "offerId": 182512109157259520,
+        "outcomeId": 182000319874896640,
+        "market": "Over/Under",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Chicago Bears vs Houston Texans"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 3.75,
+      "wager": 50,
+      "toWin": 137.5,
+      "submitTime": 1679952259
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Boston Celtics",
+        "odds": 3.75,
+        "offerId": 180315811381105150,
+        "outcomeId": 180315811321337600,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1664582400,
+        "statusId": 1,
+        "leagueName": "NBA 2022/2023",
+        "sportEventId": 8,
+        "eventName": "NBA Eastern Conference 2022/2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2.05,
+      "wager": 10,
+      "toWin": 10.5,
+      "submitTime": 1679952138
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6854.png",
+            "participantId": 2176,
+            "participantName": "Boston Celtics",
+            "participantLastName": "Celtics",
+            "participantFirstName": "Boston",
+            "participantShortName": "BOS"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6856.png",
+            "participantId": 2181,
+            "participantName": "Philadelphia 76ers",
+            "participantLastName": "76ers",
+            "participantFirstName": "Philadelphia",
+            "participantShortName": "PHI"
+          }
+        ],
+        "paramFloat1": -5.5,
+        "selection": "Boston Celtics (-5.5)",
+        "odds": 2.05,
+        "offerId": 179677218800184580,
+        "outcomeId": 179677218645185800,
+        "market": "Asian Handicap",
+        "eventPartId": 60,
+        "startTime": 1666135800,
+        "statusId": 1,
+        "leagueName": "NBA 2022/2023",
+        "sportEventId": 8,
+        "eventName": "Boston Celtics vs Philadelphia 76ers"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2,
+      "wager": 10,
+      "toWin": 10,
+      "submitTime": 1679952137
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6854.png",
+            "participantId": 2176,
+            "participantName": "Boston Celtics",
+            "participantLastName": "Celtics",
+            "participantFirstName": "Boston",
+            "participantShortName": "BOS"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6856.png",
+            "participantId": 2181,
+            "participantName": "Philadelphia 76ers",
+            "participantLastName": "76ers",
+            "participantFirstName": "Philadelphia",
+            "participantShortName": "PHI"
+          }
+        ],
+        "paramFloat1": 2.5,
+        "selection": "Philadelphia 76ers (+2.5)",
+        "odds": 2,
+        "offerId": 179677218801232400,
+        "outcomeId": 179677218653794560,
+        "market": "Asian Handicap",
+        "eventPartId": 60,
+        "startTime": 1666135800,
+        "statusId": 1,
+        "leagueName": "NBA 2022/2023",
+        "sportEventId": 8,
+        "eventName": "Boston Celtics vs Philadelphia 76ers"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 6.5,
+      "wager": 10,
+      "toWin": 55,
+      "submitTime": 1679952137
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Boston Celtics",
+        "odds": 6.5,
+        "offerId": 180320078915557380,
+        "outcomeId": 174437948946727940,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1664582400,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 8,
+        "eventName": "NBA 2022/2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 7.5,
+      "wager": 10,
+      "toWin": 65,
+      "submitTime": 1679952121
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Milwaukee Bucks",
+        "odds": 7.5,
+        "offerId": 180320078916604160,
+        "outcomeId": 174437948944629760,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1664582400,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 8,
+        "eventName": "NBA 2022/2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2.3,
+      "wager": 7.69,
+      "toWin": 10,
+      "submitTime": 1679952041
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": null,
+        "selection": "Carolina Panthers",
+        "odds": 2.3,
+        "offerId": 182000621512073470,
+        "outcomeId": 182000621450207500,
+        "market": "Home Draw Away",
+        "eventPartId": 31,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 1.9,
+      "wager": 22.22,
+      "toWin": 20,
+      "submitTime": 1679952015
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": 41,
+        "selection": "Over 41",
+        "odds": 1.9,
+        "offerId": 182057239902762500,
+        "outcomeId": 182000320025891330,
+        "market": "Over/Under",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 1.86,
+      "wager": 587.21,
+      "toWin": 505,
+      "submitTime": 1679951986
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10805.png",
+            "participantId": 26086,
+            "participantName": "Houston Texans",
+            "participantLastName": "Texans",
+            "participantFirstName": "Houston",
+            "participantShortName": "HOU"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10845.png",
+            "participantId": 26080,
+            "participantName": "Chicago Bears",
+            "participantLastName": "Bears",
+            "participantFirstName": "Chicago",
+            "participantShortName": "CHI"
+          }
+        ],
+        "paramFloat1": 39.5,
+        "selection": "Over 39.5",
+        "odds": 1.86,
+        "offerId": 182512109157259520,
+        "outcomeId": 182000319874896640,
+        "market": "Over/Under",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Chicago Bears vs Houston Texans"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2,
+      "wager": 50,
+      "toWin": 50,
+      "submitTime": 1679951986
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6643d42d7e2306708b732ab6190972bb.png",
+            "participantId": 26083,
+            "participantName": "Carolina Panthers",
+            "participantLastName": "Panthers",
+            "participantFirstName": "Carolina",
+            "participantShortName": "CAR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab7528b98d37b8db142f3707d6ec7d71.png",
+            "participantId": 26081,
+            "participantName": "New Orleans Saints",
+            "participantLastName": "Saints",
+            "participantFirstName": "New Orleans",
+            "participantShortName": "NO"
+          }
+        ],
+        "paramFloat1": -3,
+        "selection": "New Orleans Saints (-3)",
+        "odds": 2,
+        "offerId": 182004585859162620,
+        "outcomeId": 182000320126554100,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1664125200,
+        "statusId": 1,
+        "leagueName": "NFL 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Carolina Panthers vs New Orleans Saints"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 2,
+      "wager": 50,
+      "toWin": 50,
+      "submitTime": 1679940960
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6854.png",
+            "participantId": 2176,
+            "participantName": "Boston Celtics",
+            "participantLastName": "Celtics",
+            "participantFirstName": "Boston",
+            "participantShortName": "BOS"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6856.png",
+            "participantId": 2181,
+            "participantName": "Philadelphia 76ers",
+            "participantLastName": "76ers",
+            "participantFirstName": "Philadelphia",
+            "participantShortName": "PHI"
+          }
+        ],
+        "paramFloat1": 2.5,
+        "selection": "Philadelphia 76ers (+2.5)",
+        "odds": 2,
+        "offerId": 179677218801232400,
+        "outcomeId": 179677218653794560,
+        "market": "Asian Handicap",
+        "eventPartId": 60,
+        "startTime": 1666135800,
+        "statusId": 1,
+        "leagueName": "NBA 2022/2023",
+        "sportEventId": 8,
+        "eventName": "Boston Celtics vs Philadelphia 76ers"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 6.5,
+      "wager": 4.5,
+      "toWin": 24.75,
+      "submitTime": 1679940916
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Boston Celtics",
+        "odds": 6.5,
+        "offerId": 180320078915557380,
+        "outcomeId": 174437948946727940,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1664582400,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 8,
+        "eventName": "NBA 2022/2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "straight",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 7,
+      "wager": 21,
+      "toWin": 126,
+      "submitTime": 1679940903
+    },
+    "bets": [
+      {
+        "participants": null,
+        "paramFloat1": null,
+        "selection": "Golden State Warriors",
+        "odds": 7,
+        "offerId": 180320078916605200,
+        "outcomeId": 174437948945678600,
+        "market": "Winner",
+        "eventPartId": 1,
+        "startTime": 1664582400,
+        "statusId": 1,
+        "leagueName": null,
+        "sportEventId": 8,
+        "eventName": "NBA 2022/2023"
+      }
+    ]
+  },
+  {
+    "bet_type": "parlay",
+    "is_ongoing": true,
+    "statusId": 1,
+    "oddDetails": {
+      "odds": 8.2,
+      "wager": 10,
+      "toWin": 72,
+      "submitTime": 1679932456
+    },
+    "bets": [
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101157.png",
+            "participantId": 37511,
+            "participantName": "Virginia Cavaliers",
+            "participantLastName": "Cavaliers",
+            "participantFirstName": "Virginia",
+            "participantShortName": "VIR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/108157.png",
+            "participantId": 37530,
+            "participantName": "Syracuse Orange",
+            "participantLastName": "Orange",
+            "participantFirstName": "Syracuse",
+            "participantShortName": "SYRA"
+          }
+        ],
+        "paramFloat1": 9,
+        "selection": "Virginia Cavaliers (+9)",
+        "odds": 2.05,
+        "offerId": 182456482369278460,
+        "outcomeId": 182436459633155840,
+        "market": "Asian Handicap",
+        "eventPartId": 30,
+        "startTime": 1663974000,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Syracuse Orange vs Virginia Cavaliers"
+      },
+      {
+        "participants": [
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/101157.png",
+            "participantId": 37511,
+            "participantName": "Virginia Cavaliers",
+            "participantLastName": "Cavaliers",
+            "participantFirstName": "Virginia",
+            "participantShortName": "VIR"
+          },
+          {
+            "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/108157.png",
+            "participantId": 37530,
+            "participantName": "Syracuse Orange",
+            "participantLastName": "Orange",
+            "participantFirstName": "Syracuse",
+            "participantShortName": "SYRA"
+          }
+        ],
+        "paramFloat1": null,
+        "selection": "Virginia Cavaliers",
+        "odds": 4,
+        "offerId": 182456482369278980,
+        "outcomeId": 182436459636486140,
+        "market": "Home Away",
+        "eventPartId": 30,
+        "startTime": 1663974000,
+        "statusId": 1,
+        "leagueName": "NCAA 2022/2023",
+        "sportEventId": 5,
+        "eventName": "Syracuse Orange vs Virginia Cavaliers"
+      }
+    ]
+  }
+]

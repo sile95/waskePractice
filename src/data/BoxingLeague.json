@@ -1,0 +1,1577 @@
+{
+  "182670771158568960": {
+    "startTime": "2022-09-23 21:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 182670754508230660,
+      "participantName": "Nahir Albright",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/b4c084b2699479c6786c610baba0d413.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Estivan Falcao",
+          "outcomeId": "182670771205083136",
+          "offerId": "182670771253317632",
+          "odds": 3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670771158568960",
+          "bettingTypeId": 466,
+          "participantReference": 182670689514344450
+        },
+        {
+          "selection": "Nahir Albright",
+          "outcomeId": "182670771205083392",
+          "offerId": "182670771253317888",
+          "odds": 1.36,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670771158568960",
+          "bettingTypeId": 466,
+          "participantReference": 182670754508230660
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 182670689514344450,
+      "participantName": "Estivan Falcao",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/a644a53dee6d43bbd445c419c7ca6965.png"
+    }
+  },
+  "182670772050907136": {
+    "startTime": "2022-09-23 22:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 182670674014294000,
+      "participantName": "Christopher Lopez Rodriguez",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ed2d6c70308550779229186440d7ff4d.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Alejandro Jair Gonzalez",
+          "outcomeId": "182670772111053056",
+          "offerId": "182670772165578752",
+          "odds": 4.33,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670772050907136",
+          "bettingTypeId": 466,
+          "participantReference": 182615901321875460
+        },
+        {
+          "selection": "Christopher Lopez Rodriguez",
+          "outcomeId": "182670772111052800",
+          "offerId": "182670772164530176",
+          "odds": 1.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670772050907136",
+          "bettingTypeId": 466,
+          "participantReference": 182670674014294000
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 182615901321875460,
+      "participantName": "Alejandro Jair Gonzalez",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1c28c9d9ae2b8858feba0ee0ecbd99cf.png"
+    }
+  },
+  "182670770480140288": {
+    "startTime": "2022-09-24 02:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 182670709318799360,
+      "participantName": "Henry Lebron",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/0a2ceb61a0ce3a490d574010d59166d9.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Andy Vences",
+          "outcomeId": "182670770516869888",
+          "offerId": "182670770570694656",
+          "odds": 4.33,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670770480140288",
+          "bettingTypeId": 466,
+          "participantReference": 140917478017519620
+        },
+        {
+          "selection": "Henry Lebron",
+          "outcomeId": "182670770516869632",
+          "offerId": "182670770571743232",
+          "odds": 1.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670770480140288",
+          "bettingTypeId": 466,
+          "participantReference": 182670709318799360
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 140917478017519620,
+      "participantName": "Andy Vences",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/461281.png"
+    }
+  },
+  "175698573241929728": {
+    "startTime": "2022-09-24 03:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 8656302397104128,
+      "participantName": "Shakur Stevenson",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/389099.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Robson Conceicao",
+          "outcomeId": "175698573294460928",
+          "offerId": "175698573344763904",
+          "odds": 6.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "175698573241929728",
+          "bettingTypeId": 466,
+          "participantReference": 148527010483851260
+        },
+        {
+          "selection": "Shakur Stevenson",
+          "outcomeId": "175698573294461184",
+          "offerId": "175698573345812480",
+          "odds": 1.1,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "175698573241929728",
+          "bettingTypeId": 466,
+          "participantReference": 8656302397104128
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 148527010483851260,
+      "participantName": "Robson Conceicao",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/389459.png"
+    }
+  },
+  "182670771017011200": {
+    "startTime": "2022-09-24 17:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 171478099810111500,
+      "participantName": "Raven Chapman",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/f6715ee9e6394645f8336a30a8e7a809.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Jorgelina Guanini",
+          "outcomeId": "182670771068350464",
+          "offerId": "182670771112808704",
+          "odds": 3.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670771017011200",
+          "bettingTypeId": 466,
+          "participantReference": 182670739583848450
+        },
+        {
+          "selection": "Raven Chapman",
+          "outcomeId": "182670771069399040",
+          "offerId": "182670771112808448",
+          "odds": 1.33,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670771017011200",
+          "bettingTypeId": 466,
+          "participantReference": 171478099810111500
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 182670739583848450,
+      "participantName": "Jorgelina Guanini",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/0e60a71ed3c0d47711cfc7aa9c4d685b.png"
+    }
+  },
+  "182617697669926912": {
+    "startTime": "2022-09-24 18:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 169037552693596160,
+      "participantName": "Ekow Essuman",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4882bf1f318b183d4f3d03633040a218.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Ekow Essuman",
+          "outcomeId": "182617697702809600",
+          "offerId": "182617697751045376",
+          "odds": 1.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182617697669926912",
+          "bettingTypeId": 466,
+          "participantReference": 169037552693596160
+        },
+        {
+          "selection": "Samuel Antwi",
+          "outcomeId": "182617697702809856",
+          "offerId": "182617697751045632",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182617697669926912",
+          "bettingTypeId": 466,
+          "participantReference": 161668365628264450
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 161668365628264450,
+      "participantName": "Samuel Antwi",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8993b9877b38404e9a2ff8300984d70b.png"
+    }
+  },
+  "182670770706632704": {
+    "startTime": "2022-09-24 18:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 153613032658882560,
+      "participantName": "Nathan Heaney",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/86fd638182352990546640fcdb0463bf.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Jack Flatley",
+          "outcomeId": "182670770754220544",
+          "offerId": "182670770818158592",
+          "odds": 4.33,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670770706632704",
+          "bettingTypeId": 466,
+          "participantReference": 182670728353599500
+        },
+        {
+          "selection": "Nathan Heaney",
+          "outcomeId": "182670770754220032",
+          "offerId": "182670770817110016",
+          "odds": 1.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182670770706632704",
+          "bettingTypeId": 466,
+          "participantReference": 153613032658882560
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 182670728353599500,
+      "participantName": "Jack Flatley",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1f859c8e216398cb2054d23713f4f1c3.png"
+    }
+  },
+  "180765752337420288": {
+    "startTime": "2022-09-24 19:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 180765631179706370,
+      "participantName": "Hannah Rankin",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2171917.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Hannah Rankin",
+          "outcomeId": "180765752377362944",
+          "offerId": "180765752570193152",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180765752337420288",
+          "bettingTypeId": 466,
+          "participantReference": 180765631179706370
+        },
+        {
+          "selection": "Terri Harper",
+          "outcomeId": "180765752376313344",
+          "offerId": "180765752567047424",
+          "odds": 1.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180765752337420288",
+          "bettingTypeId": 466,
+          "participantReference": 180765664046272500
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 180765664046272500,
+      "participantName": "Terri Harper",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2fcefb5e1aa54b5fbf3bad622bb0ce41.png"
+    }
+  },
+  "182619103637327872": {
+    "startTime": "2022-09-24 19:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 167773721707204600,
+      "participantName": "Michael Magnesi",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/59221d48dd7b1758bce4eff5b36e57d2.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Anthony Cacace",
+          "outcomeId": "182619103693279232",
+          "offerId": "182619103753048064",
+          "odds": 1.53,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182619103637327872",
+          "bettingTypeId": 466,
+          "participantReference": 147175780883943420
+        },
+        {
+          "selection": "Michael Magnesi",
+          "outcomeId": "182619103693279488",
+          "offerId": "182619103751999744",
+          "odds": 2.37,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182619103637327872",
+          "bettingTypeId": 466,
+          "participantReference": 167773721707204600
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 147175780883943420,
+      "participantName": "Anthony Cacace",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/779511.png"
+    }
+  },
+  "180321932354310144": {
+    "startTime": "2022-09-24 20:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 146532705547374600,
+      "participantName": "Maxi Hughes",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/135333.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Kid Galahad",
+          "outcomeId": "180321932401676288",
+          "offerId": "180321932489566464",
+          "odds": 1.44,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180321932354310144",
+          "bettingTypeId": 466,
+          "participantReference": 1555176
+        },
+        {
+          "selection": "Maxi Hughes",
+          "outcomeId": "180321932401676544",
+          "offerId": "180321932487467008",
+          "odds": 2.62,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180321932354310144",
+          "bettingTypeId": 466,
+          "participantReference": 146532705547374600
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1555176,
+      "participantName": "Kid Galahad",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/57911.png"
+    }
+  },
+  "182615999722344448": {
+    "startTime": "2022-09-24 20:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 1547672,
+      "participantName": "Amanda Serrano ",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/536859.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Amanda Serrano",
+          "outcomeId": "182615999769829888",
+          "offerId": "182615999995351296",
+          "odds": 1.05,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182615999722344448",
+          "bettingTypeId": 466,
+          "participantReference": 1547672
+        },
+        {
+          "selection": "Sarah Mahfoud",
+          "outcomeId": "182615999769830400",
+          "offerId": "182615999996399616",
+          "odds": 10,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182615999722344448",
+          "bettingTypeId": 466,
+          "participantReference": 182615981855658000
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 8.5",
+          "outcomeId": "182691508586455552",
+          "offerId": "182695606963572992",
+          "odds": 1.9,
+          "paramFloat1": 8.5,
+          "market": "Over/Under",
+          "eventPartId": 130,
+          "eventId": "182615999722344448",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 182615981855658000,
+      "participantName": "Sarah Mahfoud",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/06c3d9aba47e995f614a0db6c1062a65.png"
+    }
+  },
+  "178344476508475392": {
+    "startTime": "2022-09-24 21:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 1451043,
+      "participantName": "Joseph Joyce",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/389151.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Joseph Joyce",
+          "outcomeId": "178344476554715392",
+          "offerId": "178344476603843328",
+          "odds": 1.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "178344476508475392",
+          "bettingTypeId": 466,
+          "participantReference": 1451043
+        },
+        {
+          "selection": "Joseph Parker",
+          "outcomeId": "178344476554715648",
+          "offerId": "178344476603843584",
+          "odds": 2.62,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "178344476508475392",
+          "bettingTypeId": 466,
+          "participantReference": 927232
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 927232,
+      "participantName": "Joseph Parker",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/52197.png"
+    }
+  },
+  "180307029406044160": {
+    "startTime": "2022-09-24 21:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 97081952501235710,
+      "participantName": "Wood Leigh",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/247129.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Mauricio Lara",
+          "outcomeId": "180307029445005568",
+          "offerId": "180307029524522496",
+          "odds": 1.4,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180307029406044160",
+          "bettingTypeId": 466,
+          "participantReference": 127601646571147260
+        },
+        {
+          "selection": "Wood Leigh",
+          "outcomeId": "180307029445005312",
+          "offerId": "180307029524523264",
+          "odds": 2.75,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180307029406044160",
+          "bettingTypeId": 466,
+          "participantReference": 97081952501235710
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 6.5",
+          "outcomeId": "180724554463097856",
+          "offerId": "180780020847911168",
+          "odds": 2,
+          "paramFloat1": 6.5,
+          "market": "Over/Under",
+          "eventPartId": 130,
+          "eventId": "180307029406044160",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 127601646571147260,
+      "participantName": "Mauricio Lara",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/afd6d5438702e376d689b0c2bc60b761.png"
+    }
+  },
+  "178824064388878336": {
+    "startTime": "2022-10-08 21:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 135297875056840700,
+      "participantName": "Chris Eubank Jr.",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/57899.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chris Eubank Jr.",
+          "outcomeId": "178824064445682944",
+          "offerId": "178867768216518912",
+          "odds": 1.44,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "178824064388878336",
+          "bettingTypeId": 466,
+          "participantReference": 135297875056840700
+        },
+        {
+          "selection": "Conor Benn",
+          "outcomeId": "178824064445683200",
+          "offerId": "178867768216518656",
+          "odds": 2.62,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "178824064388878336",
+          "bettingTypeId": 466,
+          "participantReference": 1442048
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 8.5",
+          "outcomeId": "180145287256469504",
+          "offerId": "182692695969796352",
+          "odds": 1.9,
+          "paramFloat1": 8.5,
+          "market": "Over/Under",
+          "eventPartId": 130,
+          "eventId": "178824064388878336",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1442048,
+      "participantName": "Conor Benn",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/328673.png"
+    }
+  },
+  "182668258287079424": {
+    "startTime": "2022-10-15 17:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 181604411156516860,
+      "participantName": "Sarah Liegmann",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ff1f13e81a94120e8a8d12270461f008.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Bec Connolly",
+          "outcomeId": "182668258339885312",
+          "offerId": "182668258384973824",
+          "odds": 12,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182668258287079424",
+          "bettingTypeId": 466,
+          "participantReference": 141008824205103100
+        },
+        {
+          "selection": "Sarah Liegmann",
+          "outcomeId": "182668258339885056",
+          "offerId": "182668258386022400",
+          "odds": 1.03,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182668258287079424",
+          "bettingTypeId": 466,
+          "participantReference": 181604411156516860
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 141008824205103100,
+      "participantName": "Bec Connolly",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/d038a270d4d358d77d9b0cd083debefe.png"
+    }
+  },
+  "182674547997200384": {
+    "startTime": "2022-10-15 17:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 181604433893838850,
+      "participantName": "Shannon Ryan",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/80390bc8297c2713d34e7a1f2f5e2dce.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Buchra El Quaissi",
+          "outcomeId": "182674548038471680",
+          "offerId": "182674548075172096",
+          "odds": 21,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182674547997200384",
+          "bettingTypeId": 466,
+          "participantReference": 181604357541777400
+        },
+        {
+          "selection": "Shannon Ryan",
+          "outcomeId": "182674548038471936",
+          "offerId": "182674548075171840",
+          "odds": 1.01,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182674547997200384",
+          "bettingTypeId": 466,
+          "participantReference": 181604433893838850
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 181604357541777400,
+      "participantName": "Buchra El Quaissi",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/56efdd79b82df2de30ee5c3bbd10b4bc.png"
+    }
+  },
+  "182730371956264960": {
+    "startTime": "2022-10-15 17:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 181604398810583040,
+      "participantName": "Ginny Fuchs",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": null
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Gemma Ruegg",
+          "outcomeId": "182730371996139520",
+          "offerId": "182730372075130880",
+          "odds": 15,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182730371956264960",
+          "bettingTypeId": 466,
+          "participantReference": 181604374623080450
+        },
+        {
+          "selection": "Ginny Fuchs",
+          "outcomeId": "182730371995090944",
+          "offerId": "182730372076179456",
+          "odds": 1.02,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182730371956264960",
+          "bettingTypeId": 466,
+          "participantReference": 181604398810583040
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 181604374623080450,
+      "participantName": "Gemma Ruegg",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/eaa3081879e00c9c485aee06e5698641.png"
+    }
+  },
+  "182674547930091520": {
+    "startTime": "2022-10-15 19:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 143908883550752770,
+      "participantName": "Caroline Dubois",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/129c0cc6ffffa36299c28939eabc12ec.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Caroline Dubois",
+          "outcomeId": "182674547970031616",
+          "offerId": "182674548025888768",
+          "odds": 1.01,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182674547930091520",
+          "bettingTypeId": 466,
+          "participantReference": 143908883550752770
+        },
+        {
+          "selection": "Milena Koleva",
+          "outcomeId": "182674547970031872",
+          "offerId": "182674548026937344",
+          "odds": 21,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182674547930091520",
+          "bettingTypeId": 466,
+          "participantReference": 181601897210236930
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 181601897210236930,
+      "participantName": "Milena Koleva",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/609763.png"
+    }
+  },
+  "181848976400633856": {
+    "startTime": "2022-10-15 20:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 106522567196692480,
+      "participantName": "Mikaela Mayer",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/389671.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Alycia Baumgardner",
+          "outcomeId": "181848976588717312",
+          "offerId": "181848976651231488",
+          "odds": 3.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181848976400633856",
+          "bettingTypeId": 466,
+          "participantReference": 177608519460114700
+        },
+        {
+          "selection": "Mikaela Mayer",
+          "outcomeId": "181848976588717056",
+          "offerId": "181848976648085504",
+          "odds": 1.36,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181848976400633856",
+          "bettingTypeId": 466,
+          "participantReference": 106522567196692480
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 177608519460114700,
+      "participantName": "Alycia Baumgardner",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ea6a67474e93ce04c33629bf5db249e3.png"
+    }
+  },
+  "181738936557686784": {
+    "startTime": "2022-10-15 21:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 149153616416002050,
+      "participantName": "Claressa Shields",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/207859.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Claressa Shields",
+          "outcomeId": "181738936612605952",
+          "offerId": "181738936675115008",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181738936557686784",
+          "bettingTypeId": 466,
+          "participantReference": 149153616416002050
+        },
+        {
+          "selection": "Savannah Marshall",
+          "outcomeId": "181738936612606464",
+          "offerId": "181738936680357888",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181738936557686784",
+          "bettingTypeId": 466,
+          "participantReference": 177609081978146800
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 177609081978146800,
+      "participantName": "Savannah Marshall",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/389689.png"
+    }
+  },
+  "180321932256792576": {
+    "startTime": "2022-10-16 02:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 1561242,
+      "participantName": "Caleb Plant",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/407255.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Anthony Dirrell",
+          "outcomeId": "180321932289287424",
+          "offerId": "180321932348006656",
+          "odds": 7,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180321932256792576",
+          "bettingTypeId": 466,
+          "participantReference": 153611522216611840
+        },
+        {
+          "selection": "Caleb Plant",
+          "outcomeId": "180321932289287168",
+          "offerId": "180321932348006400",
+          "odds": 1.08,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180321932256792576",
+          "bettingTypeId": 466,
+          "participantReference": 1561242
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 153611522216611840,
+      "participantName": "Anthony Dirrell",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/75415.png"
+    }
+  },
+  "180321932442390528": {
+    "startTime": "2022-10-16 03:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 878269,
+      "participantName": "Deontay Wilder",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/93115.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Deontay Wilder",
+          "outcomeId": "180321932488904704",
+          "offerId": "180321932548284416",
+          "odds": 1.12,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180321932442390528",
+          "bettingTypeId": 466,
+          "participantReference": 878269
+        },
+        {
+          "selection": "Robert Helenius",
+          "outcomeId": "180321932488904960",
+          "offerId": "180321932549332992",
+          "odds": 5.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180321932442390528",
+          "bettingTypeId": 466,
+          "participantReference": 1252662
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1252662,
+      "participantName": "Robert Helenius",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/166539.png"
+    }
+  },
+  "180359866053873664": {
+    "startTime": "2022-10-16 03:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 119433177982881800,
+      "participantName": "Devin Haney",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1625945.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Devin Haney",
+          "outcomeId": "180359866102276608",
+          "offerId": "180359866211148032",
+          "odds": 1.1,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180359866053873664",
+          "bettingTypeId": 466,
+          "participantReference": 119433177982881800
+        },
+        {
+          "selection": "George Kambosos Jr",
+          "outcomeId": "180359866102276352",
+          "offerId": "180359866211147776",
+          "odds": 6.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180359866053873664",
+          "bettingTypeId": 466,
+          "participantReference": 108032942856622080
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 108032942856622080,
+      "participantName": "George Kambosos Jr",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/f8dc7f25106be9fb1730487ffec6315c.png"
+    }
+  },
+  "180765774417285120": {
+    "startTime": "2022-10-29 21:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 180765648821997570,
+      "participantName": "Hughie Fury",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/153109.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Hughie Fury",
+          "outcomeId": "180765774458274304",
+          "offerId": "180765774656348928",
+          "odds": 2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180765774417285120",
+          "bettingTypeId": 466,
+          "participantReference": 180765648821997570
+        },
+        {
+          "selection": "Michael Hunter",
+          "outcomeId": "180765774458273792",
+          "offerId": "180765774656349184",
+          "odds": 1.72,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180765774417285120",
+          "bettingTypeId": 466,
+          "participantReference": 141010858781233150
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 141010858781233150,
+      "participantName": "Michael Hunter",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/347895.png"
+    }
+  },
+  "182347116479303680": {
+    "startTime": "2022-10-30 03:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 824990,
+      "participantName": "Vasyl Lomachenko",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/59629.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Jamaine Ortiz",
+          "outcomeId": "182347116522283008",
+          "offerId": "182347116590829568",
+          "odds": 8,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182347116479303680",
+          "bettingTypeId": 466,
+          "participantReference": 182347061786628100
+        },
+        {
+          "selection": "Vasyl Lomachenko",
+          "outcomeId": "182347116522283264",
+          "offerId": "182347116591878144",
+          "odds": 1.06,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182347116479303680",
+          "bettingTypeId": 466,
+          "participantReference": 824990
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 182347061786628100,
+      "participantName": "Jamaine Ortiz",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/d8722a7d9131388e4b693fffac010917.png"
+    }
+  },
+  "181347799580856320": {
+    "startTime": "2022-10-30 04:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 93711718435258370,
+      "participantName": "Jake Paul",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1903465.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Anderson Silva",
+          "outcomeId": "181347799655293184",
+          "offerId": "181348205412262144",
+          "odds": 1.76,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181347799580856320",
+          "bettingTypeId": 466,
+          "participantReference": 56972
+        },
+        {
+          "selection": "Jake Paul",
+          "outcomeId": "181347799655292928",
+          "offerId": "181348205412261888",
+          "odds": 1.9,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181347799580856320",
+          "bettingTypeId": 466,
+          "participantReference": 93711718435258370
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 56972,
+      "participantName": "Anderson Silva",
+      "participantFirstName": "Anderson",
+      "participantLastName": "Silva",
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8643f802d91ad74e822151a8964c468b.png"
+    }
+  },
+  "181780984332603392": {
+    "startTime": "2022-11-05 20:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 132410120231505920,
+      "participantName": "Joe Cordina",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": null
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Joe Cordina",
+          "outcomeId": "181780984371388672",
+          "offerId": "181780984417525760",
+          "odds": 1.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181780984332603392",
+          "bettingTypeId": 466,
+          "participantReference": 132410120231505920
+        },
+        {
+          "selection": "Shavkat Rakhimov",
+          "outcomeId": "181780984371388416",
+          "offerId": "181780984417526016",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181780984332603392",
+          "bettingTypeId": 466,
+          "participantReference": 125055641451548670
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 125055641451548670,
+      "participantName": "Shavkat Rakhimov",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1304203.png"
+    }
+  },
+  "182347115847012352": {
+    "startTime": "2022-11-05 20:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 117455943450546180,
+      "participantName": "Chantelle Cameron",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1114055.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chantelle Cameron",
+          "outcomeId": "182347115907158272",
+          "offerId": "182347115955392768",
+          "odds": 1.83,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182347115847012352",
+          "bettingTypeId": 466,
+          "participantReference": 117455943450546180
+        },
+        {
+          "selection": "Jessica McCaskill",
+          "outcomeId": "182347115906109440",
+          "offerId": "182347115955392512",
+          "odds": 1.83,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182347115847012352",
+          "bettingTypeId": 466,
+          "participantReference": 182347098897829900
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 182347098897829900,
+      "participantName": "Jessica McCaskill",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1070787.png"
+    }
+  },
+  "181459769304862720": {
+    "startTime": "2022-11-05 22:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 135297916777582600,
+      "participantName": "Dmitry Bivol",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/247747.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Dmitry Bivol",
+          "outcomeId": "181459769351073792",
+          "offerId": "181459769393016832",
+          "odds": 1.16,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181459769304862720",
+          "bettingTypeId": 466,
+          "participantReference": 135297916777582600
+        },
+        {
+          "selection": "Gilberto Ramirez",
+          "outcomeId": "181459769351074304",
+          "offerId": "181459769393017088",
+          "odds": 4.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181459769304862720",
+          "bettingTypeId": 466,
+          "participantReference": 142723838526935040
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 142723838526935040,
+      "participantName": "Gilberto Ramirez",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/77115.png"
+    }
+  },
+  "182356646667800576": {
+    "startTime": "2022-11-20 04:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 1259435,
+      "participantName": "Errol Spence Jr.",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/139175.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Errol Spence Jr.",
+          "outcomeId": "182356646718312448",
+          "offerId": "182694814632284416",
+          "odds": 2.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182356646667800576",
+          "bettingTypeId": 466,
+          "participantReference": 1259435
+        },
+        {
+          "selection": "Terence Crawford",
+          "outcomeId": "182356646718312704",
+          "offerId": "182694814632284160",
+          "odds": 1.66,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "182356646667800576",
+          "bettingTypeId": 466,
+          "participantReference": 935214
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 935214,
+      "participantName": "Terence Crawford",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/62391.png"
+    }
+  },
+  "181878777288118272": {
+    "startTime": "2022-12-04 04:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 8656282354884608,
+      "participantName": "Juan Francisco Estrada",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/103265.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Juan Francisco Estrada",
+          "outcomeId": "181878777349099776",
+          "offerId": "181878777387720704",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181878777288118272",
+          "bettingTypeId": 466,
+          "participantReference": 8656282354884608
+        },
+        {
+          "selection": "Roman Gonzalez",
+          "outcomeId": "181878777349099520",
+          "offerId": "181878777386672128",
+          "odds": 1.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "181878777288118272",
+          "bettingTypeId": 466,
+          "participantReference": 1081730
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1081730,
+      "participantName": "Roman Gonzalez",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/b8499c48e69bb496e466ef5a92321c84.png"
+    }
+  },
+  "180592260879011840": {
+    "startTime": "2022-12-13 12:00:00.000",
+    "leagueName": "BOXING",
+    "Home": {
+      "participantId": 1102865,
+      "participantName": "Naoya Inoue",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/103257.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Naoya Inoue",
+          "outcomeId": "180592260927234304",
+          "offerId": "180592260999586048",
+          "odds": 1.02,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180592260879011840",
+          "bettingTypeId": 466,
+          "participantReference": 1102865
+        },
+        {
+          "selection": "Paul Butler",
+          "outcomeId": "180592260927234560",
+          "offerId": "180592260999585792",
+          "odds": 13,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 130,
+          "eventId": "180592260879011840",
+          "bettingTypeId": 466,
+          "participantReference": 141386198249689090
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 141386198249689090,
+      "participantName": "Paul Butler",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/59591.png"
+    }
+  }
+}

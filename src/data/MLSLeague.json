@@ -1,0 +1,3407 @@
+{
+  "181726576462843904": {
+    "startTime": "2022-09-25 02:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1523,
+      "participantName": "San Jose Earthquakes",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/dafdf5470078d3520ee7ad74ae8619dc.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "181726576533399552",
+          "offerId": "182511773731075072",
+          "odds": 3.8,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Los Angeles Galaxy",
+          "outcomeId": "181726576534446080",
+          "offerId": "182511773727929088",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 69,
+          "participantReference": 1474
+        },
+        {
+          "selection": "San Jose Earthquakes",
+          "outcomeId": "181726576553324032",
+          "offerId": "182511773728977920",
+          "odds": 2.875,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 69,
+          "participantReference": 1523
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Los Angeles Galaxy (-0.25)",
+          "outcomeId": "182356924736893696",
+          "offerId": "182511773728977664",
+          "odds": 1.9,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 48,
+          "participantReference": 1474
+        },
+        {
+          "selection": "San Jose Earthquakes (+0.25)",
+          "outcomeId": "182356924735844608",
+          "offerId": "182511773727930112",
+          "odds": 1.95,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 48,
+          "participantReference": 1523
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182356924724310528",
+          "offerId": "182511773731076096",
+          "odds": 1.9,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3.25",
+          "outcomeId": "182356924725359360",
+          "offerId": "182511773731075840",
+          "odds": 1.95,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.5",
+          "outcomeId": "181726576547030272",
+          "offerId": "182512127906492928",
+          "odds": 2.075,
+          "paramFloat1": 3.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181726576462843904",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1474,
+      "participantName": "Los Angeles Galaxy",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4914.png"
+    }
+  },
+  "181998560991039488": {
+    "startTime": "2022-09-28 02:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 78553,
+      "participantName": "Seattle Sounders",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4926.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182379284211786240",
+          "offerId": "182511773735268352",
+          "odds": 4.2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181998560991039488",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "FC Cincinnati",
+          "outcomeId": "182379284211785984",
+          "offerId": "182511773732124928",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181998560991039488",
+          "bettingTypeId": 69,
+          "participantReference": 1416388
+        },
+        {
+          "selection": "Seattle Sounders",
+          "outcomeId": "182379284211785728",
+          "offerId": "182511773735269120",
+          "odds": 1.833,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181998560991039488",
+          "bettingTypeId": 69,
+          "participantReference": 78553
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Seattle Sounders (-0.5)",
+          "outcomeId": "182066524848169216",
+          "offerId": "182511773734220544",
+          "odds": 1.9,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181998560991039488",
+          "bettingTypeId": 48,
+          "participantReference": 78553
+        },
+        {
+          "selection": "FC Cincinnati (+0.5)",
+          "outcomeId": "182066524848169472",
+          "offerId": "182511773734221568",
+          "odds": 1.95,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181998560991039488",
+          "bettingTypeId": 48,
+          "participantReference": 1416388
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182066524847120384",
+          "offerId": "182511773734221824",
+          "odds": 1.975,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181998560991039488",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182066524848168960",
+          "offerId": "182511773736320000",
+          "odds": 1.875,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181998560991039488",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1416388,
+      "participantName": "FC Cincinnati",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/e5f0b526e100cbb7066c0e97cf082f60.png"
+    }
+  },
+  "182066525320040448": {
+    "startTime": "2022-09-30 23:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 75627,
+      "participantName": "Toronto FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4940.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182066525616955648",
+          "offerId": "182601120572587776",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525320040448",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Inter Miami CF",
+          "outcomeId": "182066525603325952",
+          "offerId": "182601120572584704",
+          "odds": 3.1,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525320040448",
+          "bettingTypeId": 69,
+          "participantReference": 90650280999256060
+        },
+        {
+          "selection": "Toronto FC",
+          "outcomeId": "182066525609617664",
+          "offerId": "182601120571538944",
+          "odds": 2.05,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525320040448",
+          "bettingTypeId": 69,
+          "participantReference": 75627
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Toronto FC (-0.5)",
+          "outcomeId": "182066525577978112",
+          "offerId": "182601120574682624",
+          "odds": 2.025,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525320040448",
+          "bettingTypeId": 48,
+          "participantReference": 75627
+        },
+        {
+          "selection": "Inter Miami CF (+0.25)",
+          "outcomeId": "182066525638978304",
+          "offerId": "182602266583316480",
+          "odds": 2.05,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525320040448",
+          "bettingTypeId": 48,
+          "participantReference": 90650280999256060
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182066525598081280",
+          "offerId": "182601120572586752",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525320040448",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182066525615909120",
+          "offerId": "182601120571539200",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525320040448",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 90650280999256060,
+      "participantName": "Inter Miami CF",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/c90e36c29a220479b55837ef1299093e.png"
+    }
+  },
+  "182066525925068800": {
+    "startTime": "2022-10-01 17:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1478,
+      "participantName": "New England Revolution",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1a340530753de6f99e774a1c212fd513.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Atlanta United",
+          "outcomeId": "182066526435072512",
+          "offerId": "182601120617676544",
+          "odds": 2.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 69,
+          "participantReference": 1546162
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182066526434024960",
+          "offerId": "182601120617675264",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "New England Revolution",
+          "outcomeId": "182066526413664512",
+          "offerId": "182601120618722816",
+          "odds": 2.2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 69,
+          "participantReference": 1478
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "New England Revolution (-0.25)",
+          "outcomeId": "182066526430875904",
+          "offerId": "182601120616625152",
+          "odds": 2,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 48,
+          "participantReference": 1478
+        },
+        {
+          "selection": "Atlanta United (+0.25)",
+          "outcomeId": "182066526440312832",
+          "offerId": "182601120615578624",
+          "odds": 1.85,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 48,
+          "participantReference": 1546162
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182066526387479040",
+          "offerId": "182601120615578368",
+          "odds": 1.825,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182066526387478784",
+          "offerId": "182601120615577600",
+          "odds": 2.025,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182066526423539200",
+          "offerId": "182605082182890752",
+          "odds": 2.05,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525925068800",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1546162,
+      "participantName": "Atlanta United",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/517959.png"
+    }
+  },
+  "182066524949893120": {
+    "startTime": "2022-10-01 19:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1479,
+      "participantName": "Colorado Rapids",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4924.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Colorado Rapids",
+          "outcomeId": "182066525045274880",
+          "offerId": "182601120649133824",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 69,
+          "participantReference": 1479
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182066525044226816",
+          "offerId": "182601120648082688",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "FC Dallas",
+          "outcomeId": "182066525051567872",
+          "offerId": "182601120648082432",
+          "odds": 3,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 69,
+          "participantReference": 1471
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Colorado Rapids (-0.5)",
+          "outcomeId": "182066525012795904",
+          "offerId": "182602266596949504",
+          "odds": 2.075,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 48,
+          "participantReference": 1479
+        },
+        {
+          "selection": "Colorado Rapids (-0.25)",
+          "outcomeId": "182066525062050560",
+          "offerId": "182601120648081920",
+          "odds": 1.875,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 48,
+          "participantReference": 1479
+        },
+        {
+          "selection": "FC Dallas (+0.25)",
+          "outcomeId": "182066525048421376",
+          "offerId": "182601120651227392",
+          "odds": 1.975,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 48,
+          "participantReference": 1471
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "182066525048856320",
+          "offerId": "182602746414839040",
+          "odds": 2.05,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3",
+          "outcomeId": "182066525012795392",
+          "offerId": "182601120649132288",
+          "odds": 2.025,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182066525012796160",
+          "offerId": "182601120649133056",
+          "odds": 1.825,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066524949893120",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1471,
+      "participantName": "FC Dallas",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4910.png"
+    }
+  },
+  "182066525116616704": {
+    "startTime": "2022-10-01 21:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 148000373771128830,
+      "participantName": "Charlotte",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8a5f21f884735557dcf2df81f49294df.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Charlotte",
+          "outcomeId": "182066525312865536",
+          "offerId": "182601283436362240",
+          "odds": 2.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 69,
+          "participantReference": 148000373771128830
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182066525341177088",
+          "offerId": "182601283433215744",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Philadelphia Union",
+          "outcomeId": "182066525324398592",
+          "offerId": "182601283435314176",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 69,
+          "participantReference": 372746
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Charlotte (0)",
+          "outcomeId": "182066525283328000",
+          "offerId": "182602017329459200",
+          "odds": 1.975,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 48,
+          "participantReference": 148000373771128830
+        },
+        {
+          "selection": "Philadelphia Union (0)",
+          "outcomeId": "182066525283328256",
+          "offerId": "182602017328412416",
+          "odds": 1.875,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 48,
+          "participantReference": 372746
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "182066525308672512",
+          "offerId": "182601283436360960",
+          "odds": 2.05,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 2.75",
+          "outcomeId": "182066525283328768",
+          "offerId": "182601283433216000",
+          "odds": 1.975,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "182066525283328512",
+          "offerId": "182601283436363520",
+          "odds": 1.875,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525116616704",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 372746,
+      "participantName": "Philadelphia Union",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/42e62256a7383ea5c5048125bcd0688c.png"
+    }
+  },
+  "182066525026439168": {
+    "startTime": "2022-10-01 23:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 78554,
+      "participantName": "Montreal Impact",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/46761a236c9277a937b88dbf0a0ea313.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "D.C. United (Washington)",
+          "outcomeId": "182066525130547200",
+          "offerId": "182601120655423744",
+          "odds": 6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 69,
+          "participantReference": 1520
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182066525151520000",
+          "offerId": "182601120654373888",
+          "odds": 4.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Montreal Impact",
+          "outcomeId": "182066525145228800",
+          "offerId": "182601120654374912",
+          "odds": 1.45,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 69,
+          "participantReference": 78554
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Montreal Impact (-1.25)",
+          "outcomeId": "182066525157810688",
+          "offerId": "182601120655422208",
+          "odds": 2.05,
+          "paramFloat1": -1.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 48,
+          "participantReference": 78554
+        },
+        {
+          "selection": "D.C. United (Washington) (+1)",
+          "outcomeId": "182066525149422592",
+          "offerId": "182602097670304512",
+          "odds": 2.05,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 48,
+          "participantReference": 1520
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182066525152569344",
+          "offerId": "182601120655423488",
+          "odds": 1.85,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182066525146276096",
+          "offerId": "182601120655423232",
+          "odds": 2,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182066525137891072",
+          "offerId": "182607626855593984",
+          "odds": 2.075,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525026439168",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1520,
+      "participantName": "D.C. United (Washington)",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/830ad6dcbfa6b04ac6537b99debc8863.png"
+    }
+  },
+  "182066525607350272": {
+    "startTime": "2022-10-01 23:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1416388,
+      "participantName": "FC Cincinnati",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/e5f0b526e100cbb7066c0e97cf082f60.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chicago Fire",
+          "outcomeId": "182066578323628800",
+          "offerId": "182601200233951488",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 69,
+          "participantReference": 1476
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182066578323628544",
+          "offerId": "182601200235002624",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "FC Cincinnati",
+          "outcomeId": "182066578323628288",
+          "offerId": "182601200238146304",
+          "odds": 1.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 69,
+          "participantReference": 1416388
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "FC Cincinnati (-0.75)",
+          "outcomeId": "182066578283782400",
+          "offerId": "182601200236049408",
+          "odds": 1.95,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 48,
+          "participantReference": 1416388
+        },
+        {
+          "selection": "Chicago Fire (+0.5)",
+          "outcomeId": "182066525965950976",
+          "offerId": "182602432971354368",
+          "odds": 2.075,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 48,
+          "participantReference": 1476
+        },
+        {
+          "selection": "Chicago Fire (+0.75)",
+          "outcomeId": "182066578283782656",
+          "offerId": "182601200232906240",
+          "odds": 1.9,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 48,
+          "participantReference": 1476
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "182066578336211712",
+          "offerId": "182602665488888064",
+          "odds": 2.05,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3",
+          "outcomeId": "182066578337259520",
+          "offerId": "182601200235001856",
+          "odds": 2.025,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182066578336213248",
+          "offerId": "182601200237098240",
+          "odds": 1.825,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066525607350272",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1476,
+      "participantName": "Chicago Fire",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/a7fe40e285984c12b676f62f014d50f6.png"
+    }
+  },
+  "182066526419996672": {
+    "startTime": "2022-10-01 23:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1477,
+      "participantName": "Columbus Crew",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1708a3fe8dc583640edfd84b9e2544d3.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Columbus Crew",
+          "outcomeId": "182066526712510208",
+          "offerId": "182601270707696896",
+          "odds": 2.2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066526419996672",
+          "bettingTypeId": 69,
+          "participantReference": 1477
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182066526691540224",
+          "offerId": "182601270706649088",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066526419996672",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "New York Red Bull",
+          "outcomeId": "182066526714607104",
+          "offerId": "182601270704553728",
+          "odds": 3.1,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182066526419996672",
+          "bettingTypeId": 69,
+          "participantReference": 1521
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Columbus Crew (-0.25)",
+          "outcomeId": "182066526622359552",
+          "offerId": "182601270704549888",
+          "odds": 1.95,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066526419996672",
+          "bettingTypeId": 48,
+          "participantReference": 1477
+        },
+        {
+          "selection": "New York Red Bull (+0.25)",
+          "outcomeId": "182066526622360320",
+          "offerId": "182601270704550912",
+          "odds": 1.9,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182066526419996672",
+          "bettingTypeId": 48,
+          "participantReference": 1521
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.5",
+          "outcomeId": "182066526700974848",
+          "offerId": "182601270706648832",
+          "odds": 1.975,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066526419996672",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "182066526693636352",
+          "offerId": "182601270704551424",
+          "odds": 1.875,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182066526419996672",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1521,
+      "participantName": "New York Red Bull",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4938.png"
+    }
+  },
+  "182071235232976896": {
+    "startTime": "2022-10-02 02:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1523,
+      "participantName": "San Jose Earthquakes",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/dafdf5470078d3520ee7ad74ae8619dc.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182071235402193408",
+          "offerId": "182601200260166656",
+          "odds": 3.8,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235232976896",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Minnesota United",
+          "outcomeId": "182071235394853632",
+          "offerId": "182601200258071296",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235232976896",
+          "bettingTypeId": 69,
+          "participantReference": 142021822985064450
+        },
+        {
+          "selection": "San Jose Earthquakes",
+          "outcomeId": "182071235404290560",
+          "offerId": "182601200258069504",
+          "odds": 2.375,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235232976896",
+          "bettingTypeId": 69,
+          "participantReference": 1523
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Minnesota United (0)",
+          "outcomeId": "182071235413728000",
+          "offerId": "182601200261214464",
+          "odds": 1.975,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235232976896",
+          "bettingTypeId": 48,
+          "participantReference": 142021822985064450
+        },
+        {
+          "selection": "San Jose Earthquakes (0)",
+          "outcomeId": "182071235414774528",
+          "offerId": "182601200260165632",
+          "odds": 1.875,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235232976896",
+          "bettingTypeId": 48,
+          "participantReference": 1523
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182071235408483328",
+          "offerId": "182601200258069248",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235232976896",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182071235395901440",
+          "offerId": "182601200260168448",
+          "odds": 1.95,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235232976896",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 142021822985064450,
+      "participantName": "Minnesota United",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4956.png"
+    }
+  },
+  "182071235991097344": {
+    "startTime": "2022-10-02 02:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 78552,
+      "participantName": "Vancouver Whitecaps",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4920.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Austin FC",
+          "outcomeId": "182071236567984640",
+          "offerId": "182601200223466496",
+          "odds": 2.8,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 69,
+          "participantReference": 132785497186553860
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182071236587908608",
+          "offerId": "182601200219274752",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Vancouver Whitecaps",
+          "outcomeId": "182071236567983104",
+          "offerId": "182601200219274240",
+          "odds": 2.15,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 69,
+          "participantReference": 78552
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Vancouver Whitecaps (-0.25)",
+          "outcomeId": "182071236563791360",
+          "offerId": "182601927411971840",
+          "odds": 2,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 48,
+          "participantReference": 78552
+        },
+        {
+          "selection": "Austin FC (+0.25)",
+          "outcomeId": "182071236563791616",
+          "offerId": "182601927411970816",
+          "odds": 1.85,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 48,
+          "participantReference": 132785497186553860
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.75",
+          "outcomeId": "182071236525859072",
+          "offerId": "182601200221370112",
+          "odds": 1.85,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "182071236525858816",
+          "offerId": "182601200222417152",
+          "odds": 2,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3",
+          "outcomeId": "182071236581616896",
+          "offerId": "182606586378793984",
+          "odds": 2.075,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235991097344",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 132785497186553860,
+      "participantName": "Austin FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/b6d77aa03a3c016bf7f83a4d8d23e387.png"
+    }
+  },
+  "182071235327348736": {
+    "startTime": "2022-10-02 02:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1474,
+      "participantName": "Los Angeles Galaxy",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4914.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182071235701037312",
+          "offerId": "182601200224517120",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235327348736",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Los Angeles Galaxy",
+          "outcomeId": "182071235701035264",
+          "offerId": "182601200225564416",
+          "odds": 1.666,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235327348736",
+          "bettingTypeId": 69,
+          "participantReference": 1474
+        },
+        {
+          "selection": "Real Salt Lake",
+          "outcomeId": "182071235704182784",
+          "offerId": "182601200225566208",
+          "odds": 4.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235327348736",
+          "bettingTypeId": 69,
+          "participantReference": 44247
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Los Angeles Galaxy (-0.75)",
+          "outcomeId": "182071235706280704",
+          "offerId": "182601200225562880",
+          "odds": 1.875,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235327348736",
+          "bettingTypeId": 48,
+          "participantReference": 1474
+        },
+        {
+          "selection": "Real Salt Lake (+0.75)",
+          "outcomeId": "182071235704182272",
+          "offerId": "182601200225565696",
+          "odds": 1.975,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235327348736",
+          "bettingTypeId": 48,
+          "participantReference": 44247
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182071235702087424",
+          "offerId": "182601200227660800",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235327348736",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182071235712572160",
+          "offerId": "182601200225565184",
+          "odds": 1.95,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235327348736",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 44247,
+      "participantName": "Real Salt Lake",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4916.png"
+    }
+  },
+  "182071236546842624": {
+    "startTime": "2022-10-02 17:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1226976,
+      "participantName": "New York City FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/155569.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182071236999994624",
+          "offerId": "182601283431118848",
+          "odds": 3.8,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "New York City FC",
+          "outcomeId": "182071236998944512",
+          "offerId": "182601283431117056",
+          "odds": 1.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 69,
+          "participantReference": 1226976
+        },
+        {
+          "selection": "Orlando City SC",
+          "outcomeId": "182071236976922624",
+          "offerId": "182601283429022720",
+          "odds": 4.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 69,
+          "participantReference": 569803
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "New York City FC (-0.75)",
+          "outcomeId": "182071236993701120",
+          "offerId": "182601283432167680",
+          "odds": 2,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 48,
+          "participantReference": 1226976
+        },
+        {
+          "selection": "Orlando City SC (+0.5)",
+          "outcomeId": "182071236996845824",
+          "offerId": "182602017325267968",
+          "odds": 2.05,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 48,
+          "participantReference": 569803
+        },
+        {
+          "selection": "Orlando City SC (+0.75)",
+          "outcomeId": "182071236993701632",
+          "offerId": "182601283431116800",
+          "odds": 1.85,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 48,
+          "participantReference": 569803
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "182071236983217920",
+          "offerId": "182601283431118336",
+          "odds": 2.075,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 2.75",
+          "outcomeId": "182071237012575488",
+          "offerId": "182601283432166656",
+          "odds": 1.975,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "182071237007335168",
+          "offerId": "182601283429019648",
+          "odds": 1.875,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071236546842624",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 569803,
+      "participantName": "Orlando City SC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/13769.png"
+    }
+  },
+  "182071235497218048": {
+    "startTime": "2022-10-02 19:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 78555,
+      "participantName": "Portland Timbers",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/b8b250b2ab8127d30e736446f642b6d9.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182071235771066368",
+          "offerId": "182601270673093376",
+          "odds": 3.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235497218048",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Los Angeles FC",
+          "outcomeId": "182071235728072960",
+          "offerId": "182601270673095168",
+          "odds": 2.15,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235497218048",
+          "bettingTypeId": 69,
+          "participantReference": 3673750212997120
+        },
+        {
+          "selection": "Portland Timbers",
+          "outcomeId": "182071235739607808",
+          "offerId": "182601270675191808",
+          "odds": 2.9,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235497218048",
+          "bettingTypeId": 69,
+          "participantReference": 78555
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Los Angeles FC (-0.25)",
+          "outcomeId": "182071235753240320",
+          "offerId": "182601270676239104",
+          "odds": 1.95,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235497218048",
+          "bettingTypeId": 48,
+          "participantReference": 3673750212997120
+        },
+        {
+          "selection": "Portland Timbers (+0.25)",
+          "outcomeId": "182071235741704960",
+          "offerId": "182601270675191296",
+          "odds": 1.9,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235497218048",
+          "bettingTypeId": 48,
+          "participantReference": 78555
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182071235771066112",
+          "offerId": "182603005687837952",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235497218048",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182071235745898496",
+          "offerId": "182601270675190528",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235497218048",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 3673750212997120,
+      "participantName": "Los Angeles FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/480669.png"
+    }
+  },
+  "182071235164819456": {
+    "startTime": "2022-10-02 21:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1244470,
+      "participantName": "Sporting Kansas City",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4932.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182071235271735552",
+          "offerId": "182601200230808320",
+          "odds": 3.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Seattle Sounders",
+          "outcomeId": "182071235265876736",
+          "offerId": "182601200228709888",
+          "odds": 3.1,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 69,
+          "participantReference": 78553
+        },
+        {
+          "selection": "Sporting Kansas City",
+          "outcomeId": "182071235283270144",
+          "offerId": "182601200229758720",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 69,
+          "participantReference": 1244470
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Sporting Kansas City (-0.5)",
+          "outcomeId": "182071235222479104",
+          "offerId": "182602746405402112",
+          "odds": 2.075,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 48,
+          "participantReference": 1244470
+        },
+        {
+          "selection": "Sporting Kansas City (-0.25)",
+          "outcomeId": "182071235288946432",
+          "offerId": "182601200231857408",
+          "odds": 1.85,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 48,
+          "participantReference": 1244470
+        },
+        {
+          "selection": "Seattle Sounders (+0.25)",
+          "outcomeId": "182071235270688000",
+          "offerId": "182601200230808832",
+          "odds": 2,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 48,
+          "participantReference": 78553
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.75",
+          "outcomeId": "182071235285364736",
+          "offerId": "182601200231855872",
+          "odds": 1.925,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "182071235268590592",
+          "offerId": "182601200232905728",
+          "odds": 1.925,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235164819456",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 78553,
+      "participantName": "Seattle Sounders",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4926.png"
+    }
+  },
+  "182071235727904768": {
+    "startTime": "2022-10-03 00:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 3846666574235648,
+      "participantName": "Nashville SC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/c43c354d71b962c8399ea9b5bbe5699e.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182071236009089280",
+          "offerId": "182601270699307008",
+          "odds": 4.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235727904768",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Houston Dynamo",
+          "outcomeId": "182071235971338752",
+          "offerId": "182601270699310080",
+          "odds": 5.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235727904768",
+          "bettingTypeId": 69,
+          "participantReference": 61721
+        },
+        {
+          "selection": "Nashville SC",
+          "outcomeId": "182071235974485760",
+          "offerId": "182601270700355840",
+          "odds": 1.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182071235727904768",
+          "bettingTypeId": 69,
+          "participantReference": 3846666574235648
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Nashville SC (-1.25)",
+          "outcomeId": "182071235987069184",
+          "offerId": "182601270701408000",
+          "odds": 2.05,
+          "paramFloat1": -1.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235727904768",
+          "bettingTypeId": 48,
+          "participantReference": 3846666574235648
+        },
+        {
+          "selection": "Houston Dynamo (+1)",
+          "outcomeId": "182071235989164800",
+          "offerId": "182601906221297920",
+          "odds": 2.05,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182071235727904768",
+          "bettingTypeId": 48,
+          "participantReference": 61721
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "182071236008041216",
+          "offerId": "182609985722725120",
+          "odds": 2.05,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235727904768",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3",
+          "outcomeId": "182071235976581120",
+          "offerId": "182601270701407744",
+          "odds": 2.025,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182071235727904768",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 61721,
+      "participantName": "Houston Dynamo",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/fc1d0cf064ad5ae0c864b471a7576bf4.png"
+    }
+  },
+  "182573294382272512": {
+    "startTime": "2022-10-06 00:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 90650280999256060,
+      "participantName": "Inter Miami CF",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/c90e36c29a220479b55837ef1299093e.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182573294907981312",
+          "offerId": "182782944328367872",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Inter Miami CF",
+          "outcomeId": "182573294900640768",
+          "offerId": "182782944328366336",
+          "odds": 1.8,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 69,
+          "participantReference": 90650280999256060
+        },
+        {
+          "selection": "Orlando City SC",
+          "outcomeId": "182573294887009536",
+          "offerId": "182782944330462464",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 69,
+          "participantReference": 569803
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Inter Miami CF (-0.75)",
+          "outcomeId": "182573294897495552",
+          "offerId": "182783621873089280",
+          "odds": 2.025,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 48,
+          "participantReference": 90650280999256060
+        },
+        {
+          "selection": "Inter Miami CF (-0.5)",
+          "outcomeId": "182573294447309568",
+          "offerId": "182782944328367360",
+          "odds": 1.825,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 48,
+          "participantReference": 90650280999256060
+        },
+        {
+          "selection": "Orlando City SC (+0.5)",
+          "outcomeId": "182573294447309056",
+          "offerId": "182782944331512320",
+          "odds": 2.025,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 48,
+          "participantReference": 569803
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182573294447308800",
+          "offerId": "182782944330462208",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573294447309312",
+          "offerId": "182782944330464256",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294382272512",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 569803,
+      "participantName": "Orlando City SC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/13769.png"
+    }
+  },
+  "182573293390319616": {
+    "startTime": "2022-10-09 18:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1476,
+      "participantName": "Chicago Fire",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/a7fe40e285984c12b676f62f014d50f6.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chicago Fire",
+          "outcomeId": "182573293494525696",
+          "offerId": "182782775942787328",
+          "odds": 2.375,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 69,
+          "participantReference": 1476
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182573293488138496",
+          "offerId": "182782775941742080",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "New England Revolution",
+          "outcomeId": "182573293494522368",
+          "offerId": "182782775939644672",
+          "odds": 2.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 69,
+          "participantReference": 1478
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Chicago Fire (-0.25)",
+          "outcomeId": "182573293511301120",
+          "offerId": "182783704993706752",
+          "odds": 2.075,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 48,
+          "participantReference": 1476
+        },
+        {
+          "selection": "Chicago Fire (0)",
+          "outcomeId": "182573293441724672",
+          "offerId": "182782775941738496",
+          "odds": 1.825,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 48,
+          "participantReference": 1476
+        },
+        {
+          "selection": "New England Revolution (0)",
+          "outcomeId": "182573293441725184",
+          "offerId": "182782775939643648",
+          "odds": 2.025,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 48,
+          "participantReference": 1478
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182573293441724416",
+          "offerId": "182782775939644416",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573293441724928",
+          "offerId": "182782775943836928",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293390319616",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1478,
+      "participantName": "New England Revolution",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1a340530753de6f99e774a1c212fd513.png"
+    }
+  },
+  "182573293610520576": {
+    "startTime": "2022-10-09 18:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 90650280999256060,
+      "participantName": "Inter Miami CF",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/c90e36c29a220479b55837ef1299093e.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182573293831091456",
+          "offerId": "182782674972260352",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Inter Miami CF",
+          "outcomeId": "182573293844724736",
+          "offerId": "182782674972261888",
+          "odds": 1.952,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 69,
+          "participantReference": 90650280999256060
+        },
+        {
+          "selection": "Montreal Impact",
+          "outcomeId": "182573293856258048",
+          "offerId": "182782674972260096",
+          "odds": 3.25,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 69,
+          "participantReference": 78554
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Inter Miami CF (-0.5)",
+          "outcomeId": "182573293849965824",
+          "offerId": "182783995169289728",
+          "odds": 2.025,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 48,
+          "participantReference": 90650280999256060
+        },
+        {
+          "selection": "Inter Miami CF (-0.25)",
+          "outcomeId": "182573293750006016",
+          "offerId": "182782674975406592",
+          "odds": 1.825,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 48,
+          "participantReference": 90650280999256060
+        },
+        {
+          "selection": "Montreal Impact (+0.25)",
+          "outcomeId": "182573293750006272",
+          "offerId": "182782674973308928",
+          "odds": 2.025,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 48,
+          "participantReference": 78554
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573293750005760",
+          "offerId": "182782674974359296",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182573293851015936",
+          "offerId": "182785008958779392",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293610520576",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 78554,
+      "participantName": "Montreal Impact",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/46761a236c9277a937b88dbf0a0ea313.png"
+    }
+  },
+  "182573293843304448": {
+    "startTime": "2022-10-09 18:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1521,
+      "participantName": "New York Red Bull",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4938.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Charlotte",
+          "outcomeId": "182573294144616448",
+          "offerId": "182782674979599872",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293843304448",
+          "bettingTypeId": 69,
+          "participantReference": 148000373771128830
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182573294163492096",
+          "offerId": "182782674978552576",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293843304448",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "New York Red Bull",
+          "outcomeId": "182573294141469184",
+          "offerId": "182782674978552320",
+          "odds": 1.909,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293843304448",
+          "bettingTypeId": 69,
+          "participantReference": 1521
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "New York Red Bull (-0.5)",
+          "outcomeId": "182573293991178752",
+          "offerId": "182782674980650496",
+          "odds": 1.925,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293843304448",
+          "bettingTypeId": 48,
+          "participantReference": 1521
+        },
+        {
+          "selection": "Charlotte (+0.5)",
+          "outcomeId": "182573293991178240",
+          "offerId": "182782674977501440",
+          "odds": 1.925,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293843304448",
+          "bettingTypeId": 48,
+          "participantReference": 148000373771128830
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182573293991178496",
+          "offerId": "182782674979599616",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293843304448",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573293991179008",
+          "offerId": "182782674976456448",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293843304448",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 148000373771128830,
+      "participantName": "Charlotte",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8a5f21f884735557dcf2df81f49294df.png"
+    }
+  },
+  "182573294007930880": {
+    "startTime": "2022-10-09 18:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 569803,
+      "participantName": "Orlando City SC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/13769.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Columbus Crew",
+          "outcomeId": "182573294429828864",
+          "offerId": "182782992891065600",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 69,
+          "participantReference": 1477
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182573294387884288",
+          "offerId": "182782992891066624",
+          "odds": 4.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Orlando City SC",
+          "outcomeId": "182573294397321216",
+          "offerId": "182782992890017536",
+          "odds": 1.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 69,
+          "participantReference": 569803
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Orlando City SC (-0.75)",
+          "outcomeId": "182573294110715904",
+          "offerId": "182782992893162752",
+          "odds": 2,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 48,
+          "participantReference": 569803
+        },
+        {
+          "selection": "Columbus Crew (+0.5)",
+          "outcomeId": "182573294425635072",
+          "offerId": "182784553683857920",
+          "odds": 2.05,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 48,
+          "participantReference": 1477
+        },
+        {
+          "selection": "Columbus Crew (+0.75)",
+          "outcomeId": "182573294110716416",
+          "offerId": "182782992891064320",
+          "odds": 1.85,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 48,
+          "participantReference": 1477
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182573294110716672",
+          "offerId": "182782992892114944",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573294110716160",
+          "offerId": "182782992890016768",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294007930880",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1477,
+      "participantName": "Columbus Crew",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1708a3fe8dc583640edfd84b9e2544d3.png"
+    }
+  },
+  "182573294135857152": {
+    "startTime": "2022-10-09 18:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1520,
+      "participantName": "D.C. United (Washington)",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/830ad6dcbfa6b04ac6537b99debc8863.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "D.C. United (Washington)",
+          "outcomeId": "182573294449750528",
+          "offerId": "182782912417052416",
+          "odds": 2.625,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 69,
+          "participantReference": 1520
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182573294479111168",
+          "offerId": "182782912414955008",
+          "odds": 3.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "FC Cincinnati",
+          "outcomeId": "182573294461285632",
+          "offerId": "182782912417051392",
+          "odds": 2.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 69,
+          "participantReference": 1416388
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "FC Cincinnati (-0.25)",
+          "outcomeId": "182573294471771392",
+          "offerId": "182784831047938816",
+          "odds": 2.075,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 48,
+          "participantReference": 1416388
+        },
+        {
+          "selection": "D.C. United (Washington) (0)",
+          "outcomeId": "182573294257516544",
+          "offerId": "182782912419148544",
+          "odds": 2.025,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 48,
+          "participantReference": 1520
+        },
+        {
+          "selection": "FC Cincinnati (0)",
+          "outcomeId": "182573294256467968",
+          "offerId": "182782912416004096",
+          "odds": 1.825,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 48,
+          "participantReference": 1416388
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182573294256468224",
+          "offerId": "182782912414953984",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573294257516800",
+          "offerId": "182782912414953728",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294135857152",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1416388,
+      "participantName": "FC Cincinnati",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/e5f0b526e100cbb7066c0e97cf082f60.png"
+    }
+  },
+  "182573294293143552": {
+    "startTime": "2022-10-09 18:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 372746,
+      "participantName": "Philadelphia Union",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/42e62256a7383ea5c5048125bcd0688c.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182573294511548672",
+          "offerId": "182782753822028032",
+          "odds": 4.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294293143552",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Philadelphia Union",
+          "outcomeId": "182573294497917440",
+          "offerId": "182782753819932928",
+          "odds": 1.444,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294293143552",
+          "bettingTypeId": 69,
+          "participantReference": 372746
+        },
+        {
+          "selection": "Toronto FC",
+          "outcomeId": "182573294526226688",
+          "offerId": "182782753820982528",
+          "odds": 7,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294293143552",
+          "bettingTypeId": 69,
+          "participantReference": 75627
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Philadelphia Union (-1.25)",
+          "outcomeId": "182573294343500032",
+          "offerId": "182782753820981760",
+          "odds": 1.925,
+          "paramFloat1": -1.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294293143552",
+          "bettingTypeId": 48,
+          "participantReference": 372746
+        },
+        {
+          "selection": "Toronto FC (+1.25)",
+          "outcomeId": "182573294343500288",
+          "offerId": "182782753819931136",
+          "odds": 1.925,
+          "paramFloat1": 1.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294293143552",
+          "bettingTypeId": 48,
+          "participantReference": 75627
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573294343499776",
+          "offerId": "182782753820982784",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294293143552",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182573294526227200",
+          "offerId": "182786428560815360",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294293143552",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 75627,
+      "participantName": "Toronto FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4940.png"
+    }
+  },
+  "182573294452527104": {
+    "startTime": "2022-10-09 18:30:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1546162,
+      "participantName": "Atlanta United",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/517959.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Atlanta United",
+          "outcomeId": "182573294940486656",
+          "offerId": "182782674969112832",
+          "odds": 1.7,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294452527104",
+          "bettingTypeId": 69,
+          "participantReference": 1546162
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182573294933147136",
+          "offerId": "182782674971209728",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294452527104",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "New York City FC",
+          "outcomeId": "182573294937338112",
+          "offerId": "182782674968065536",
+          "odds": 4.2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573294452527104",
+          "bettingTypeId": 69,
+          "participantReference": 1226976
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Atlanta United (-0.75)",
+          "outcomeId": "182573294638149632",
+          "offerId": "182782674968066048",
+          "odds": 1.925,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294452527104",
+          "bettingTypeId": 48,
+          "participantReference": 1546162
+        },
+        {
+          "selection": "New York City FC (+0.75)",
+          "outcomeId": "182573294638150144",
+          "offerId": "182782674971210496",
+          "odds": 1.925,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573294452527104",
+          "bettingTypeId": 48,
+          "participantReference": 1226976
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573294637101056",
+          "offerId": "182782674969113344",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294452527104",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182573294938388480",
+          "offerId": "182795735769624832",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573294452527104",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1226976,
+      "participantName": "New York City FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/155569.png"
+    }
+  },
+  "182573293478400000": {
+    "startTime": "2022-10-09 21:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 132785497186553860,
+      "participantName": "Austin FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/b6d77aa03a3c016bf7f83a4d8d23e387.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Austin FC",
+          "outcomeId": "182573293576014336",
+          "offerId": "182782992916232960",
+          "odds": 1.65,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 69,
+          "participantReference": 132785497186553860
+        },
+        {
+          "selection": "Colorado Rapids",
+          "outcomeId": "182573293579157504",
+          "offerId": "182782992916232704",
+          "odds": 4.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 69,
+          "participantReference": 1479
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "182573293588596736",
+          "offerId": "182782992916231424",
+          "odds": 4.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 69
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Austin FC (-1)",
+          "outcomeId": "182573293595938304",
+          "offerId": "182784917697018112",
+          "odds": 2.05,
+          "paramFloat1": -1,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 48,
+          "participantReference": 132785497186553860
+        },
+        {
+          "selection": "Austin FC (-0.75)",
+          "outcomeId": "182573293549728000",
+          "offerId": "182782992916232192",
+          "odds": 1.825,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 48,
+          "participantReference": 132785497186553860
+        },
+        {
+          "selection": "Colorado Rapids (+0.75)",
+          "outcomeId": "182573293549727744",
+          "offerId": "182782992916233216",
+          "odds": 2.025,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 48,
+          "participantReference": 1479
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182573293549728512",
+          "offerId": "182782992914135296",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182573293583351808",
+          "offerId": "182787533064716032",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182573293478400000",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1479,
+      "participantName": "Colorado Rapids",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4924.png"
+    }
+  },
+  "182579866874466304": {
+    "startTime": "2022-10-09 21:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 1471,
+      "participantName": "FC Dallas",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4910.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182579866965788672",
+          "offerId": "182782832751490816",
+          "odds": 4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579866874466304",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "FC Dallas",
+          "outcomeId": "182579866965789952",
+          "offerId": "182782832748346880",
+          "odds": 1.7,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579866874466304",
+          "bettingTypeId": 69,
+          "participantReference": 1471
+        },
+        {
+          "selection": "Sporting Kansas City",
+          "outcomeId": "182579866965787392",
+          "offerId": "182782832752538880",
+          "odds": 4.2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579866874466304",
+          "bettingTypeId": 69,
+          "participantReference": 1244470
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "FC Dallas (-0.75)",
+          "outcomeId": "182579866955300864",
+          "offerId": "182782832750442240",
+          "odds": 1.925,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579866874466304",
+          "bettingTypeId": 48,
+          "participantReference": 1471
+        },
+        {
+          "selection": "Sporting Kansas City (+0.75)",
+          "outcomeId": "182579866949011968",
+          "offerId": "182782832748345344",
+          "odds": 1.925,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579866874466304",
+          "bettingTypeId": 48,
+          "participantReference": 1244470
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182579866942720000",
+          "offerId": "182782832749392384",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579866874466304",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182579866959497984",
+          "offerId": "182793262250144512",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579866874466304",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1244470,
+      "participantName": "Sporting Kansas City",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4932.png"
+    }
+  },
+  "182579866947866624": {
+    "startTime": "2022-10-09 21:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 142021822985064450,
+      "participantName": "Minnesota United",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4956.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182579867082386432",
+          "offerId": "182782944324171776",
+          "odds": 4.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Minnesota United",
+          "outcomeId": "182579867082478592",
+          "offerId": "182782944326269696",
+          "odds": 1.615,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 69,
+          "participantReference": 142021822985064450
+        },
+        {
+          "selection": "Vancouver Whitecaps",
+          "outcomeId": "182579867089818368",
+          "offerId": "182782944327319296",
+          "odds": 4.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 69,
+          "participantReference": 78552
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Minnesota United (-1)",
+          "outcomeId": "182579867078283264",
+          "offerId": "182783892639529984",
+          "odds": 2.05,
+          "paramFloat1": -1,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 48,
+          "participantReference": 142021822985064450
+        },
+        {
+          "selection": "Minnesota United (-0.75)",
+          "outcomeId": "182579867082477568",
+          "offerId": "182782944325218304",
+          "odds": 1.825,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 48,
+          "participantReference": 142021822985064450
+        },
+        {
+          "selection": "Vancouver Whitecaps (+0.75)",
+          "outcomeId": "182579867085530880",
+          "offerId": "182782944324172800",
+          "odds": 2.025,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 48,
+          "participantReference": 78552
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182579867097158144",
+          "offerId": "182782944326268416",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182579867086671872",
+          "offerId": "182791154338706688",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579866947866624",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 78552,
+      "participantName": "Vancouver Whitecaps",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4920.png"
+    }
+  },
+  "182579867154436096": {
+    "startTime": "2022-10-09 21:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 3673750212997120,
+      "participantName": "Los Angeles FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/480669.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182579867402296576",
+          "offerId": "182783025803768832",
+          "odds": 4.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Los Angeles FC",
+          "outcomeId": "182579867400197888",
+          "offerId": "182783025802719232",
+          "odds": 1.615,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 69,
+          "participantReference": 3673750212997120
+        },
+        {
+          "selection": "Nashville SC",
+          "outcomeId": "182579867390668544",
+          "offerId": "182783025803769856",
+          "odds": 4.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 69,
+          "participantReference": 3846666574235648
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Los Angeles FC (-1)",
+          "outcomeId": "182579867421167616",
+          "offerId": "182785048686181632",
+          "odds": 2.05,
+          "paramFloat1": -1,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 48,
+          "participantReference": 3673750212997120
+        },
+        {
+          "selection": "Los Angeles FC (-0.75)",
+          "outcomeId": "182579867369419520",
+          "offerId": "182783025804818944",
+          "odds": 1.825,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 48,
+          "participantReference": 3673750212997120
+        },
+        {
+          "selection": "Nashville SC (+0.75)",
+          "outcomeId": "182579867369419008",
+          "offerId": "182783025802721280",
+          "odds": 2.025,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 48,
+          "participantReference": 3846666574235648
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 3",
+          "outcomeId": "182579867369419264",
+          "offerId": "182783025803770112",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "182579867400101888",
+          "offerId": "182787822140338944",
+          "odds": 2.025,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579867154436096",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 3846666574235648,
+      "participantName": "Nashville SC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/c43c354d71b962c8399ea9b5bbe5699e.png"
+    }
+  },
+  "182579867389317120": {
+    "startTime": "2022-10-09 21:00:00.000",
+    "leagueName": "MLS",
+    "Home": {
+      "participantId": 61721,
+      "participantName": "Houston Dynamo",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/fc1d0cf064ad5ae0c864b471a7576bf4.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "182579867695800832",
+          "offerId": "182782944319977472",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Houston Dynamo",
+          "outcomeId": "182579867704191232",
+          "offerId": "182782944319976704",
+          "odds": 2.625,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 69,
+          "participantReference": 61721
+        },
+        {
+          "selection": "Los Angeles Galaxy",
+          "outcomeId": "182579867691606784",
+          "offerId": "182782944323123456",
+          "odds": 2.375,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 69,
+          "participantReference": 1474
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Los Angeles Galaxy (-0.25)",
+          "outcomeId": "182579867708477440",
+          "offerId": "182785048688276480",
+          "odds": 2.075,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 48,
+          "participantReference": 1474
+        },
+        {
+          "selection": "Houston Dynamo (0)",
+          "outcomeId": "182579867666166272",
+          "offerId": "182782944318926848",
+          "odds": 2.025,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 48,
+          "participantReference": 61721
+        },
+        {
+          "selection": "Los Angeles Galaxy (0)",
+          "outcomeId": "182579867666165760",
+          "offerId": "182782944319978496",
+          "odds": 1.825,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 48,
+          "participantReference": 1474
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3",
+          "outcomeId": "182579867667214336",
+          "offerId": "182782944321026048",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "182579867666166016",
+          "offerId": "182782944319979264",
+          "odds": 1.925,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "182579867389317120",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1474,
+      "participantName": "Los Angeles Galaxy",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4914.png"
+    }
+  }
+}

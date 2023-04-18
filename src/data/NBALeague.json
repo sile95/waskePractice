@@ -1,0 +1,5044 @@
+{
+  "179677218604109824": {
+    "startTime": "2022-10-18 23:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2176,
+      "participantName": "Boston Celtics",
+      "participantFirstName": "Boston",
+      "participantLastName": "Celtics",
+      "participantShortName": "BOS",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6854.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Boston Celtics",
+          "outcomeId": "179677218645185280",
+          "offerId": "179677218803329024",
+          "odds": 1.47,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 466,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Philadelphia 76ers",
+          "outcomeId": "179677218645185024",
+          "offerId": "179677218804376576",
+          "odds": 2.75,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 466,
+          "participantReference": 2181
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Boston Celtics (-5.5)",
+          "outcomeId": "179677218645185792",
+          "offerId": "179677218800184576",
+          "odds": 2.05,
+          "paramFloat1": -5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Boston Celtics (-5)",
+          "outcomeId": "179677218652745984",
+          "offerId": "179677218800182784",
+          "odds": 2,
+          "paramFloat1": -5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Boston Celtics (-4.5)",
+          "outcomeId": "179677218652748032",
+          "offerId": "179677218806473216",
+          "odds": 1.95,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Boston Celtics (-4)",
+          "outcomeId": "179677218650650880",
+          "offerId": "179677218805426944",
+          "odds": 1.9,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Philadelphia 76ers (+2.5)",
+          "outcomeId": "179677218653794560",
+          "offerId": "179677218801232384",
+          "odds": 2,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "Philadelphia 76ers (+3)",
+          "outcomeId": "179677218659041024",
+          "offerId": "179677218800183552",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "Philadelphia 76ers (+3.5)",
+          "outcomeId": "179677218653794816",
+          "offerId": "179677218804376320",
+          "odds": 1.95,
+          "paramFloat1": 3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "Philadelphia 76ers (+4)",
+          "outcomeId": "179677218651698432",
+          "offerId": "179677218803327744",
+          "odds": 1.9,
+          "paramFloat1": 4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 211.5",
+          "outcomeId": "179677218668062464",
+          "offerId": "179677218828494848",
+          "odds": 2.05,
+          "paramFloat1": 211.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 212",
+          "outcomeId": "179677218650651904",
+          "offerId": "179677218802279936",
+          "odds": 2,
+          "paramFloat1": 212,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 212.5",
+          "outcomeId": "179677218652747008",
+          "offerId": "179677218827444224",
+          "odds": 1.83,
+          "paramFloat1": 212.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 212.5",
+          "outcomeId": "179677218650650112",
+          "offerId": "179677218799134976",
+          "odds": 1.95,
+          "paramFloat1": 212.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 213",
+          "outcomeId": "179677218645184768",
+          "offerId": "179677218801232128",
+          "odds": 1.9,
+          "paramFloat1": 213,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 213",
+          "outcomeId": "179677218645185536",
+          "offerId": "179677218799132928",
+          "odds": 1.9,
+          "paramFloat1": 213,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 213.5",
+          "outcomeId": "179677218651700224",
+          "offerId": "179677218805425664",
+          "odds": 1.95,
+          "paramFloat1": 213.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 213.5",
+          "outcomeId": "179677218652745728",
+          "offerId": "179677218805424896",
+          "odds": 1.83,
+          "paramFloat1": 213.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 214",
+          "outcomeId": "179677218650652160",
+          "offerId": "179677218805424640",
+          "odds": 2,
+          "paramFloat1": 214,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 214.5",
+          "outcomeId": "179677218669198336",
+          "offerId": "179677218799136000",
+          "odds": 2.05,
+          "paramFloat1": 214.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218604109824",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2181,
+      "participantName": "Philadelphia 76ers",
+      "participantFirstName": "Philadelphia",
+      "participantLastName": "76ers",
+      "participantShortName": "PHI",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6856.png"
+    }
+  },
+  "179677218668072960": {
+    "startTime": "2022-10-19 02:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2198,
+      "participantName": "Golden State Warriors",
+      "participantFirstName": "Golden State",
+      "participantLastName": "Warriors",
+      "participantShortName": "GS",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6890.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Golden State Warriors",
+          "outcomeId": "179677218777305856",
+          "offerId": "179677219041356288",
+          "odds": 1.38,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 466,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Los Angeles Lakers",
+          "outcomeId": "179677218777305344",
+          "offerId": "179677219043451904",
+          "odds": 3.15,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 466,
+          "participantReference": 2200
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Golden State Warriors (-7)",
+          "outcomeId": "179677218790833152",
+          "offerId": "179677219041353984",
+          "odds": 2,
+          "paramFloat1": -7,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 48,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Golden State Warriors (-6.5)",
+          "outcomeId": "179677218791879680",
+          "offerId": "179677219038211840",
+          "odds": 1.95,
+          "paramFloat1": -6.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 48,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Golden State Warriors (-6)",
+          "outcomeId": "179677218778353920",
+          "offerId": "179677219037160960",
+          "odds": 1.9,
+          "paramFloat1": -6,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 48,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Los Angeles Lakers (+5)",
+          "outcomeId": "179677218802368000",
+          "offerId": "179677219042404864",
+          "odds": 2,
+          "paramFloat1": 5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+5.5)",
+          "outcomeId": "179677218802365696",
+          "offerId": "179677219043451392",
+          "odds": 1.95,
+          "paramFloat1": 5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+6)",
+          "outcomeId": "179677218777305088",
+          "offerId": "179677219043453952",
+          "odds": 1.9,
+          "paramFloat1": 6,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 226",
+          "outcomeId": "179677218800269312",
+          "offerId": "179677219043452672",
+          "odds": 2.05,
+          "paramFloat1": 226,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 226.5",
+          "outcomeId": "179677218791881984",
+          "offerId": "179677219040306688",
+          "odds": 2,
+          "paramFloat1": 226.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 227",
+          "outcomeId": "179677218796073984",
+          "offerId": "179677219039257344",
+          "odds": 1.83,
+          "paramFloat1": 227,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 227",
+          "outcomeId": "179677218796075008",
+          "offerId": "179677219042404352",
+          "odds": 1.95,
+          "paramFloat1": 227,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 227.5",
+          "outcomeId": "179677218796076032",
+          "offerId": "179677219045548288",
+          "odds": 1.9,
+          "paramFloat1": 227.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 227.5",
+          "outcomeId": "179677218798170112",
+          "offerId": "179677219039257600",
+          "odds": 1.9,
+          "paramFloat1": 227.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 228",
+          "outcomeId": "179677218777305600",
+          "offerId": "179677219041354240",
+          "odds": 1.95,
+          "paramFloat1": 228,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 228",
+          "outcomeId": "179677218778353664",
+          "offerId": "179677219041353728",
+          "odds": 1.83,
+          "paramFloat1": 228,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 228.5",
+          "outcomeId": "179677218790830080",
+          "offerId": "179677219046597376",
+          "odds": 2,
+          "paramFloat1": 228.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 229",
+          "outcomeId": "179677218793978880",
+          "offerId": "179677219042404096",
+          "odds": 2.05,
+          "paramFloat1": 229,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677218668072960",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2200,
+      "participantName": "Los Angeles Lakers",
+      "participantFirstName": "Los Angeles",
+      "participantLastName": "Lakers",
+      "participantShortName": "LAL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6894.png"
+    }
+  },
+  "179677222451335168": {
+    "startTime": "2022-10-19 23:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2194,
+      "participantName": "Detroit Pistons",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/be3dbfb428546c98d390c33af33005fc.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Detroit Pistons",
+          "outcomeId": "179677222516335360",
+          "offerId": "179711683883737088",
+          "odds": 1.55,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 466,
+          "participantReference": 2194
+        },
+        {
+          "selection": "Orlando Magic",
+          "outcomeId": "179677222516334592",
+          "offerId": "179711683883737600",
+          "odds": 2.6,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 466,
+          "participantReference": 2180
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Detroit Pistons (-5.5)",
+          "outcomeId": "179677222524089856",
+          "offerId": "179713176311473408",
+          "odds": 2.05,
+          "paramFloat1": -5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2194
+        },
+        {
+          "selection": "Detroit Pistons (-5)",
+          "outcomeId": "179677222529333760",
+          "offerId": "179713176312520960",
+          "odds": 2,
+          "paramFloat1": -5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2194
+        },
+        {
+          "selection": "Detroit Pistons (-4.5)",
+          "outcomeId": "179677222528285696",
+          "offerId": "179713176311473920",
+          "odds": 1.95,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2194
+        },
+        {
+          "selection": "Detroit Pistons (-4)",
+          "outcomeId": "179677222527237888",
+          "offerId": "179713176310424064",
+          "odds": 1.9,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2194
+        },
+        {
+          "selection": "Orlando Magic (+2.5)",
+          "outcomeId": "179677222527236096",
+          "offerId": "179713176306229504",
+          "odds": 2,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2180
+        },
+        {
+          "selection": "Orlando Magic (+3)",
+          "outcomeId": "179677222516335616",
+          "offerId": "179713176305182208",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2180
+        },
+        {
+          "selection": "Orlando Magic (+3.5)",
+          "outcomeId": "179677222524090624",
+          "offerId": "179711683883738112",
+          "odds": 1.95,
+          "paramFloat1": 3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2180
+        },
+        {
+          "selection": "Orlando Magic (+4)",
+          "outcomeId": "179677222526187008",
+          "offerId": "179713176307279104",
+          "odds": 1.9,
+          "paramFloat1": 4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 48,
+          "participantReference": 2180
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 216.5",
+          "outcomeId": "179713414783868928",
+          "offerId": "179713414828957696",
+          "odds": 2.05,
+          "paramFloat1": 216.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 217",
+          "outcomeId": "179713414784919040",
+          "offerId": "179713414841540608",
+          "odds": 2,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 217.5",
+          "outcomeId": "179713414795403520",
+          "offerId": "179713414846784768",
+          "odds": 1.83,
+          "paramFloat1": 217.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 217.5",
+          "outcomeId": "179713414793306624",
+          "offerId": "179713414845737472",
+          "odds": 1.95,
+          "paramFloat1": 217.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218",
+          "outcomeId": "179703086412058624",
+          "offerId": "179711683883738368",
+          "odds": 1.9,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 218",
+          "outcomeId": "179703086412058880",
+          "offerId": "179711683883737856",
+          "odds": 1.9,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218.5",
+          "outcomeId": "179713414790160384",
+          "offerId": "179713414844686848",
+          "odds": 1.95,
+          "paramFloat1": 218.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 218.5",
+          "outcomeId": "179713414791209472",
+          "offerId": "179713414845735168",
+          "odds": 1.83,
+          "paramFloat1": 218.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 219",
+          "outcomeId": "179713414791209728",
+          "offerId": "179713414845735424",
+          "odds": 2,
+          "paramFloat1": 219,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 219.5",
+          "outcomeId": "179713414785967872",
+          "offerId": "179713414842589696",
+          "odds": 2.05,
+          "paramFloat1": 219.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222451335168",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2180,
+      "participantName": "Orlando Magic",
+      "participantFirstName": "Orlando",
+      "participantLastName": "Magic",
+      "participantShortName": "ORL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6876.png"
+    }
+  },
+  "179677222705090560": {
+    "startTime": "2022-10-19 23:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2195,
+      "participantName": "Indiana Pacers",
+      "participantFirstName": "Indiana",
+      "participantLastName": "Pacers",
+      "participantShortName": "IND",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6860.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Indiana Pacers",
+          "outcomeId": "179677222772294144",
+          "offerId": "179711532227144192",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 466,
+          "participantReference": 2195
+        },
+        {
+          "selection": "Washington Wizards",
+          "outcomeId": "179677222772293888",
+          "offerId": "179711532227144448",
+          "odds": 1.76,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 466,
+          "participantReference": 2182
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Washington Wizards (-3.5)",
+          "outcomeId": "179677222768407552",
+          "offerId": "179713337416787968",
+          "odds": 2,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 48,
+          "participantReference": 2182
+        },
+        {
+          "selection": "Washington Wizards (-3)",
+          "outcomeId": "179677222777844480",
+          "offerId": "179713337417835776",
+          "odds": 1.9,
+          "paramFloat1": -3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 48,
+          "participantReference": 2182
+        },
+        {
+          "selection": "Washington Wizards (-2.5)",
+          "outcomeId": "179677222772293632",
+          "offerId": "179713337417835264",
+          "odds": 1.95,
+          "paramFloat1": -2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 48,
+          "participantReference": 2182
+        },
+        {
+          "selection": "Washington Wizards (-2)",
+          "outcomeId": "179677222780990464",
+          "offerId": "179711532227143936",
+          "odds": 1.9,
+          "paramFloat1": -2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 48,
+          "participantReference": 2182
+        },
+        {
+          "selection": "Indiana Pacers (+1)",
+          "outcomeId": "179677222776795392",
+          "offerId": "179713337419932416",
+          "odds": 2,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 48,
+          "participantReference": 2195
+        },
+        {
+          "selection": "Indiana Pacers (+1.5)",
+          "outcomeId": "179677222768408064",
+          "offerId": "179713337418884096",
+          "odds": 1.95,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 48,
+          "participantReference": 2195
+        },
+        {
+          "selection": "Indiana Pacers (+2)",
+          "outcomeId": "179677222776795904",
+          "offerId": "179711532227143168",
+          "odds": 1.9,
+          "paramFloat1": 2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 48,
+          "participantReference": 2195
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 225.5",
+          "outcomeId": "179712759417578496",
+          "offerId": "179712759483638784",
+          "odds": 2.05,
+          "paramFloat1": 225.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 226",
+          "outcomeId": "179712759423869440",
+          "offerId": "179712759485736704",
+          "odds": 2,
+          "paramFloat1": 226,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 226.5",
+          "outcomeId": "179709972743078656",
+          "offerId": "179712759421772544",
+          "odds": 1.83,
+          "paramFloat1": 226.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 226.5",
+          "outcomeId": "179709972743078400",
+          "offerId": "179712759421772800",
+          "odds": 1.95,
+          "paramFloat1": 226.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 227",
+          "outcomeId": "179703044580167680",
+          "offerId": "179711532227143680",
+          "odds": 1.9,
+          "paramFloat1": 227,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 227",
+          "outcomeId": "179703044582264832",
+          "offerId": "179711532227143424",
+          "odds": 1.9,
+          "paramFloat1": 227,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 227.5",
+          "outcomeId": "179712759428064512",
+          "offerId": "179712759488881408",
+          "odds": 1.95,
+          "paramFloat1": 227.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 227.5",
+          "outcomeId": "179712759428064256",
+          "offerId": "179712759488881152",
+          "odds": 1.83,
+          "paramFloat1": 227.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 228",
+          "outcomeId": "179712759427015168",
+          "offerId": "179712759487833088",
+          "odds": 2,
+          "paramFloat1": 228,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 228.5",
+          "outcomeId": "179712759417577984",
+          "offerId": "179712759483638272",
+          "odds": 2.05,
+          "paramFloat1": 228.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222705090560",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2182,
+      "participantName": "Washington Wizards",
+      "participantFirstName": "Washington",
+      "participantLastName": "Wizards",
+      "participantShortName": "WAS",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6872.png"
+    }
+  },
+  "179677221377593344": {
+    "startTime": "2022-10-19 23:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 5729,
+      "participantName": "Memphis Grizzlies",
+      "participantFirstName": "Memphis",
+      "participantLastName": "Grizzlies",
+      "participantShortName": "MEM",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6902.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Memphis Grizzlies",
+          "outcomeId": "179677221799108864",
+          "offerId": "179718924657533184",
+          "odds": 1.31,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 466,
+          "participantReference": 5729
+        },
+        {
+          "selection": "New York Knicks",
+          "outcomeId": "179677221799109632",
+          "offerId": "179718924657533440",
+          "odds": 3.55,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 466,
+          "participantReference": 2179
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Memphis Grizzlies (-8)",
+          "outcomeId": "179677221810009600",
+          "offerId": "179720115558852352",
+          "odds": 2,
+          "paramFloat1": -8,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 48,
+          "participantReference": 5729
+        },
+        {
+          "selection": "Memphis Grizzlies (-7.5)",
+          "outcomeId": "179677221799108608",
+          "offerId": "179718924657534208",
+          "odds": 1.95,
+          "paramFloat1": -7.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 48,
+          "participantReference": 5729
+        },
+        {
+          "selection": "Memphis Grizzlies (-7)",
+          "outcomeId": "179677221804769024",
+          "offerId": "179720115561997824",
+          "odds": 1.9,
+          "paramFloat1": -7,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 48,
+          "participantReference": 5729
+        },
+        {
+          "selection": "New York Knicks (+6)",
+          "outcomeId": "179677221804765696",
+          "offerId": "179720115557803776",
+          "odds": 2,
+          "paramFloat1": 6,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 48,
+          "participantReference": 2179
+        },
+        {
+          "selection": "New York Knicks (+6.5)",
+          "outcomeId": "179677221804768256",
+          "offerId": "179720115558850560",
+          "odds": 1.95,
+          "paramFloat1": 6.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 48,
+          "participantReference": 2179
+        },
+        {
+          "selection": "New York Knicks (+7)",
+          "outcomeId": "179677221808962048",
+          "offerId": "179720115557802240",
+          "odds": 1.9,
+          "paramFloat1": 7,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 48,
+          "participantReference": 2179
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 225",
+          "outcomeId": "179719715004916736",
+          "offerId": "179719715067830528",
+          "odds": 2.05,
+          "paramFloat1": 225,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 225.5",
+          "outcomeId": "179719715003867392",
+          "offerId": "179719715066782208",
+          "odds": 2,
+          "paramFloat1": 225.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 226",
+          "outcomeId": "179719714995478528",
+          "offerId": "179719715056296192",
+          "odds": 1.83,
+          "paramFloat1": 226,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 226",
+          "outcomeId": "179719714995478784",
+          "offerId": "179719715056296448",
+          "odds": 1.95,
+          "paramFloat1": 226,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 226.5",
+          "outcomeId": "179703146247999744",
+          "offerId": "179719714992333056",
+          "odds": 1.9,
+          "paramFloat1": 226.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 226.5",
+          "outcomeId": "179703146248000000",
+          "offerId": "179719714992333312",
+          "odds": 1.9,
+          "paramFloat1": 226.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 227",
+          "outcomeId": "179717768209690880",
+          "offerId": "179718924657532928",
+          "odds": 1.95,
+          "paramFloat1": 227,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 227",
+          "outcomeId": "179717768209690624",
+          "offerId": "179718924657533952",
+          "odds": 1.83,
+          "paramFloat1": 227,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 227.5",
+          "outcomeId": "179719714997575936",
+          "offerId": "179719715062588416",
+          "odds": 2,
+          "paramFloat1": 227.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 228",
+          "outcomeId": "179719715001771264",
+          "offerId": "179719715065734144",
+          "odds": 2.05,
+          "paramFloat1": 228,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221377593344",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2179,
+      "participantName": "New York Knicks",
+      "participantFirstName": "New York",
+      "participantLastName": "Knicks",
+      "participantShortName": "NYK",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6850.png"
+    }
+  },
+  "179677221834772480": {
+    "startTime": "2022-10-19 23:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 731740,
+      "participantName": "Brooklyn Nets",
+      "participantFirstName": "Brooklyn",
+      "participantLastName": "Nets",
+      "participantShortName": "BKN",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/cf8c0f97a08d3fc281ae90089fce367b.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Brooklyn Nets",
+          "outcomeId": "179677222046572544",
+          "offerId": "179732651257667840",
+          "odds": 1.55,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 466,
+          "participantReference": 731740
+        },
+        {
+          "selection": "New Orleans Pelicans",
+          "outcomeId": "179677222046573568",
+          "offerId": "179732651257668352",
+          "odds": 2.6,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 466,
+          "participantReference": 2191
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Brooklyn Nets (-5.5)",
+          "outcomeId": "179677222053279488",
+          "offerId": "179735210110263808",
+          "odds": 2.05,
+          "paramFloat1": -5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 731740
+        },
+        {
+          "selection": "Brooklyn Nets (-5)",
+          "outcomeId": "179677222055377408",
+          "offerId": "179735210110264320",
+          "odds": 2,
+          "paramFloat1": -5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 731740
+        },
+        {
+          "selection": "Brooklyn Nets (-4.5)",
+          "outcomeId": "179677222055375104",
+          "offerId": "179735210111311872",
+          "odds": 1.95,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 731740
+        },
+        {
+          "selection": "Brooklyn Nets (-4)",
+          "outcomeId": "179677222057472000",
+          "offerId": "179735210111312128",
+          "odds": 1.9,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 731740
+        },
+        {
+          "selection": "New Orleans Pelicans (+2.5)",
+          "outcomeId": "179677222046573312",
+          "offerId": "179735210106069248",
+          "odds": 2,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 2191
+        },
+        {
+          "selection": "New Orleans Pelicans (+3)",
+          "outcomeId": "179677222057473792",
+          "offerId": "179735210105020416",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 2191
+        },
+        {
+          "selection": "New Orleans Pelicans (+3.5)",
+          "outcomeId": "179677222052971520",
+          "offerId": "179735210105020928",
+          "odds": 1.95,
+          "paramFloat1": 3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 2191
+        },
+        {
+          "selection": "New Orleans Pelicans (+4)",
+          "outcomeId": "179677222054328832",
+          "offerId": "179735210108166912",
+          "odds": 1.9,
+          "paramFloat1": 4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 48,
+          "participantReference": 2191
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 227.5",
+          "outcomeId": "179734510393442560",
+          "offerId": "179734579341467904",
+          "odds": 2.05,
+          "paramFloat1": 227.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 228",
+          "outcomeId": "179734579344614656",
+          "offerId": "179734579563767296",
+          "odds": 2,
+          "paramFloat1": 228,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 228.5",
+          "outcomeId": "179734579343565568",
+          "offerId": "179734579562719488",
+          "odds": 1.83,
+          "paramFloat1": 228.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 228.5",
+          "outcomeId": "179734579343565824",
+          "offerId": "179734579563765760",
+          "odds": 1.95,
+          "paramFloat1": 228.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 229",
+          "outcomeId": "179734579346711552",
+          "offerId": "179734579565862912",
+          "odds": 1.9,
+          "paramFloat1": 229,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 229",
+          "outcomeId": "179734579346711808",
+          "offerId": "179734579565863168",
+          "odds": 1.9,
+          "paramFloat1": 229,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 229.5",
+          "outcomeId": "179734579346711296",
+          "offerId": "179734579564816640",
+          "odds": 1.95,
+          "paramFloat1": 229.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 229.5",
+          "outcomeId": "179734579346711040",
+          "offerId": "179734579564816384",
+          "odds": 1.83,
+          "paramFloat1": 229.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 230",
+          "outcomeId": "179734579350905088",
+          "offerId": "179734579567960320",
+          "odds": 2,
+          "paramFloat1": 230,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 230.5",
+          "outcomeId": "179734579348808960",
+          "offerId": "179734579566912768",
+          "odds": 2.05,
+          "paramFloat1": 230.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677221834772480",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2191,
+      "participantName": "New Orleans Pelicans",
+      "participantFirstName": "New Orleans",
+      "participantLastName": "Pelicans",
+      "participantShortName": "NO",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6904.png"
+    }
+  },
+  "179677222189191168": {
+    "startTime": "2022-10-19 23:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2177,
+      "participantName": "Miami Heat",
+      "participantFirstName": "Miami",
+      "participantLastName": "Heat",
+      "participantShortName": "MIA",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/bab6e873720e8ff8728f46cd70b87c6c.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chicago Bulls",
+          "outcomeId": "179677222238877440",
+          "offerId": "179711383459373312",
+          "odds": 2.8,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 466,
+          "participantReference": 2192
+        },
+        {
+          "selection": "Miami Heat",
+          "outcomeId": "179677222238877696",
+          "offerId": "179711383460421632",
+          "odds": 1.45,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 466,
+          "participantReference": 2177
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Miami Heat (-7)",
+          "outcomeId": "179677222247264768",
+          "offerId": "179713005110469632",
+          "odds": 2,
+          "paramFloat1": -7,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 48,
+          "participantReference": 2177
+        },
+        {
+          "selection": "Miami Heat (-6.5)",
+          "outcomeId": "179677222242005504",
+          "offerId": "179713005111518208",
+          "odds": 1.95,
+          "paramFloat1": -6.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 48,
+          "participantReference": 2177
+        },
+        {
+          "selection": "Miami Heat (-6)",
+          "outcomeId": "179677222248315136",
+          "offerId": "179711383459373568",
+          "odds": 1.9,
+          "paramFloat1": -6,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 48,
+          "participantReference": 2177
+        },
+        {
+          "selection": "Chicago Bulls (+5)",
+          "outcomeId": "179677222248313856",
+          "offerId": "179713005109421056",
+          "odds": 2,
+          "paramFloat1": 5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 48,
+          "participantReference": 2192
+        },
+        {
+          "selection": "Chicago Bulls (+5.5)",
+          "outcomeId": "179677222238876416",
+          "offerId": "179713005110468608",
+          "odds": 1.95,
+          "paramFloat1": 5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 48,
+          "participantReference": 2192
+        },
+        {
+          "selection": "Chicago Bulls (+6)",
+          "outcomeId": "179677222247264256",
+          "offerId": "179711383460421888",
+          "odds": 1.9,
+          "paramFloat1": 6,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 48,
+          "participantReference": 2192
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 215",
+          "outcomeId": "179713250009588224",
+          "offerId": "179713250368201984",
+          "odds": 2.05,
+          "paramFloat1": 215,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 215.5",
+          "outcomeId": "179713250004345600",
+          "offerId": "179713250366104320",
+          "odds": 2,
+          "paramFloat1": 215.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 216",
+          "outcomeId": "179713250006443264",
+          "offerId": "179713250367152640",
+          "odds": 1.83,
+          "paramFloat1": 216,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 216",
+          "outcomeId": "179713250006443008",
+          "offerId": "179713250367152384",
+          "odds": 1.95,
+          "paramFloat1": 216,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 216.5",
+          "outcomeId": "179703332442591232",
+          "offerId": "179711383460422144",
+          "odds": 1.9,
+          "paramFloat1": 216.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 216.5",
+          "outcomeId": "179703332442591488",
+          "offerId": "179711383459373056",
+          "odds": 1.9,
+          "paramFloat1": 216.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 217",
+          "outcomeId": "179713250003296512",
+          "offerId": "179713250365055744",
+          "odds": 1.95,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 217",
+          "outcomeId": "179713250003296256",
+          "offerId": "179713250365055488",
+          "odds": 1.83,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 217.5",
+          "outcomeId": "179713249998053888",
+          "offerId": "179713250360863232",
+          "odds": 2,
+          "paramFloat1": 217.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218",
+          "outcomeId": "179713249999103232",
+          "offerId": "179713250361911040",
+          "odds": 2.05,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222189191168",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2192,
+      "participantName": "Chicago Bulls",
+      "participantFirstName": "Chicago",
+      "participantLastName": "Bulls",
+      "participantShortName": "CHI",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/7a98871f6f1ecbd539e3a7e1c5465ca7.png"
+    }
+  },
+  "179677222532075520": {
+    "startTime": "2022-10-19 23:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2190,
+      "participantName": "Atlanta Hawks",
+      "participantFirstName": "Atlanta",
+      "participantLastName": "Hawks",
+      "participantShortName": "ATL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/105340d750f530feafb9a5342b870824.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Atlanta Hawks",
+          "outcomeId": "179677222604415744",
+          "offerId": "179711532226093824",
+          "odds": 1.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 466,
+          "participantReference": 2190
+        },
+        {
+          "selection": "Houston Rockets",
+          "outcomeId": "179677222605463552",
+          "offerId": "179711532226093568",
+          "odds": 4.75,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 466,
+          "participantReference": 2185
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Atlanta Hawks (-10.5)",
+          "outcomeId": "179677222616364288",
+          "offerId": "179712465083342848",
+          "odds": 2,
+          "paramFloat1": -10.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 48,
+          "participantReference": 2190
+        },
+        {
+          "selection": "Atlanta Hawks (-10)",
+          "outcomeId": "179677222615317504",
+          "offerId": "179712465083343360",
+          "odds": 1.95,
+          "paramFloat1": -10,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 48,
+          "participantReference": 2190
+        },
+        {
+          "selection": "Atlanta Hawks (-9.5)",
+          "outcomeId": "179677222604414976",
+          "offerId": "179711532226093312",
+          "odds": 1.9,
+          "paramFloat1": -9.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 48,
+          "participantReference": 2190
+        },
+        {
+          "selection": "Houston Rockets (+8.5)",
+          "outcomeId": "179677222616365056",
+          "offerId": "179712465077052928",
+          "odds": 2,
+          "paramFloat1": 8.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 48,
+          "participantReference": 2185
+        },
+        {
+          "selection": "Houston Rockets (+9)",
+          "outcomeId": "179677222617411840",
+          "offerId": "179712465077052672",
+          "odds": 1.95,
+          "paramFloat1": 9,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 48,
+          "participantReference": 2185
+        },
+        {
+          "selection": "Houston Rockets (+9.5)",
+          "outcomeId": "179677222604415488",
+          "offerId": "179711532226093056",
+          "odds": 1.9,
+          "paramFloat1": 9.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 48,
+          "participantReference": 2185
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 232",
+          "outcomeId": "179712611025199104",
+          "offerId": "179712611110134784",
+          "odds": 2.05,
+          "paramFloat1": 232,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 232.5",
+          "outcomeId": "179703297907740928",
+          "offerId": "179711532226094080",
+          "odds": 2,
+          "paramFloat1": 232.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 233",
+          "outcomeId": "179712611028344832",
+          "offerId": "179712611112232448",
+          "odds": 1.83,
+          "paramFloat1": 233,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 233",
+          "outcomeId": "179712611028345088",
+          "offerId": "179712611113279488",
+          "odds": 1.95,
+          "paramFloat1": 233,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 233.5",
+          "outcomeId": "179712611015762432",
+          "offerId": "179712611094405632",
+          "odds": 1.9,
+          "paramFloat1": 233.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 233.5",
+          "outcomeId": "179712611016810496",
+          "offerId": "179712611094405888",
+          "odds": 1.9,
+          "paramFloat1": 233.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 234",
+          "outcomeId": "179712611017859840",
+          "offerId": "179712611095454976",
+          "odds": 1.95,
+          "paramFloat1": 234,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 234",
+          "outcomeId": "179712611017859584",
+          "offerId": "179712611095454720",
+          "odds": 1.83,
+          "paramFloat1": 234,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 234.5",
+          "outcomeId": "179712611019956480",
+          "offerId": "179712611100697344",
+          "odds": 2,
+          "paramFloat1": 234.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 235",
+          "outcomeId": "179712611024150528",
+          "offerId": "179712611101745664",
+          "odds": 2.05,
+          "paramFloat1": 235,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222532075520",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2185,
+      "participantName": "Houston Rockets",
+      "participantFirstName": "Houston",
+      "participantLastName": "Rockets",
+      "participantShortName": "HOU",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6908.png"
+    }
+  },
+  "179703232256331776": {
+    "startTime": "2022-10-19 23:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2197,
+      "participantName": "Toronto Raptors",
+      "participantFirstName": "Toronto",
+      "participantLastName": "Raptors",
+      "participantShortName": "TOR",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6858.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Cleveland Cavaliers",
+          "outcomeId": "179703232299724800",
+          "offerId": "179711532227142656",
+          "odds": 2.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 466,
+          "participantReference": 2193
+        },
+        {
+          "selection": "Toronto Raptors",
+          "outcomeId": "179703232299725056",
+          "offerId": "179711532227142400",
+          "odds": 1.68,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 466,
+          "participantReference": 2197
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Toronto Raptors (-4)",
+          "outcomeId": "179703232311259904",
+          "offerId": "179713250389172992",
+          "odds": 2.05,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2197
+        },
+        {
+          "selection": "Toronto Raptors (-3.5)",
+          "outcomeId": "179703232300774144",
+          "offerId": "179713250389173504",
+          "odds": 2,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2197
+        },
+        {
+          "selection": "Toronto Raptors (-3)",
+          "outcomeId": "179703232308113664",
+          "offerId": "179713250378686464",
+          "odds": 1.95,
+          "paramFloat1": -3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2197
+        },
+        {
+          "selection": "Toronto Raptors (-2.5)",
+          "outcomeId": "179703232309164288",
+          "offerId": "179713250378686976",
+          "odds": 1.9,
+          "paramFloat1": -2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2197
+        },
+        {
+          "selection": "Cleveland Cavaliers (+1)",
+          "outcomeId": "179703232311261440",
+          "offerId": "179713250389172224",
+          "odds": 2,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2193
+        },
+        {
+          "selection": "Cleveland Cavaliers (+1.5)",
+          "outcomeId": "179703232308116736",
+          "offerId": "179713250376590592",
+          "odds": 1.9,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2193
+        },
+        {
+          "selection": "Cleveland Cavaliers (+2)",
+          "outcomeId": "179703232311262208",
+          "offerId": "179713250375541760",
+          "odds": 1.95,
+          "paramFloat1": 2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2193
+        },
+        {
+          "selection": "Cleveland Cavaliers (+2.5)",
+          "outcomeId": "179703232309165568",
+          "offerId": "179713250354569472",
+          "odds": 1.9,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 48,
+          "participantReference": 2193
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 213.5",
+          "outcomeId": "179713005123052288",
+          "offerId": "179713005195403776",
+          "odds": 2.05,
+          "paramFloat1": 213.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 214",
+          "outcomeId": "179703236378349568",
+          "offerId": "179711532227142912",
+          "odds": 2,
+          "paramFloat1": 214,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 214.5",
+          "outcomeId": "179713005126198016",
+          "offerId": "179713005203792128",
+          "odds": 1.83,
+          "paramFloat1": 214.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 214.5",
+          "outcomeId": "179713005127245824",
+          "offerId": "179713005203792384",
+          "odds": 1.95,
+          "paramFloat1": 214.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 215",
+          "outcomeId": "179713005131440640",
+          "offerId": "179713005211131904",
+          "odds": 1.9,
+          "paramFloat1": 215,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 215",
+          "outcomeId": "179713005131440896",
+          "offerId": "179713005211132160",
+          "odds": 1.9,
+          "paramFloat1": 215,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 215.5",
+          "outcomeId": "179703232314098176",
+          "offerId": "179713005130392064",
+          "odds": 1.95,
+          "paramFloat1": 215.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 215.5",
+          "outcomeId": "179703232314098688",
+          "offerId": "179713005130391808",
+          "odds": 1.83,
+          "paramFloat1": 215.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 216",
+          "outcomeId": "179713005134586624",
+          "offerId": "179713005216375040",
+          "odds": 2,
+          "paramFloat1": 216,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 216.5",
+          "outcomeId": "179713005133537280",
+          "offerId": "179713005214277632",
+          "odds": 2.05,
+          "paramFloat1": 216.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703232256331776",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2193,
+      "participantName": "Cleveland Cavaliers",
+      "participantFirstName": "Cleveland",
+      "participantLastName": "Cavaliers",
+      "participantShortName": "CLE",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/ab10bfc7e3519727a4d20e317ce882f1.png"
+    }
+  },
+  "179677222623301632": {
+    "startTime": "2022-10-20 00:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2187,
+      "participantName": "San Antonio Spurs",
+      "participantFirstName": "San Antonio",
+      "participantLastName": "Spurs",
+      "participantShortName": "SA",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6906.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Charlotte Hornets",
+          "outcomeId": "179677222684106752",
+          "offerId": "179711918067459328",
+          "odds": 1.66,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 466,
+          "participantReference": 1138623
+        },
+        {
+          "selection": "San Antonio Spurs",
+          "outcomeId": "179677222684107776",
+          "offerId": "179711918067459072",
+          "odds": 2.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 466,
+          "participantReference": 2187
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Charlotte Hornets (-4.5)",
+          "outcomeId": "179677222697104640",
+          "offerId": "179713867198276352",
+          "odds": 2,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 1138623
+        },
+        {
+          "selection": "Charlotte Hornets (-4)",
+          "outcomeId": "179677222695006720",
+          "offerId": "179713867199324160",
+          "odds": 1.9,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 1138623
+        },
+        {
+          "selection": "Charlotte Hornets (-3.5)",
+          "outcomeId": "179677222684520704",
+          "offerId": "179713867204567808",
+          "odds": 1.95,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 1138623
+        },
+        {
+          "selection": "Charlotte Hornets (-3)",
+          "outcomeId": "179677222684107008",
+          "offerId": "179711918067458816",
+          "odds": 1.9,
+          "paramFloat1": -3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 1138623
+        },
+        {
+          "selection": "San Antonio Spurs (+1.5)",
+          "outcomeId": "179677222683473664",
+          "offerId": "179713867198276096",
+          "odds": 2.05,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 2187
+        },
+        {
+          "selection": "San Antonio Spurs (+2)",
+          "outcomeId": "179677222693958912",
+          "offerId": "179713867196178944",
+          "odds": 2,
+          "paramFloat1": 2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 2187
+        },
+        {
+          "selection": "San Antonio Spurs (+2.5)",
+          "outcomeId": "179677222683473920",
+          "offerId": "179713867194081792",
+          "odds": 1.95,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 2187
+        },
+        {
+          "selection": "San Antonio Spurs (+3)",
+          "outcomeId": "179677222684107520",
+          "offerId": "179711918067458048",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 48,
+          "participantReference": 2187
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 229.5",
+          "outcomeId": "179713867200373248",
+          "offerId": "179713867269579520",
+          "odds": 2.05,
+          "paramFloat1": 229.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 230",
+          "outcomeId": "179713867203519232",
+          "offerId": "179713867274821632",
+          "odds": 2,
+          "paramFloat1": 230,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 230.5",
+          "outcomeId": "179713867206664960",
+          "offerId": "179713867280066048",
+          "odds": 1.83,
+          "paramFloat1": 230.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 230.5",
+          "outcomeId": "179713867206664704",
+          "offerId": "179713867280065792",
+          "odds": 1.95,
+          "paramFloat1": 230.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 231",
+          "outcomeId": "179703384588275712",
+          "offerId": "179711918067458560",
+          "odds": 1.9,
+          "paramFloat1": 231,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 231",
+          "outcomeId": "179703384588275968",
+          "offerId": "179711918067458304",
+          "odds": 1.9,
+          "paramFloat1": 231,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 231.5",
+          "outcomeId": "179677224140686848",
+          "offerId": "179713867209810176",
+          "odds": 1.95,
+          "paramFloat1": 231.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 231.5",
+          "outcomeId": "179677224140686592",
+          "offerId": "179713867209810432",
+          "odds": 1.83,
+          "paramFloat1": 231.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 232",
+          "outcomeId": "179713867190935808",
+          "offerId": "179713867244413440",
+          "odds": 2,
+          "paramFloat1": 232,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 232.5",
+          "outcomeId": "179713867194082560",
+          "offerId": "179713867249656576",
+          "odds": 2.05,
+          "paramFloat1": 232.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222623301632",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 1138623,
+      "participantName": "Charlotte Hornets",
+      "participantFirstName": "Charlotte",
+      "participantLastName": "Hornets",
+      "participantShortName": "CHA",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/95487b44065316a9e6bb8f53d57a9010.png"
+    }
+  },
+  "179703440296955904": {
+    "startTime": "2022-10-20 00:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2186,
+      "participantName": "Minnesota Timberwolves",
+      "participantFirstName": "Minnesota",
+      "participantLastName": "Timberwolves",
+      "participantShortName": "MIN",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6882.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Minnesota Timberwolves",
+          "outcomeId": "179703440338887424",
+          "offerId": "179711229084869888",
+          "odds": 1.18,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 466,
+          "participantReference": 2186
+        },
+        {
+          "selection": "Oklahoma City Thunder",
+          "outcomeId": "179703440338887680",
+          "offerId": "179711229084868608",
+          "odds": 5.25,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 466,
+          "participantReference": 2204
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Minnesota Timberwolves (-12)",
+          "outcomeId": "179703440347689728",
+          "offerId": "179712611011568128",
+          "odds": 2,
+          "paramFloat1": -12,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 48,
+          "participantReference": 2186
+        },
+        {
+          "selection": "Minnesota Timberwolves (-11.5)",
+          "outcomeId": "179703440347688960",
+          "offerId": "179712611011568384",
+          "odds": 1.95,
+          "paramFloat1": -11.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 48,
+          "participantReference": 2186
+        },
+        {
+          "selection": "Minnesota Timberwolves (-11)",
+          "outcomeId": "179703440346642688",
+          "offerId": "179712611011569152",
+          "odds": 1.9,
+          "paramFloat1": -11,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 48,
+          "participantReference": 2186
+        },
+        {
+          "selection": "Oklahoma City Thunder (+10)",
+          "outcomeId": "179703440347691264",
+          "offerId": "179712611012617472",
+          "odds": 2,
+          "paramFloat1": 10,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 48,
+          "participantReference": 2204
+        },
+        {
+          "selection": "Oklahoma City Thunder (+10.5)",
+          "outcomeId": "179703440338253312",
+          "offerId": "179712611013665024",
+          "odds": 1.95,
+          "paramFloat1": 10.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 48,
+          "participantReference": 2204
+        },
+        {
+          "selection": "Oklahoma City Thunder (+11)",
+          "outcomeId": "179703440346643200",
+          "offerId": "179712611013665536",
+          "odds": 1.9,
+          "paramFloat1": 11,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 48,
+          "participantReference": 2204
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 229",
+          "outcomeId": "179713249986519040",
+          "offerId": "179713250348278272",
+          "odds": 2.05,
+          "paramFloat1": 229,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 229.5",
+          "outcomeId": "179703440350528768",
+          "offerId": "179713249987568128",
+          "odds": 2,
+          "paramFloat1": 229.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 230",
+          "outcomeId": "179713249993859840",
+          "offerId": "179713250359812608",
+          "odds": 1.83,
+          "paramFloat1": 230,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 230",
+          "outcomeId": "179713249993860096",
+          "offerId": "179713250359812864",
+          "odds": 1.95,
+          "paramFloat1": 230,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 230.5",
+          "outcomeId": "179713249994908416",
+          "offerId": "179713250360861184",
+          "odds": 1.9,
+          "paramFloat1": 230.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 230.5",
+          "outcomeId": "179713249994908672",
+          "offerId": "179713250360861440",
+          "odds": 1.9,
+          "paramFloat1": 230.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 231",
+          "outcomeId": "179713249991761920",
+          "offerId": "179713250357715712",
+          "odds": 1.95,
+          "paramFloat1": 231,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 231",
+          "outcomeId": "179713249990714624",
+          "offerId": "179713250357715456",
+          "odds": 1.83,
+          "paramFloat1": 231,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 231.5",
+          "outcomeId": "179713249992810752",
+          "offerId": "179713250358764288",
+          "odds": 2,
+          "paramFloat1": 231.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 232",
+          "outcomeId": "179703444227084288",
+          "offerId": "179711229084869632",
+          "odds": 2.05,
+          "paramFloat1": 232,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703440296955904",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2204,
+      "participantName": "Oklahoma City Thunder",
+      "participantFirstName": "Oklahoma City",
+      "participantLastName": "Thunder",
+      "participantShortName": "OKC",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6884.png"
+    }
+  },
+  "179677222368497664": {
+    "startTime": "2022-10-20 01:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2188,
+      "participantName": "Utah Jazz",
+      "participantFirstName": "Utah",
+      "participantLastName": "Jazz",
+      "participantShortName": "UTA",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/036bac5ccd2222d5c0bcab450545dae6.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Denver Nuggets",
+          "outcomeId": "179677222430766080",
+          "offerId": "179733172287742720",
+          "odds": 1.31,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 466,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Utah Jazz",
+          "outcomeId": "179677222430765056",
+          "offerId": "179733172287742208",
+          "odds": 3.55,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 466,
+          "participantReference": 2188
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Denver Nuggets (-8.5)",
+          "outcomeId": "179677222439156736",
+          "offerId": "179735052813377792",
+          "odds": 2,
+          "paramFloat1": -8.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 48,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Denver Nuggets (-8)",
+          "outcomeId": "179677222439154176",
+          "offerId": "179735052812330496",
+          "odds": 1.95,
+          "paramFloat1": -8,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 48,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Denver Nuggets (-7.5)",
+          "outcomeId": "179677222442302464",
+          "offerId": "179735052812329984",
+          "odds": 1.9,
+          "paramFloat1": -7.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 48,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Utah Jazz (+6.5)",
+          "outcomeId": "179677222440203008",
+          "offerId": "179733172287742464",
+          "odds": 2,
+          "paramFloat1": 6.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 48,
+          "participantReference": 2188
+        },
+        {
+          "selection": "Utah Jazz (+7)",
+          "outcomeId": "179677222440206080",
+          "offerId": "179735052811280640",
+          "odds": 1.95,
+          "paramFloat1": 7,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 48,
+          "participantReference": 2188
+        },
+        {
+          "selection": "Utah Jazz (+7.5)",
+          "outcomeId": "179677222438106368",
+          "offerId": "179735052810232832",
+          "odds": 1.9,
+          "paramFloat1": 7.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 48,
+          "participantReference": 2188
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 216",
+          "outcomeId": "179734579323643136",
+          "offerId": "179734579554329856",
+          "odds": 2.05,
+          "paramFloat1": 216,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 216.5",
+          "outcomeId": "179734579325739264",
+          "offerId": "179734579556425728",
+          "odds": 2,
+          "paramFloat1": 216.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 217",
+          "outcomeId": "179734510402879488",
+          "offerId": "179734579326788096",
+          "odds": 1.83,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 217",
+          "outcomeId": "179734510402879744",
+          "offerId": "179734579326788352",
+          "odds": 1.95,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 217.5",
+          "outcomeId": "179734510402880000",
+          "offerId": "179734579327837184",
+          "odds": 1.9,
+          "paramFloat1": 217.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 217.5",
+          "outcomeId": "179734510402880256",
+          "offerId": "179734579328884736",
+          "odds": 1.9,
+          "paramFloat1": 217.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218",
+          "outcomeId": "179732058569371648",
+          "offerId": "179733172288790528",
+          "odds": 1.95,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 218",
+          "outcomeId": "179732058541060352",
+          "offerId": "179733172287741952",
+          "odds": 1.83,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218.5",
+          "outcomeId": "179706917074096128",
+          "offerId": "179734579328885760",
+          "odds": 2,
+          "paramFloat1": 218.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 219",
+          "outcomeId": "179734510403928064",
+          "offerId": "179734579330981888",
+          "odds": 2.05,
+          "paramFloat1": 219,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222368497664",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2184,
+      "participantName": "Denver Nuggets",
+      "participantFirstName": "Denver",
+      "participantLastName": "Nuggets",
+      "participantShortName": "DEN",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/bcdf65d5e714a3294c98fd6f4348b176.png"
+    }
+  },
+  "179677222269931520": {
+    "startTime": "2022-10-20 02:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2201,
+      "participantName": "Phoenix Suns",
+      "participantFirstName": "Phoenix",
+      "participantLastName": "Suns",
+      "participantShortName": "PHO",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6898.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Dallas Mavericks",
+          "outcomeId": "179677222327591680",
+          "offerId": "179711757258891264",
+          "odds": 2.8,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 466,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Phoenix Suns",
+          "outcomeId": "179677222327590912",
+          "offerId": "179711757259939840",
+          "odds": 1.45,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 466,
+          "participantReference": 2201
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Phoenix Suns (-6.5)",
+          "outcomeId": "179677222324860160",
+          "offerId": "179713249980228608",
+          "odds": 2,
+          "paramFloat1": -6.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 48,
+          "participantReference": 2201
+        },
+        {
+          "selection": "Phoenix Suns (-6)",
+          "outcomeId": "179677222336393728",
+          "offerId": "179713249981276416",
+          "odds": 1.95,
+          "paramFloat1": -6,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 48,
+          "participantReference": 2201
+        },
+        {
+          "selection": "Phoenix Suns (-5.5)",
+          "outcomeId": "179677222327591168",
+          "offerId": "179713249981276160",
+          "odds": 1.9,
+          "paramFloat1": -5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 48,
+          "participantReference": 2201
+        },
+        {
+          "selection": "Dallas Mavericks (+4.5)",
+          "outcomeId": "179677222324861696",
+          "offerId": "179713249976033536",
+          "odds": 2,
+          "paramFloat1": 4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 48,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Dallas Mavericks (+5)",
+          "outcomeId": "179677222337442048",
+          "offerId": "179711757259940352",
+          "odds": 1.95,
+          "paramFloat1": 5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 48,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Dallas Mavericks (+5.5)",
+          "outcomeId": "179677222326542336",
+          "offerId": "179713249976033792",
+          "odds": 1.9,
+          "paramFloat1": 5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 48,
+          "participantReference": 2555507963883520
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 215",
+          "outcomeId": "179713484706062336",
+          "offerId": "179713484767930368",
+          "odds": 2.05,
+          "paramFloat1": 215,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 215.5",
+          "outcomeId": "179713484696625920",
+          "offerId": "179713484760589056",
+          "odds": 2,
+          "paramFloat1": 215.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 216",
+          "outcomeId": "179713484695576832",
+          "offerId": "179713484748005888",
+          "odds": 1.83,
+          "paramFloat1": 216,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 216",
+          "outcomeId": "179713484695576576",
+          "offerId": "179713484748005632",
+          "odds": 1.95,
+          "paramFloat1": 216,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 216.5",
+          "outcomeId": "179703547874627584",
+          "offerId": "179711757258891776",
+          "odds": 1.9,
+          "paramFloat1": 216.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 216.5",
+          "outcomeId": "179703547875676160",
+          "offerId": "179711757258891520",
+          "odds": 1.9,
+          "paramFloat1": 216.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 217",
+          "outcomeId": "179713484698722304",
+          "offerId": "179713484761637632",
+          "odds": 1.95,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 217",
+          "outcomeId": "179713484697675008",
+          "offerId": "179713484761637376",
+          "odds": 1.83,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 217.5",
+          "outcomeId": "179713484702917120",
+          "offerId": "179713484766881536",
+          "odds": 2,
+          "paramFloat1": 217.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218",
+          "outcomeId": "179713484701868288",
+          "offerId": "179713484765832448",
+          "odds": 2.05,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222269931520",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2555507963883520,
+      "participantName": "Dallas Mavericks",
+      "participantFirstName": "Dallas",
+      "participantLastName": "Mavericks",
+      "participantShortName": "DAL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6900.png"
+    }
+  },
+  "179703582923214848": {
+    "startTime": "2022-10-20 02:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2203,
+      "participantName": "Sacramento Kings",
+      "participantFirstName": "Sacramento",
+      "participantLastName": "Kings",
+      "participantShortName": "SAC",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6896.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Portland Trail Blazers",
+          "outcomeId": "179703582966195200",
+          "offerId": "179712080102859520",
+          "odds": 2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 466,
+          "participantReference": 2202
+        },
+        {
+          "selection": "Sacramento Kings",
+          "outcomeId": "179703582966194432",
+          "offerId": "179712080102859008",
+          "odds": 1.83,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 466,
+          "participantReference": 2203
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Sacramento Kings (-2.5)",
+          "outcomeId": "179703582964512256",
+          "offerId": "179712909187784704",
+          "odds": 2.05,
+          "paramFloat1": -2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 48,
+          "participantReference": 2203
+        },
+        {
+          "selection": "Sacramento Kings (-2)",
+          "outcomeId": "179703582966583808",
+          "offerId": "179712909187785728",
+          "odds": 2,
+          "paramFloat1": -2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 48,
+          "participantReference": 2203
+        },
+        {
+          "selection": "Portland Trail Blazers (-1.5)",
+          "outcomeId": "179703582964511232",
+          "offerId": "179712909188834304",
+          "odds": 2,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 48,
+          "participantReference": 2202
+        },
+        {
+          "selection": "Sacramento Kings (-1.5)",
+          "outcomeId": "179703582966194944",
+          "offerId": "179712909186737152",
+          "odds": 1.95,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 48,
+          "participantReference": 2203
+        },
+        {
+          "selection": "Portland Trail Blazers (-1)",
+          "outcomeId": "179703582972899584",
+          "offerId": "179712909188834560",
+          "odds": 1.95,
+          "paramFloat1": -1,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 48,
+          "participantReference": 2202
+        },
+        {
+          "selection": "Sacramento Kings (-1)",
+          "outcomeId": "179703582966583552",
+          "offerId": "179712080102860032",
+          "odds": 1.9,
+          "paramFloat1": -1,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 48,
+          "participantReference": 2203
+        },
+        {
+          "selection": "Portland Trail Blazers (+1)",
+          "outcomeId": "179703582966584832",
+          "offerId": "179712080102859776",
+          "odds": 1.9,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 48,
+          "participantReference": 2202
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 222.5",
+          "outcomeId": "179713097028641792",
+          "offerId": "179713097095752192",
+          "odds": 2.05,
+          "paramFloat1": 222.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 223",
+          "outcomeId": "179713097033884160",
+          "offerId": "179713097099947008",
+          "odds": 2,
+          "paramFloat1": 223,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 223.5",
+          "outcomeId": "179713097032835072",
+          "offerId": "179713097099944704",
+          "odds": 1.83,
+          "paramFloat1": 223.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 223.5",
+          "outcomeId": "179713097032835328",
+          "offerId": "179713097099944960",
+          "odds": 1.95,
+          "paramFloat1": 223.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 224",
+          "outcomeId": "179703607888826368",
+          "offerId": "179712080102858752",
+          "odds": 1.9,
+          "paramFloat1": 224,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 224",
+          "outcomeId": "179703607888826624",
+          "offerId": "179712080102859264",
+          "odds": 1.9,
+          "paramFloat1": 224,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 224.5",
+          "outcomeId": "179713097034933248",
+          "offerId": "179713097100994304",
+          "odds": 1.95,
+          "paramFloat1": 224.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 224.5",
+          "outcomeId": "179713097034932992",
+          "offerId": "179713097100994048",
+          "odds": 1.83,
+          "paramFloat1": 224.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 225",
+          "outcomeId": "179713097026544128",
+          "offerId": "179713097095749632",
+          "odds": 2,
+          "paramFloat1": 225,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 225.5",
+          "outcomeId": "179713097025495040",
+          "offerId": "179713097071632896",
+          "odds": 2.05,
+          "paramFloat1": 225.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179703582923214848",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2202,
+      "participantName": "Portland Trail Blazers",
+      "participantFirstName": "Portland",
+      "participantLastName": "Trail Blazers",
+      "participantShortName": "POR",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/f620f698f9b2c4e2b7def10be5960ecd.png"
+    }
+  },
+  "179677222794219520": {
+    "startTime": "2022-10-20 23:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2181,
+      "participantName": "Philadelphia 76ers",
+      "participantFirstName": "Philadelphia",
+      "participantLastName": "76ers",
+      "participantShortName": "PHI",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6856.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Milwaukee Bucks",
+          "outcomeId": "179677222854390016",
+          "offerId": "179713250394415104",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 466,
+          "participantReference": 2196
+        },
+        {
+          "selection": "Philadelphia 76ers",
+          "outcomeId": "179677222854389760",
+          "offerId": "179713250393367552",
+          "odds": 1.76,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 466,
+          "participantReference": 2181
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Philadelphia 76ers (-3.5)",
+          "outcomeId": "179677222863826944",
+          "offerId": "179715700746658304",
+          "odds": 2.05,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "Philadelphia 76ers (-3)",
+          "outcomeId": "179677222861732096",
+          "offerId": "179715700745609984",
+          "odds": 2,
+          "paramFloat1": -3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "Philadelphia 76ers (-2.5)",
+          "outcomeId": "179677222864569600",
+          "offerId": "179715700745610496",
+          "odds": 1.95,
+          "paramFloat1": -2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "Philadelphia 76ers (-2)",
+          "outcomeId": "179677222864876544",
+          "offerId": "179713250393367296",
+          "odds": 1.9,
+          "paramFloat1": -2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "Milwaukee Bucks (+1)",
+          "outcomeId": "179677222865925632",
+          "offerId": "179715700746658560",
+          "odds": 1.9,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 48,
+          "participantReference": 2196
+        },
+        {
+          "selection": "Milwaukee Bucks (+1.5)",
+          "outcomeId": "179677222862780160",
+          "offerId": "179715700747707648",
+          "odds": 1.95,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 48,
+          "participantReference": 2196
+        },
+        {
+          "selection": "Milwaukee Bucks (+2)",
+          "outcomeId": "179677222865925120",
+          "offerId": "179713250394415360",
+          "odds": 1.9,
+          "paramFloat1": 2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 48,
+          "participantReference": 2196
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 223.5",
+          "outcomeId": "179714522298228992",
+          "offerId": "179714522354852096",
+          "odds": 2.05,
+          "paramFloat1": 223.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 224",
+          "outcomeId": "179714522299278336",
+          "offerId": "179714522356949248",
+          "odds": 2,
+          "paramFloat1": 224,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 224.5",
+          "outcomeId": "179714522301374720",
+          "offerId": "179714522362192896",
+          "odds": 1.83,
+          "paramFloat1": 224.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 224.5",
+          "outcomeId": "179714522301374976",
+          "offerId": "179714522362192640",
+          "odds": 1.95,
+          "paramFloat1": 224.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 225",
+          "outcomeId": "179703651815772672",
+          "offerId": "179713250393366784",
+          "odds": 1.9,
+          "paramFloat1": 225,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 225",
+          "outcomeId": "179703651815772928",
+          "offerId": "179713250393367040",
+          "odds": 1.9,
+          "paramFloat1": 225,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 225.5",
+          "outcomeId": "179714522304520448",
+          "offerId": "179714522364290304",
+          "odds": 1.95,
+          "paramFloat1": 225.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 225.5",
+          "outcomeId": "179714522304520192",
+          "offerId": "179714522364290048",
+          "odds": 1.83,
+          "paramFloat1": 225.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 226",
+          "outcomeId": "179714522305569792",
+          "offerId": "179714522369531904",
+          "odds": 2,
+          "paramFloat1": 226,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 226.5",
+          "outcomeId": "179714522307666176",
+          "offerId": "179714522369533696",
+          "odds": 2.05,
+          "paramFloat1": 226.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222794219520",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2196,
+      "participantName": "Milwaukee Bucks",
+      "participantFirstName": "Milwaukee",
+      "participantLastName": "Bucks",
+      "participantShortName": "MIL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6866.png"
+    }
+  },
+  "179677222094819328": {
+    "startTime": "2022-10-21 02:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2200,
+      "participantName": "Los Angeles Lakers",
+      "participantFirstName": "Los Angeles",
+      "participantLastName": "Lakers",
+      "participantShortName": "LAL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6894.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Los Angeles Clippers",
+          "outcomeId": "179677222148698112",
+          "offerId": "179713791682978560",
+          "odds": 1.66,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 466,
+          "participantReference": 2199
+        },
+        {
+          "selection": "Los Angeles Lakers",
+          "outcomeId": "179677222148699136",
+          "offerId": "179713791684026368",
+          "odds": 2.3,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 466,
+          "participantReference": 2200
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Los Angeles Clippers (-4.5)",
+          "outcomeId": "179677222160234752",
+          "offerId": "179716504601798656",
+          "odds": 2,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2199
+        },
+        {
+          "selection": "Los Angeles Clippers (-4)",
+          "outcomeId": "179677222156041472",
+          "offerId": "179716504598650880",
+          "odds": 1.9,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2199
+        },
+        {
+          "selection": "Los Angeles Clippers (-3.5)",
+          "outcomeId": "179677222155732736",
+          "offerId": "179716504597602816",
+          "odds": 1.95,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2199
+        },
+        {
+          "selection": "Los Angeles Clippers (-3)",
+          "outcomeId": "179677222159187712",
+          "offerId": "179713791684026624",
+          "odds": 1.9,
+          "paramFloat1": -3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2199
+        },
+        {
+          "selection": "Los Angeles Lakers (+1.5)",
+          "outcomeId": "179677222156039680",
+          "offerId": "179716504596554240",
+          "odds": 2.05,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+2)",
+          "outcomeId": "179677222159185408",
+          "offerId": "179716504596554752",
+          "odds": 2,
+          "paramFloat1": 2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+2.5)",
+          "outcomeId": "179677222157090560",
+          "offerId": "179716504597602560",
+          "odds": 1.95,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+3)",
+          "outcomeId": "179677222156040192",
+          "offerId": "179713791682978304",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 219",
+          "outcomeId": "179715243005486848",
+          "offerId": "179715243064205824",
+          "odds": 2.05,
+          "paramFloat1": 219,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 219.5",
+          "outcomeId": "179715243007582208",
+          "offerId": "179715243065254912",
+          "odds": 2,
+          "paramFloat1": 219.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 220",
+          "outcomeId": "179715242999193600",
+          "offerId": "179715243055818240",
+          "odds": 1.83,
+          "paramFloat1": 220,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 220",
+          "outcomeId": "179715242998145792",
+          "offerId": "179715243055817984",
+          "odds": 1.95,
+          "paramFloat1": 220,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 220.5",
+          "outcomeId": "179703702606696960",
+          "offerId": "179713791682978048",
+          "odds": 1.9,
+          "paramFloat1": 220.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 220.5",
+          "outcomeId": "179703702606697216",
+          "offerId": "179713791682977792",
+          "odds": 1.9,
+          "paramFloat1": 220.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 221",
+          "outcomeId": "179715243001291520",
+          "offerId": "179715243058962432",
+          "odds": 1.95,
+          "paramFloat1": 221,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 221",
+          "outcomeId": "179715243001291776",
+          "offerId": "179715243058962688",
+          "odds": 1.83,
+          "paramFloat1": 221,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 221.5",
+          "outcomeId": "179715243002340352",
+          "offerId": "179715243060011520",
+          "odds": 2,
+          "paramFloat1": 221.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 222",
+          "outcomeId": "179715243003389440",
+          "offerId": "179715243061061120",
+          "odds": 2.05,
+          "paramFloat1": 222,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677222094819328",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2199,
+      "participantName": "Los Angeles Clippers",
+      "participantFirstName": "Los Angeles",
+      "participantLastName": "Clippers",
+      "participantShortName": "LAC",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/fad63d98dbd2f6d48b2f66940a47167f.png"
+    }
+  },
+  "179677220357328896": {
+    "startTime": "2022-12-25 17:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2179,
+      "participantName": "New York Knicks",
+      "participantFirstName": "New York",
+      "participantLastName": "Knicks",
+      "participantShortName": "NYK",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6850.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "New York Knicks",
+          "outcomeId": "179677221026722816",
+          "offerId": "179677221679571200",
+          "odds": 2.45,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677220357328896",
+          "bettingTypeId": 466,
+          "participantReference": 2179
+        },
+        {
+          "selection": "Philadelphia 76ers",
+          "outcomeId": "179677221026723072",
+          "offerId": "179677221679571456",
+          "odds": 1.6,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677220357328896",
+          "bettingTypeId": 466,
+          "participantReference": 2181
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Philadelphia 76ers (-3.5)",
+          "outcomeId": "179677221027772160",
+          "offerId": "179677221679570944",
+          "odds": 1.9,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220357328896",
+          "bettingTypeId": 48,
+          "participantReference": 2181
+        },
+        {
+          "selection": "New York Knicks (+3.5)",
+          "outcomeId": "179677221027771392",
+          "offerId": "179677221679571712",
+          "odds": 1.9,
+          "paramFloat1": 3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220357328896",
+          "bettingTypeId": 48,
+          "participantReference": 2179
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 219.5",
+          "outcomeId": "179677221037210624",
+          "offerId": "179677221678522368",
+          "odds": 1.9,
+          "paramFloat1": 219.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220357328896",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 219.5",
+          "outcomeId": "179677221037210880",
+          "offerId": "179677221678522624",
+          "odds": 1.9,
+          "paramFloat1": 219.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220357328896",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2181,
+      "participantName": "Philadelphia 76ers",
+      "participantFirstName": "Philadelphia",
+      "participantLastName": "76ers",
+      "participantShortName": "PHI",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6856.png"
+    }
+  },
+  "179677219678900224": {
+    "startTime": "2022-12-25 19:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2555507963883520,
+      "participantName": "Dallas Mavericks",
+      "participantFirstName": "Dallas",
+      "participantLastName": "Mavericks",
+      "participantShortName": "DAL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6900.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Dallas Mavericks",
+          "outcomeId": "179677219726488320",
+          "offerId": "179677219892799232",
+          "odds": 1.57,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 466,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Los Angeles Lakers",
+          "outcomeId": "179677219726488576",
+          "offerId": "179677219892797696",
+          "odds": 2.55,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 466,
+          "participantReference": 2200
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Dallas Mavericks (-5.5)",
+          "outcomeId": "179677219733812224",
+          "offerId": "179677219892798720",
+          "odds": 2.05,
+          "paramFloat1": -5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Dallas Mavericks (-5)",
+          "outcomeId": "179677219740756992",
+          "offerId": "179677219872876800",
+          "odds": 2,
+          "paramFloat1": -5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Dallas Mavericks (-4.5)",
+          "outcomeId": "179677219734863360",
+          "offerId": "179677219892797952",
+          "odds": 1.95,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Dallas Mavericks (-4)",
+          "outcomeId": "179677219739707136",
+          "offerId": "179677219871828992",
+          "odds": 1.9,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2555507963883520
+        },
+        {
+          "selection": "Los Angeles Lakers (+2.5)",
+          "outcomeId": "179677219731717888",
+          "offerId": "179677219892800000",
+          "odds": 2,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+3)",
+          "outcomeId": "179677219735511552",
+          "offerId": "179677219870780416",
+          "odds": 1.9,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+3.5)",
+          "outcomeId": "179677219735909120",
+          "offerId": "179677219891749632",
+          "odds": 1.95,
+          "paramFloat1": 3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        },
+        {
+          "selection": "Los Angeles Lakers (+4)",
+          "outcomeId": "179677219737610240",
+          "offerId": "179677219868683264",
+          "odds": 1.9,
+          "paramFloat1": 4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 48,
+          "participantReference": 2200
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 217",
+          "outcomeId": "179677219741803008",
+          "offerId": "179677219872878080",
+          "odds": 2.05,
+          "paramFloat1": 217,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 217.5",
+          "outcomeId": "179677219732765696",
+          "offerId": "179677219891750144",
+          "odds": 2,
+          "paramFloat1": 217.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218",
+          "outcomeId": "179677219737611520",
+          "offerId": "179677219868680704",
+          "odds": 1.83,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 218",
+          "outcomeId": "179677219742851840",
+          "offerId": "179677219873926144",
+          "odds": 1.95,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 218.5",
+          "outcomeId": "179677219731716352",
+          "offerId": "179677219892799744",
+          "odds": 1.9,
+          "paramFloat1": 218.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 218.5",
+          "outcomeId": "179677219731715584",
+          "offerId": "179677219891750656",
+          "odds": 1.9,
+          "paramFloat1": 218.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 219",
+          "outcomeId": "179677219736561408",
+          "offerId": "179677219869729280",
+          "odds": 1.95,
+          "paramFloat1": 219,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 219",
+          "outcomeId": "179677219734462464",
+          "offerId": "179677219869730816",
+          "odds": 1.83,
+          "paramFloat1": 219,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 219.5",
+          "outcomeId": "179677219732764928",
+          "offerId": "179677219892798976",
+          "odds": 2,
+          "paramFloat1": 219.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 220",
+          "outcomeId": "179677219740755712",
+          "offerId": "179677219872875776",
+          "odds": 2.05,
+          "paramFloat1": 220,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219678900224",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2200,
+      "participantName": "Los Angeles Lakers",
+      "participantFirstName": "Los Angeles",
+      "participantLastName": "Lakers",
+      "participantShortName": "LAL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6894.png"
+    }
+  },
+  "179677219800535040": {
+    "startTime": "2022-12-25 22:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2176,
+      "participantName": "Boston Celtics",
+      "participantFirstName": "Boston",
+      "participantLastName": "Celtics",
+      "participantShortName": "BOS",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6854.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Boston Celtics",
+          "outcomeId": "179677219945631744",
+          "offerId": "179677220193740544",
+          "odds": 1.58,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 466,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Milwaukee Bucks",
+          "outcomeId": "179677219945632000",
+          "offerId": "179677220210515968",
+          "odds": 2.5,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 466,
+          "participantReference": 2196
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Boston Celtics (-5)",
+          "outcomeId": "179677219945227520",
+          "offerId": "179677220195838464",
+          "odds": 2.05,
+          "paramFloat1": -5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Boston Celtics (-4.5)",
+          "outcomeId": "179677219946275328",
+          "offerId": "179677220193739008",
+          "odds": 2,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Boston Celtics (-4)",
+          "outcomeId": "179677219953616128",
+          "offerId": "179677220211564544",
+          "odds": 1.95,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Boston Celtics (-3.5)",
+          "outcomeId": "179677219952567552",
+          "offerId": "179677220206322944",
+          "odds": 1.9,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2176
+        },
+        {
+          "selection": "Milwaukee Bucks (+2)",
+          "outcomeId": "179677219945228288",
+          "offerId": "179677220194789376",
+          "odds": 2,
+          "paramFloat1": 2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2196
+        },
+        {
+          "selection": "Milwaukee Bucks (+2.5)",
+          "outcomeId": "179677219949422080",
+          "offerId": "179677220196888064",
+          "odds": 1.9,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2196
+        },
+        {
+          "selection": "Milwaukee Bucks (+3)",
+          "outcomeId": "179677219948372224",
+          "offerId": "179677220194790144",
+          "odds": 1.95,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2196
+        },
+        {
+          "selection": "Milwaukee Bucks (+3.5)",
+          "outcomeId": "179677219951521280",
+          "offerId": "179677220205273088",
+          "odds": 1.9,
+          "paramFloat1": 3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 48,
+          "participantReference": 2196
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 218",
+          "outcomeId": "179677219948373248",
+          "offerId": "179677220195839232",
+          "odds": 2.05,
+          "paramFloat1": 218,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 218.5",
+          "outcomeId": "179677219946277120",
+          "offerId": "179677220193739520",
+          "odds": 2,
+          "paramFloat1": 218.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 219",
+          "outcomeId": "179677219947324416",
+          "offerId": "179677220195836928",
+          "odds": 1.83,
+          "paramFloat1": 219,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 219",
+          "outcomeId": "179677219952566272",
+          "offerId": "179677220206321664",
+          "odds": 1.95,
+          "paramFloat1": 219,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 219.5",
+          "outcomeId": "179677219947326208",
+          "offerId": "179677220196884992",
+          "odds": 1.9,
+          "paramFloat1": 219.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 219.5",
+          "outcomeId": "179677219945227264",
+          "offerId": "179677220195835904",
+          "odds": 1.9,
+          "paramFloat1": 219.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 220",
+          "outcomeId": "179677219953614848",
+          "offerId": "179677220209467648",
+          "odds": 1.95,
+          "paramFloat1": 220,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 220",
+          "outcomeId": "179677219951517952",
+          "offerId": "179677220201079040",
+          "odds": 1.83,
+          "paramFloat1": 220,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 220.5",
+          "outcomeId": "179677219949420544",
+          "offerId": "179677220196886528",
+          "odds": 2,
+          "paramFloat1": 220.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 221",
+          "outcomeId": "179677219954663680",
+          "offerId": "179677220215758848",
+          "odds": 2.05,
+          "paramFloat1": 221,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219800535040",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2196,
+      "participantName": "Milwaukee Bucks",
+      "participantFirstName": "Milwaukee",
+      "participantLastName": "Bucks",
+      "participantShortName": "MIL",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6866.png"
+    }
+  },
+  "179677220032270336": {
+    "startTime": "2022-12-26 01:00:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2198,
+      "participantName": "Golden State Warriors",
+      "participantFirstName": "Golden State",
+      "participantLastName": "Warriors",
+      "participantShortName": "GS",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6890.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Golden State Warriors",
+          "outcomeId": "179677220340955136",
+          "offerId": "179677221176255232",
+          "odds": 1.52,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 466,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Memphis Grizzlies",
+          "outcomeId": "179677220340956672",
+          "offerId": "179677221176254976",
+          "odds": 2.67,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 466,
+          "participantReference": 5729
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Golden State Warriors (-5.5)",
+          "outcomeId": "179677220338857472",
+          "offerId": "179677221176255744",
+          "odds": 2,
+          "paramFloat1": -5.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 48,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Golden State Warriors (-5)",
+          "outcomeId": "179677220354171904",
+          "offerId": "179677221172062720",
+          "odds": 1.95,
+          "paramFloat1": -5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 48,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Golden State Warriors (-4.5)",
+          "outcomeId": "179677220339906816",
+          "offerId": "179677221175207424",
+          "odds": 1.9,
+          "paramFloat1": -4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 48,
+          "participantReference": 2198
+        },
+        {
+          "selection": "Memphis Grizzlies (+3)",
+          "outcomeId": "179677220359524096",
+          "offerId": "179677221169964544",
+          "odds": 2.05,
+          "paramFloat1": 3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 48,
+          "participantReference": 5729
+        },
+        {
+          "selection": "Memphis Grizzlies (+3.5)",
+          "outcomeId": "179677220338856192",
+          "offerId": "179677221171014656",
+          "odds": 1.9,
+          "paramFloat1": 3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 48,
+          "participantReference": 5729
+        },
+        {
+          "selection": "Memphis Grizzlies (+4)",
+          "outcomeId": "179677220358473728",
+          "offerId": "179677221172062976",
+          "odds": 1.95,
+          "paramFloat1": 4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 48,
+          "participantReference": 5729
+        },
+        {
+          "selection": "Memphis Grizzlies (+4.5)",
+          "outcomeId": "179677220339907328",
+          "offerId": "179677221177305344",
+          "odds": 1.9,
+          "paramFloat1": 4.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 48,
+          "participantReference": 5729
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 224",
+          "outcomeId": "179677220355222528",
+          "offerId": "179677221173110016",
+          "odds": 2.05,
+          "paramFloat1": 224,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 224.5",
+          "outcomeId": "179677220356375296",
+          "offerId": "179677221172061696",
+          "odds": 2,
+          "paramFloat1": 224.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 225",
+          "outcomeId": "179677220351027712",
+          "offerId": "179677221169965568",
+          "odds": 1.83,
+          "paramFloat1": 225,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 225",
+          "outcomeId": "179677220358475520",
+          "offerId": "179677221174159872",
+          "odds": 1.95,
+          "paramFloat1": 225,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 225.5",
+          "outcomeId": "179677220353231104",
+          "offerId": "179677221178351872",
+          "odds": 1.9,
+          "paramFloat1": 225.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 225.5",
+          "outcomeId": "179677220346180352",
+          "offerId": "179677221171014144",
+          "odds": 1.9,
+          "paramFloat1": 225.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 226",
+          "outcomeId": "179677220346831104",
+          "offerId": "179677221168915712",
+          "odds": 1.95,
+          "paramFloat1": 226,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 226",
+          "outcomeId": "179677220353124864",
+          "offerId": "179677221171012608",
+          "odds": 1.83,
+          "paramFloat1": 226,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 226.5",
+          "outcomeId": "179677220345889792",
+          "offerId": "179677221174160640",
+          "odds": 2,
+          "paramFloat1": 226.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 227",
+          "outcomeId": "179677220357423872",
+          "offerId": "179677221172063232",
+          "odds": 2.05,
+          "paramFloat1": 227,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677220032270336",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 5729,
+      "participantName": "Memphis Grizzlies",
+      "participantFirstName": "Memphis",
+      "participantLastName": "Grizzlies",
+      "participantShortName": "MEM",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6902.png"
+    }
+  },
+  "179677219736571904": {
+    "startTime": "2022-12-26 03:30:00.000",
+    "leagueName": "NBA",
+    "Home": {
+      "participantId": 2184,
+      "participantName": "Denver Nuggets",
+      "participantFirstName": "Denver",
+      "participantLastName": "Nuggets",
+      "participantShortName": "DEN",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/bcdf65d5e714a3294c98fd6f4348b176.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Denver Nuggets",
+          "outcomeId": "179677219806171136",
+          "offerId": "179677220013383936",
+          "odds": 1.71,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 466,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Phoenix Suns",
+          "outcomeId": "179677219806171392",
+          "offerId": "179677220013383680",
+          "odds": 2.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 466,
+          "participantReference": 2201
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Denver Nuggets (-4)",
+          "outcomeId": "179677219820446208",
+          "offerId": "179677220012336384",
+          "odds": 2.05,
+          "paramFloat1": -4,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Denver Nuggets (-3.5)",
+          "outcomeId": "179677219816254976",
+          "offerId": "179677220004997888",
+          "odds": 2,
+          "paramFloat1": -3.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Denver Nuggets (-3)",
+          "outcomeId": "179677219817303296",
+          "offerId": "179677220006045440",
+          "odds": 1.95,
+          "paramFloat1": -3,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Denver Nuggets (-2.5)",
+          "outcomeId": "179677219814156800",
+          "offerId": "179677220007092992",
+          "odds": 1.9,
+          "paramFloat1": -2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2184
+        },
+        {
+          "selection": "Phoenix Suns (+1)",
+          "outcomeId": "179677219812058112",
+          "offerId": "179677220004995840",
+          "odds": 2,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2201
+        },
+        {
+          "selection": "Phoenix Suns (+1.5)",
+          "outcomeId": "179677219815203584",
+          "offerId": "179677220006047488",
+          "odds": 1.9,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2201
+        },
+        {
+          "selection": "Phoenix Suns (+2)",
+          "outcomeId": "179677219817300480",
+          "offerId": "179677220009189632",
+          "odds": 1.95,
+          "paramFloat1": 2,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2201
+        },
+        {
+          "selection": "Phoenix Suns (+2.5)",
+          "outcomeId": "179677219818349056",
+          "offerId": "179677220009192192",
+          "odds": 1.9,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 48,
+          "participantReference": 2201
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 230",
+          "outcomeId": "179677219815203328",
+          "offerId": "179677220004998400",
+          "odds": 2.05,
+          "paramFloat1": 230,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 230.5",
+          "outcomeId": "179677219813105920",
+          "offerId": "179677220009189376",
+          "odds": 2,
+          "paramFloat1": 230.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 231",
+          "outcomeId": "179677219813108480",
+          "offerId": "179677220006043904",
+          "odds": 1.83,
+          "paramFloat1": 231,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 231",
+          "outcomeId": "179677219818348800",
+          "offerId": "179677220006046208",
+          "odds": 1.95,
+          "paramFloat1": 231,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 231.5",
+          "outcomeId": "179677219814155520",
+          "offerId": "179677220010241280",
+          "odds": 1.9,
+          "paramFloat1": 231.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 231.5",
+          "outcomeId": "179677219811008768",
+          "offerId": "179677220006043648",
+          "odds": 1.9,
+          "paramFloat1": 231.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 232",
+          "outcomeId": "179677219819397888",
+          "offerId": "179677220011288832",
+          "odds": 1.95,
+          "paramFloat1": 232,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 232",
+          "outcomeId": "179677219817300224",
+          "offerId": "179677220010239488",
+          "odds": 1.83,
+          "paramFloat1": 232,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 232.5",
+          "outcomeId": "179677219815205120",
+          "offerId": "179677220006045952",
+          "odds": 2,
+          "paramFloat1": 232.5,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 233",
+          "outcomeId": "179677219820447232",
+          "offerId": "179677220012337408",
+          "odds": 2.05,
+          "paramFloat1": 233,
+          "market": "Over/Under",
+          "eventPartId": 60,
+          "eventId": "179677219736571904",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2201,
+      "participantName": "Phoenix Suns",
+      "participantFirstName": "Phoenix",
+      "participantLastName": "Suns",
+      "participantShortName": "PHO",
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/6898.png"
+    }
+  }
+}

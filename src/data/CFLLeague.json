@@ -1,0 +1,296 @@
+{
+  "182280383969153024": {
+    "startTime": "2022-09-23 23:30:00.000",
+    "leagueName": "CFL",
+    "Home": {
+      "participantId": 26098,
+      "participantName": "Montreal Alouettes",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/e02e2d0895eb898a4baf94d2500cc06c.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Hamilton Tiger-Cats",
+          "outcomeId": "182520878020780544",
+          "offerId": "182617681899721472",
+          "odds": 2.15,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 30,
+          "eventId": "182280383969153024",
+          "bettingTypeId": 466,
+          "participantReference": 26097
+        },
+        {
+          "selection": "Montreal Alouettes",
+          "outcomeId": "182520878020780288",
+          "offerId": "182617681899721216",
+          "odds": 1.74,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 30,
+          "eventId": "182280383969153024",
+          "bettingTypeId": 466,
+          "participantReference": 26098
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 52",
+          "outcomeId": "182565226208911872",
+          "offerId": "182788265120706560",
+          "odds": 1.9,
+          "paramFloat1": 52,
+          "market": "Over/Under",
+          "eventPartId": 30,
+          "eventId": "182280383969153024",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 52",
+          "outcomeId": "182565226208911616",
+          "offerId": "182788265120706816",
+          "odds": 1.9,
+          "paramFloat1": 52,
+          "market": "Over/Under",
+          "eventPartId": 30,
+          "eventId": "182280383969153024",
+          "bettingTypeId": 47
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Montreal Alouettes (-1.5)",
+          "outcomeId": "182520882160422912",
+          "offerId": "182823760092540928",
+          "odds": 1.9,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 30,
+          "eventId": "182280383969153024",
+          "bettingTypeId": 48,
+          "participantReference": 26098
+        },
+        {
+          "selection": "Hamilton Tiger-Cats (+1.5)",
+          "outcomeId": "182520882160423680",
+          "offerId": "182823760091492352",
+          "odds": 1.9,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 30,
+          "eventId": "182280383969153024",
+          "bettingTypeId": 48,
+          "participantReference": 26097
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 26097,
+      "participantName": "Hamilton Tiger-Cats",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/7e3e58300e7d2486808d098bd97c3262.png"
+    }
+  },
+  "182371358641016832": {
+    "startTime": "2022-09-24 23:00:00.000",
+    "leagueName": "CFL",
+    "Home": {
+      "participantId": 1057569,
+      "participantName": "Ottawa RedBlacks",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/69859.png"
+    },
+    "offers": {
+      "Over_Under": [
+        {
+          "selection": "Under 46.5",
+          "outcomeId": "182520778198323456",
+          "offerId": "182617681901818112",
+          "odds": 1.9,
+          "paramFloat1": 46.5,
+          "market": "Over/Under",
+          "eventPartId": 30,
+          "eventId": "182371358641016832",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 46.5",
+          "outcomeId": "182520778198323200",
+          "offerId": "182617681901817856",
+          "odds": 1.9,
+          "paramFloat1": 46.5,
+          "market": "Over/Under",
+          "eventPartId": 30,
+          "eventId": "182371358641016832",
+          "bettingTypeId": 47
+        }
+      ],
+      "Home_Away": [
+        {
+          "selection": "Ottawa RedBlacks",
+          "outcomeId": "182520762616483840",
+          "offerId": "182617681901818368",
+          "odds": 2.2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 30,
+          "eventId": "182371358641016832",
+          "bettingTypeId": 466,
+          "participantReference": 1057569
+        },
+        {
+          "selection": "Toronto Argonauts",
+          "outcomeId": "182520762617532416",
+          "offerId": "182617681901819136",
+          "odds": 1.71,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 30,
+          "eventId": "182371358641016832",
+          "bettingTypeId": 466,
+          "participantReference": 26101
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Toronto Argonauts (-2.5)",
+          "outcomeId": "182520762617532928",
+          "offerId": "182617681901818624",
+          "odds": 1.9,
+          "paramFloat1": -2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 30,
+          "eventId": "182371358641016832",
+          "bettingTypeId": 48,
+          "participantReference": 26101
+        },
+        {
+          "selection": "Ottawa RedBlacks (+2.5)",
+          "outcomeId": "182520762617532672",
+          "offerId": "182617681901818880",
+          "odds": 1.9,
+          "paramFloat1": 2.5,
+          "market": "Asian Handicap",
+          "eventPartId": 30,
+          "eventId": "182371358641016832",
+          "bettingTypeId": 48,
+          "participantReference": 1057569
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 26101,
+      "participantName": "Toronto Argonauts",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/b780bb67f7ecc5aa99d3e91d580354fe.png"
+    }
+  },
+  "182382736580857856": {
+    "startTime": "2022-09-25 02:00:00.000",
+    "leagueName": "CFL",
+    "Home": {
+      "participantId": 26094,
+      "participantName": "British Columbia Lions",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10783.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "British Columbia Lions",
+          "outcomeId": "182520794277187584",
+          "offerId": "182617681900769536",
+          "odds": 1.83,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 30,
+          "eventId": "182382736580857856",
+          "bettingTypeId": 466,
+          "participantReference": 26094
+        },
+        {
+          "selection": "Calgary Stampeders",
+          "outcomeId": "182520794277187840",
+          "offerId": "182617681900769792",
+          "odds": 2,
+          "paramFloat1": null,
+          "market": "Home Away",
+          "eventPartId": 30,
+          "eventId": "182382736580857856",
+          "bettingTypeId": 466,
+          "participantReference": 26095
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "British Columbia Lions (-1)",
+          "outcomeId": "182520794277188608",
+          "offerId": "182617681900769280",
+          "odds": 1.9,
+          "paramFloat1": -1,
+          "market": "Asian Handicap",
+          "eventPartId": 30,
+          "eventId": "182382736580857856",
+          "bettingTypeId": 48,
+          "participantReference": 26094
+        },
+        {
+          "selection": "Calgary Stampeders (+1)",
+          "outcomeId": "182520794277188864",
+          "offerId": "182617681900770304",
+          "odds": 1.9,
+          "paramFloat1": 1,
+          "market": "Asian Handicap",
+          "eventPartId": 30,
+          "eventId": "182382736580857856",
+          "bettingTypeId": 48,
+          "participantReference": 26095
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 54.5",
+          "outcomeId": "182564652565570304",
+          "offerId": "182789269966893056",
+          "odds": 1.9,
+          "paramFloat1": 54.5,
+          "market": "Over/Under",
+          "eventPartId": 30,
+          "eventId": "182382736580857856",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 54.5",
+          "outcomeId": "182564652564522240",
+          "offerId": "182789269966893312",
+          "odds": 1.9,
+          "paramFloat1": 54.5,
+          "market": "Over/Under",
+          "eventPartId": 30,
+          "eventId": "182382736580857856",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 26095,
+      "participantName": "Calgary Stampeders",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/10781.png"
+    }
+  }
+}

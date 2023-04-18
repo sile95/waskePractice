@@ -1,0 +1,20 @@
+{
+  "user_name": "waske",
+  "first_name": "Vasiljevic",
+  "last_name": "Vanja",
+  "email": "waske@gmail.com",
+  "image_path": "https://dev-api.thelock365.tech/storage/images/users/rmZ96MUB4D5tE684ApgN69Zq0runfH5T9BGit78d.jpg",
+  "birth_date": "1984-07-03",
+  "state": "CO",
+  "time_zone": "Europe/Warsaw",
+  "credit": 10000,
+  "balance": 0,
+  "pending": 4653.85,
+  "minRisk": null,
+  "maxRisk": null,
+  "minToWin": null,
+  "maxToWin": null,
+  "minOdds": null,
+  "maxOdds": null,
+  "total_credit": 5346.15
+}

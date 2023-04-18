@@ -1,0 +1,1195 @@
+{
+  "181613058539442176": {
+    "startTime": "2022-10-01 11:30:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 1,
+      "participantName": "Arsenal",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/08a25897e35d75d7261a8095b9599aad.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Arsenal",
+          "outcomeId": "181613058621297152",
+          "offerId": "182027015086839040",
+          "odds": 2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 69,
+          "participantReference": 1
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "181613058617102336",
+          "offerId": "182027015087886336",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Tottenham Hotspur",
+          "outcomeId": "181613058617103360",
+          "offerId": "182027015084743936",
+          "odds": 3.25,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 69,
+          "participantReference": 17
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Arsenal (-0.5)",
+          "outcomeId": "181613058621298432",
+          "offerId": "182028837058943232",
+          "odds": 2.025,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 48,
+          "participantReference": 1
+        },
+        {
+          "selection": "Arsenal (-0.25)",
+          "outcomeId": "181613058621298688",
+          "offerId": "182027015084743424",
+          "odds": 1.84,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 48,
+          "participantReference": 1
+        },
+        {
+          "selection": "Tottenham Hotspur (+0.25)",
+          "outcomeId": "181613058618151680",
+          "offerId": "182027015088935680",
+          "odds": 2.06,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 48,
+          "participantReference": 17
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.75",
+          "outcomeId": "181613058620249856",
+          "offerId": "182027015086841088",
+          "odds": 1.9,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "181613058622347520",
+          "offerId": "182027015086837760",
+          "odds": 2,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058539442176",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 17,
+      "participantName": "Tottenham Hotspur",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1984.png"
+    }
+  },
+  "181613058237452288": {
+    "startTime": "2022-10-01 14:00:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 10,
+      "participantName": "Liverpool",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1990.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Brighton and Hove Albion",
+          "outcomeId": "181613058296238848",
+          "offerId": "182026770914385408",
+          "odds": 9,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 69,
+          "participantReference": 88
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "181613058298337280",
+          "offerId": "182026770917529344",
+          "odds": 4.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Liverpool",
+          "outcomeId": "181613058297287168",
+          "offerId": "182026770915432448",
+          "odds": 1.363,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 69,
+          "participantReference": 10
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Liverpool (-1.5)",
+          "outcomeId": "181613058295191040",
+          "offerId": "182026770915432192",
+          "odds": 2.02,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 48,
+          "participantReference": 10
+        },
+        {
+          "selection": "Brighton and Hove Albion (+1.25)",
+          "outcomeId": "181613058296239872",
+          "offerId": "182027972071822848",
+          "odds": 2.075,
+          "paramFloat1": 1.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 48,
+          "participantReference": 88
+        },
+        {
+          "selection": "Brighton and Hove Albion (+1.5)",
+          "outcomeId": "181613058297288960",
+          "offerId": "182026770917529600",
+          "odds": 1.88,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 48,
+          "participantReference": 88
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "181613058296240384",
+          "offerId": "182028126123366400",
+          "odds": 2.05,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 3",
+          "outcomeId": "181613058299383808",
+          "offerId": "182026770915432960",
+          "odds": 2.06,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3",
+          "outcomeId": "181613058295192832",
+          "offerId": "182026770917528832",
+          "odds": 1.84,
+          "paramFloat1": 3,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058237452288",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 88,
+      "participantName": "Brighton and Hove Albion",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2026.png"
+    }
+  },
+  "181613058388447232": {
+    "startTime": "2022-10-01 14:00:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 45,
+      "participantName": "Crystal Palace FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2020.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Chelsea",
+          "outcomeId": "181613058436747520",
+          "offerId": "182026770919627520",
+          "odds": 1.833,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 69,
+          "participantReference": 4
+        },
+        {
+          "selection": "Crystal Palace FC",
+          "outcomeId": "181613058440942336",
+          "offerId": "182026770920674304",
+          "odds": 4.2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 69,
+          "participantReference": 45
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "181613058438844672",
+          "offerId": "182026770919626752",
+          "odds": 3.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 69
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Chelsea (-0.75)",
+          "outcomeId": "181613058439894272",
+          "offerId": "182028048007601152",
+          "odds": 2.05,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 48,
+          "participantReference": 4
+        },
+        {
+          "selection": "Chelsea (-0.5)",
+          "outcomeId": "181613058436748544",
+          "offerId": "182026770920676352",
+          "odds": 1.84,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 48,
+          "participantReference": 4
+        },
+        {
+          "selection": "Crystal Palace FC (+0.5)",
+          "outcomeId": "181613058437797888",
+          "offerId": "182026770920676096",
+          "odds": 2.06,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 48,
+          "participantReference": 45
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.25",
+          "outcomeId": "181613058440943616",
+          "offerId": "182032659523213312",
+          "odds": 2.05,
+          "paramFloat1": 2.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 2.5",
+          "outcomeId": "181613058438846208",
+          "offerId": "182026770919627264",
+          "odds": 2.05,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "181613058441990656",
+          "offerId": "182026770922773248",
+          "odds": 1.85,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058388447232",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 4,
+      "participantName": "Chelsea",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/4d19a56f7c6e34c48f0f5e0f07bf9ac5.png"
+    }
+  },
+  "181613058617036800": {
+    "startTime": "2022-10-01 14:00:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 15,
+      "participantName": "Southampton FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2006.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "181613058669533696",
+          "offerId": "182026850929121536",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058617036800",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Everton",
+          "outcomeId": "181613058668482560",
+          "offerId": "182026850929120512",
+          "odds": 3.3,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058617036800",
+          "bettingTypeId": 69,
+          "participantReference": 7
+        },
+        {
+          "selection": "Southampton FC",
+          "outcomeId": "181613058669532160",
+          "offerId": "182026850931218432",
+          "odds": 2.15,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058617036800",
+          "bettingTypeId": 69,
+          "participantReference": 15
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Southampton FC (-0.25)",
+          "outcomeId": "181613058668483328",
+          "offerId": "182026850928071168",
+          "odds": 1.89,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058617036800",
+          "bettingTypeId": 48,
+          "participantReference": 15
+        },
+        {
+          "selection": "Everton (+0.25)",
+          "outcomeId": "181613058667435264",
+          "offerId": "182026850928071424",
+          "odds": 2.01,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058617036800",
+          "bettingTypeId": 48,
+          "participantReference": 7
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.5",
+          "outcomeId": "181613058662191104",
+          "offerId": "182026850929121024",
+          "odds": 1.99,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058617036800",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "181613058661142528",
+          "offerId": "182026850928071936",
+          "odds": 1.91,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058617036800",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 7,
+      "participantName": "Everton",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1992.png"
+    }
+  },
+  "181662784551964672": {
+    "startTime": "2022-10-01 14:00:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 64,
+      "participantName": "Bournemouth AFC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/66cc758c57af843283eff5c35867a8c7.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Bournemouth AFC",
+          "outcomeId": "181678505035481088",
+          "offerId": "182026770934306816",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 69,
+          "participantReference": 64
+        },
+        {
+          "selection": "Brentford",
+          "outcomeId": "181678505034432512",
+          "offerId": "182026770931159808",
+          "odds": 2.1,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 69,
+          "participantReference": 65
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "181678505035481344",
+          "offerId": "182026770932211200",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 69
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Brentford (-0.5)",
+          "outcomeId": "181678666673451008",
+          "offerId": "182028048017035264",
+          "odds": 2.075,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 48,
+          "participantReference": 65
+        },
+        {
+          "selection": "Brentford (-0.25)",
+          "outcomeId": "181662784629936384",
+          "offerId": "182026770932209408",
+          "odds": 1.86,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 48,
+          "participantReference": 65
+        },
+        {
+          "selection": "Bournemouth AFC (+0.25)",
+          "outcomeId": "181662784629936640",
+          "offerId": "182026770931160320",
+          "odds": 2.04,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 48,
+          "participantReference": 64
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.25",
+          "outcomeId": "181678729314130432",
+          "offerId": "182028314659428608",
+          "odds": 2.075,
+          "paramFloat1": 2.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 2.5",
+          "outcomeId": "181662784629936896",
+          "offerId": "182026770933256448",
+          "odds": 2.04,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "181662784629936128",
+          "offerId": "182026770931160576",
+          "odds": 1.86,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181662784551964672",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 65,
+      "participantName": "Brentford",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2064.png"
+    }
+  },
+  "181662784709251072": {
+    "startTime": "2022-10-01 14:00:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 46,
+      "participantName": "Fulham",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1986.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "181678505016606976",
+          "offerId": "182026850933313536",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181662784709251072",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Fulham",
+          "outcomeId": "181678505016607488",
+          "offerId": "182026850932267776",
+          "odds": 3,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181662784709251072",
+          "bettingTypeId": 69,
+          "participantReference": 46
+        },
+        {
+          "selection": "Newcastle United FC",
+          "outcomeId": "181678505016607232",
+          "offerId": "182026850935411456",
+          "odds": 2.25,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181662784709251072",
+          "bettingTypeId": 69,
+          "participantReference": 13
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Newcastle United FC (-0.25)",
+          "outcomeId": "181662784766251008",
+          "offerId": "182026850933313792",
+          "odds": 2.03,
+          "paramFloat1": -0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181662784709251072",
+          "bettingTypeId": 48,
+          "participantReference": 13
+        },
+        {
+          "selection": "Fulham (+0.25)",
+          "outcomeId": "181662784766251776",
+          "offerId": "182026850934364672",
+          "odds": 1.87,
+          "paramFloat1": 0.25,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181662784709251072",
+          "bettingTypeId": 48,
+          "participantReference": 46
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.5",
+          "outcomeId": "181662784766251264",
+          "offerId": "182026850932265728",
+          "odds": 1.95,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181662784709251072",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "181662784766251520",
+          "offerId": "182026850933314304",
+          "odds": 1.95,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181662784709251072",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 13,
+      "participantName": "Newcastle United FC",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2000.png"
+    }
+  },
+  "181613058471284736": {
+    "startTime": "2022-10-01 16:30:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 19,
+      "participantName": "West Ham United",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1980.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "181613058533216512",
+          "offerId": "182026850965823232",
+          "odds": 3.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "West Ham United",
+          "outcomeId": "181613058529022976",
+          "offerId": "182026850966868736",
+          "odds": 1.95,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 69,
+          "participantReference": 19
+        },
+        {
+          "selection": "Wolverhampton Wanderers",
+          "outcomeId": "181613058531119104",
+          "offerId": "182026850966868224",
+          "odds": 3.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 69,
+          "participantReference": 62
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "West Ham United (-0.5)",
+          "outcomeId": "181613058529024512",
+          "offerId": "182026850964774144",
+          "odds": 1.99,
+          "paramFloat1": -0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 48,
+          "participantReference": 19
+        },
+        {
+          "selection": "Wolverhampton Wanderers (+0.5)",
+          "outcomeId": "181613058527974400",
+          "offerId": "182026850966871808",
+          "odds": 1.91,
+          "paramFloat1": 0.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 48,
+          "participantReference": 62
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.25",
+          "outcomeId": "181613058532170240",
+          "offerId": "182026850966871552",
+          "odds": 1.86,
+          "paramFloat1": 2.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.25",
+          "outcomeId": "181613058527973888",
+          "offerId": "182026850966871296",
+          "odds": 2.04,
+          "paramFloat1": 2.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 2.5",
+          "outcomeId": "181613058530071808",
+          "offerId": "182026850964773632",
+          "odds": 2.075,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058471284736",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 62,
+      "participantName": "Wolverhampton Wanderers",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2058.png"
+    }
+  },
+  "181613058696728576": {
+    "startTime": "2022-10-02 13:00:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 50,
+      "participantName": "Manchester City",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/57060f6368da70fbdfff37cb4b0280a5.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "181613058749223680",
+          "offerId": "182026850903956992",
+          "odds": 5.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058696728576",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Manchester City",
+          "outcomeId": "181613058745029120",
+          "offerId": "182026850907101440",
+          "odds": 1.333,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058696728576",
+          "bettingTypeId": 69,
+          "participantReference": 50
+        },
+        {
+          "selection": "Manchester United",
+          "outcomeId": "181613058749222912",
+          "offerId": "182026850903957248",
+          "odds": 7.5,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058696728576",
+          "bettingTypeId": 69,
+          "participantReference": 11
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Manchester City (-1.5)",
+          "outcomeId": "181613058747127040",
+          "offerId": "182026850905004032",
+          "odds": 1.95,
+          "paramFloat1": -1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058696728576",
+          "bettingTypeId": 48,
+          "participantReference": 50
+        },
+        {
+          "selection": "Manchester United (+1.5)",
+          "outcomeId": "181613058745028608",
+          "offerId": "182026850903956736",
+          "odds": 1.95,
+          "paramFloat1": 1.5,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058696728576",
+          "bettingTypeId": 48,
+          "participantReference": 11
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 3.25",
+          "outcomeId": "181613058745028864",
+          "offerId": "182026850903955456",
+          "odds": 1.95,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058696728576",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 3.25",
+          "outcomeId": "181613058745029376",
+          "offerId": "182026850907101184",
+          "odds": 1.95,
+          "paramFloat1": 3.25,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058696728576",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 11,
+      "participantName": "Manchester United",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1996.png"
+    }
+  },
+  "181613058298269696": {
+    "startTime": "2022-10-02 15:30:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 7048545738178560,
+      "participantName": "Leeds United",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/8dafff7a4bc7ae83eb47335fae1bd0e9.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Aston Villa",
+          "outcomeId": "181613058371738112",
+          "offerId": "182026770911238144",
+          "odds": 2.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 69,
+          "participantReference": 2
+        },
+        {
+          "selection": "Draw",
+          "outcomeId": "181613058365445376",
+          "offerId": "182026770912284672",
+          "odds": 3.4,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Leeds United",
+          "outcomeId": "181613058372784128",
+          "offerId": "182026770912285952",
+          "odds": 2.6,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 69,
+          "participantReference": 7048545738178560
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Aston Villa (0)",
+          "outcomeId": "181613058370689280",
+          "offerId": "182026770914384640",
+          "odds": 1.97,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 48,
+          "participantReference": 2
+        },
+        {
+          "selection": "Leeds United (0)",
+          "outcomeId": "181613058369638656",
+          "offerId": "182026770910187776",
+          "odds": 1.93,
+          "paramFloat1": 0,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 48,
+          "participantReference": 7048545738178560
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Under 2.5",
+          "outcomeId": "181613058370688256",
+          "offerId": "182026770914382336",
+          "odds": 2.075,
+          "paramFloat1": 2.5,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Over 2.75",
+          "outcomeId": "181613058370686976",
+          "offerId": "182026770913336576",
+          "odds": 1.97,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "181613058369640192",
+          "offerId": "182026770914384896",
+          "odds": 1.93,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181613058298269696",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 2,
+      "participantName": "Aston Villa",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/1976.png"
+    }
+  },
+  "181679042888519680": {
+    "startTime": "2022-10-03 19:00:00.000",
+    "leagueName": "EPL",
+    "Home": {
+      "participantId": 9,
+      "participantName": "Leicester City",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2024.png"
+    },
+    "offers": {
+      "Home_Away": [
+        {
+          "selection": "Draw",
+          "outcomeId": "181679042961240576",
+          "offerId": "182026850899760128",
+          "odds": 3.8,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181679042888519680",
+          "bettingTypeId": 69
+        },
+        {
+          "selection": "Leicester City",
+          "outcomeId": "181679042960192000",
+          "offerId": "182026850899762688",
+          "odds": 1.75,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181679042888519680",
+          "bettingTypeId": 69,
+          "participantReference": 9
+        },
+        {
+          "selection": "Nottingham Forest",
+          "outcomeId": "181679042960191744",
+          "offerId": "182026850900807936",
+          "odds": 4.2,
+          "paramFloat1": null,
+          "market": "Home Draw Away",
+          "eventPartId": 3,
+          "eventId": "181679042888519680",
+          "bettingTypeId": 69,
+          "participantReference": 52
+        }
+      ],
+      "Asian_Handicap": [
+        {
+          "selection": "Leicester City (-0.75)",
+          "outcomeId": "181679042953908736",
+          "offerId": "182596718098984960",
+          "odds": 2.05,
+          "paramFloat1": -0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181679042888519680",
+          "bettingTypeId": 48,
+          "participantReference": 9
+        },
+        {
+          "selection": "Nottingham Forest (+0.75)",
+          "outcomeId": "181679042954956800",
+          "offerId": "182596718100033536",
+          "odds": 1.85,
+          "paramFloat1": 0.75,
+          "market": "Asian Handicap",
+          "eventPartId": 3,
+          "eventId": "181679042888519680",
+          "bettingTypeId": 48,
+          "participantReference": 52
+        }
+      ],
+      "Over_Under": [
+        {
+          "selection": "Over 2.75",
+          "outcomeId": "181679042953908224",
+          "offerId": "182026850902904832",
+          "odds": 1.9,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181679042888519680",
+          "bettingTypeId": 47
+        },
+        {
+          "selection": "Under 2.75",
+          "outcomeId": "181679042953908480",
+          "offerId": "182026850898712064",
+          "odds": 2,
+          "paramFloat1": 2.75,
+          "market": "Over/Under",
+          "eventPartId": 3,
+          "eventId": "181679042888519680",
+          "bettingTypeId": 47
+        }
+      ]
+    },
+    "Away": {
+      "participantId": 52,
+      "participantName": "Nottingham Forest",
+      "participantFirstName": null,
+      "participantLastName": null,
+      "participantShortName": null,
+      "logoUrl": "https://v3.cdnsfree.com/sfiles/logo_teams/2022.png"
+    }
+  }
+}
